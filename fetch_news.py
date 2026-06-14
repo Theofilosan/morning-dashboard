@@ -18,7 +18,7 @@ DR_RSS_URL = "https://www.dr.dk/nyheder/service/feeds/senestenyt"
 feed = feedparser.parse(DR_RSS_URL)
 
 articles = []
-for entry in feed.entries[:5]: # will add more articles later
+for entry in feed.entries[:7]: # will add more articles later
     articles.append({
         "title": entry.title,
         "summary": entry.summary if 'summary' in entry else "",
@@ -27,8 +27,13 @@ for entry in feed.entries[:5]: # will add more articles later
 
 # agency prompt
 prompt = f"""
-You are a helpful news assistant. Translate the following Danish news articles into English. 
-Provide a concise 1-sentence summary for each. 
+You are an expert news analyst. Translate the following Danish news articles into English. 
+
+For each article, provide a detailed summary (3-4 sentences) that highlights:
+1. What the main event/news is.
+2. Why it is important or what the consequences are.
+3. Any key figures, locations, or dates mentioned.
+
 Return ONLY a raw JSON list of objects, where each object has 'title', 'summary', and 'link'. 
 Do not include any markdown formatting, do not include ```json or any conversational text.
 
