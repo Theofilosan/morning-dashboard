@@ -15,49 +15,50 @@ if not API_KEY:
 # Initialize the Groq client
 client = Groq(api_key=API_KEY)
 
-# 1. Fetch Danish News (DR RSS feed)
-dr_url = "https://www.dr.dk/nyheder/service/feeds/senestenyt"
-dr_feed = feedparser.parse(dr_url)
-denmark_articles = []
-for entry in dr_feed.entries[:5]:
-    denmark_articles.append({
-        "title": entry.title,
-        "summary": entry.summary if 'summary' in entry else "",
-        "link": entry.link
-    })
+def fetch_feed_entries(url, limit=10):
+    """Helper function to fetch and clean RSS feed entries."""
+    feed = feedparser.parse(url)
+    articles = []
+    for entry in feed.entries[:limit]:
+        articles.append({
+            "title": entry.title,
+            "summary": entry.summary if 'summary' in entry else "",
+            "link": entry.link
+        })
+    return articles
 
-# 2. Fetch Greek News (ERT RSS feed)
-ert_url = "https://www.ertnews.gr/feed/"
-ert_feed = feedparser.parse(ert_url)
-greece_articles = []
-for entry in ert_feed.entries[:5]:
-    greece_articles.append({
-        "title": entry.title,
-        "summary": entry.summary if 'summary' in entry else "",
-        "link": entry.link
-    })
+# 1. Fetching raw news from various sources (10 articles each to allow AI filtering)
+print("Fetching RSS feeds...")
+raw_denmark = fetch_feed_entries("https://www.dr.dk/nyheder/service/feeds/senestenyt")
+raw_greece = fetch_feed_entries("https://www.ertnews.gr/feed/")
+raw_world = fetch_feed_entries("http://feeds.bbci.co.uk/news/world/rss.xml")
+raw_tech = fetch_feed_entries("https://techcrunch.com/feed/")
+raw_sports = fetch_feed_entries("https://www.gazzetta.gr/rss")
 
-# 3. Construct the prompt for the AI Agent
+# 2. Construct the prompt with strict filtering instructions
 prompt = f"""
-You are an expert news analyst. Translate the following Danish and Greek news articles into English.
+You are an elite news editor. Analyze the provided lists of recent news articles across 5 categories.
+Your task is to filter, select, and translate the top 3-4 MOST IMPORTANT and impactful stories for each category. Skip minor or repetitive news.
 
-For each article, provide a detailed summary (3-4 sentences) highlighting the main event, why it matters, and any key figures or locations.
+For each selected article, generate a detailed 3-4 sentence summary in English explaining what happened, why it matters, and any critical figures/consequences.
 
-Return a JSON object with two keys: 'denmark' and 'greece'. Each key must contain a list of the translated articles.
+Return a strict JSON object with exactly these 5 keys: 'world', 'tech', 'sports', 'denmark', 'greece'. Each key must contain a list of your top selected articles.
 
-Danish Articles:
-{json.dumps(denmark_articles, ensure_ascii=False)}
-
-Greek Articles:
-{json.dumps(greece_articles, ensure_ascii=False)}
+Raw Data to Analyze:
+- World News: {json.dumps(raw_world, ensure_ascii=False)}
+- Tech News: {json.dumps(raw_tech, ensure_ascii=False)}
+- Sports News (Greek & International Football/Basketball): {json.dumps(raw_sports, ensure_ascii=False)}
+- Denmark News: {json.dumps(raw_denmark, ensure_ascii=False)}
+- Greece News: {json.dumps(raw_greece, ensure_ascii=False)}
 """
 
-# Call the Groq API with forced JSON Mode
+print("Analyzing and filtering news via AI Agent...")
+# Call the Groq API using JSON mode
 completion = client.chat.completions.create(
     model="llama-3.1-8b-instant",
     messages=[{"role": "user", "content": prompt}],
-    response_format={"type": "json_object"}, # Enforces strict JSON output from the model
-    temperature=0.1
+    response_format={"type": "json_object"},
+    temperature=0.2 # Slightly higher for better editorial judgment
 )
 
 output_text = completion.choices[0].message.content.strip()
@@ -67,8 +68,8 @@ try:
     json_data = json.loads(output_text)
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(json_data, f, ensure_ascii=False, indent=4)
-    print("News from Denmark and Greece updated successfully!")
+    print("Dashboard data curated successfully!")
 except json.JSONDecodeError:
     print("Error: The model did not return a valid JSON format. Raw output:")
     print(output_text)
-    sys.exit(1) # Force GitHub Actions to fail if file was not created
+    sys.exit(1)
