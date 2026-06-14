@@ -39,7 +39,6 @@
         h1 { margin: 0; font-size: 2rem; }
         .date { color: var(--text-muted); font-size: 0.9rem; margin-top: 0.5rem; }
         
-        /* Weather Widget Styles */
         .weather-widget {
             background-color: var(--card-bg);
             border: 1px solid var(--border);
@@ -55,7 +54,6 @@
         .forecast-day { text-align: center; }
         .forecast-day .f-temp { font-weight: bold; }
 
-        /* 3-Column Responsive Grid */
         .dashboard-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -76,6 +74,27 @@
         .news-title a { color: var(--text-color); text-decoration: none; }
         .news-title a:hover { color: var(--accent); }
         .news-summary { color: var(--text-muted); font-size: 0.9rem; line-height: 1.5; margin: 0; }
+
+        /* Sports TV Program Grid List */
+        .tv-list {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .tv-row {
+            display: grid;
+            grid-template-columns: 60px 1fr auto;
+            gap: 1rem;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid var(--border);
+            font-size: 0.85rem;
+            align-items: center;
+        }
+        .tv-row:last-child { border-bottom: none; }
+        .tv-time { color: var(--accent); font-weight: bold; }
+        .tv-event { color: var(--text-color); font-weight: 500; }
+        .tv-channel { background-color: #27272a; color: var(--text-muted); padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; white-space: nowrap; }
     </style>
 </head>
 <body>
@@ -101,36 +120,36 @@
             </div>
 
             <div>
-                <h2 class="section-title">Denmark Focus</h2>
+                <h2 class="section-title">Denmark Focus (EN)</h2>
                 <div id="denmark-news" class="news-container"><p>Loading...</p></div>
                 <br>
-                <h2 class="section-title">Greece Focus</h2>
+                <h2 class="section-title">Greece Focus (GR)</h2>
                 <div id="greece-news" class="news-container"><p>Loading...</p></div>
             </div>
 
             <div>
                 <h2 class="section-title">Sports Arena</h2>
                 <div id="sports-news" class="news-container"><p>Loading...</p></div>
+                <br>
+                <h2 class="section-title">Πρόγραμμα TV</h2>
+                <div id="tv-program" class="tv-list">
+                    <p style="padding: 1rem; margin: 0;">Loading TV Guide...</p>
+                </div>
             </div>
         </main>
     </div>
 
     <script>
-        // Set current date
         const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
         document.getElementById('current-date').innerText = new Date().toLocaleDateString('en-US', options);
 
-        // Fetch Live Copenhagen Weather (Open-Meteo API - No Key Required)
-        // Coordinates for Copenhagen: Lat 55.6761, Lon 12.5683
+        // Fetch Copenhagen Weather
         const weatherUrl = "https://api.open-meteo.com/v1/forecast?latitude=55.6761&longitude=12.5683&current_weather=true&daily=temperature_2m_max,temperature_2m_min&timezone=Europe%2FCopenhagen";
-        
         fetch(weatherUrl)
             .then(res => res.json())
             .then(wData => {
                 const current = wData.current_weather;
                 const daily = wData.daily;
-                
-                // Construct Weather UI
                 let html = `
                     <div class="weather-current">
                         <div><b>Copenhagen</b></div>
@@ -139,8 +158,6 @@
                     </div>
                     <div class="weather-forecast">
                 `;
-                
-                // Build 3-day forecast loop
                 for(let i = 1; i <= 3; i++) {
                     const fDate = new Date(daily.time[i]).toLocaleDateString('en-US', { weekday: 'short' });
                     html += `
@@ -154,11 +171,9 @@
                 html += `</div>`;
                 document.getElementById('weather-widget').innerHTML = html;
             })
-            .catch(() => {
-                document.getElementById('weather-widget').innerHTML = "<p>Weather unavailable</p>";
-            });
+            .catch(() => { document.getElementById('weather-widget').innerHTML = "<p>Weather unavailable</p>"; });
 
-        // Fetch curated news.json
+        // Fetch Compiled Dashboard Data
         fetch('news.json')
             .then(response => {
                 if (!response.ok) throw new Error('No news data found');
@@ -183,16 +198,32 @@
                     });
                 };
 
-                // Populate UI categories
+                // Render News Categories
                 renderColumn('world-news', data.world);
                 renderColumn('tech-news', data.tech);
                 renderColumn('denmark-news', data.denmark);
                 renderColumn('greece-news', data.greece);
                 renderColumn('sports-news', data.sports);
+
+                // Render Sports TV Schedule Grid
+                const tvContainer = document.getElementById('tv-program');
+                tvContainer.innerHTML = '';
+                if(data.tv_program && data.tv_program.length > 0) {
+                    data.tv_program.forEach(item => {
+                        const row = document.createElement('div');
+                        row.className = 'tv-row';
+                        row.innerHTML = `
+                            <span class="tv-time">${item.time}</span>
+                            <span class="tv-event">${item.event}</span>
+                            <span class="tv-channel">${item.channel}</span>
+                        `;
+                        tvContainer.appendChild(row);
+                    });
+                } else {
+                    tvContainer.innerHTML = '<p style="padding: 1rem; margin: 0;">Δεν βρέθηκαν προγραμματισμένες μεταδόσεις για σήμερα.</p>';
+                }
             })
-            .catch(error => {
-                console.error(error);
-            });
+            .catch(error => { console.error(error); });
     </script>
 </body>
 </html>
