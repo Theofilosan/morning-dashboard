@@ -1,0 +1,76 @@
+{
+    "denmark": [
+        {
+            "title": "Israel attacks Hezbollah targets in Beirut",
+            "summary": "Israel has launched airstrikes against Hezbollah targets in Beirut, Lebanon. The attack is a significant escalation of tensions between Israel and Hezbollah, a militant group backed by Iran. The attack has raised concerns about the stability of the region and the potential for further conflict.",
+            "link": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut",
+            "location": "Beirut, Lebanon",
+            "key figures": "Israel, Hezbollah"
+        },
+        {
+            "title": "Switzerland rejects population growth projections",
+            "summary": "Switzerland has rejected population growth projections, citing concerns about the impact of immigration on the country's infrastructure and resources. The decision has been met with criticism from some quarters, who argue that it is necessary to address the country's aging population and declining birth rates.",
+            "link": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser",
+            "location": "Switzerland",
+            "key figures": "Switzerland"
+        },
+        {
+            "title": "Vandalism and arrests during Knicks celebration in New York",
+            "summary": "Vandalism and arrests have been reported during a celebration of the New York Knicks' victory in the NBA playoffs. The celebration turned violent, with fans damaging property and clashing with police. Several people were arrested in connection with the incident.",
+            "link": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york",
+            "location": "New York, USA",
+            "key figures": "New York Knicks"
+        },
+        {
+            "title": "UK seizes Russian oil tanker",
+            "summary": "The UK has seized a Russian oil tanker, citing concerns about the country's involvement in the conflict in Ukraine. The move has been met with criticism from Russia, which has accused the UK of interfering in its internal affairs.",
+            "link": "https://www.dr.dk/nyheder/seneste/storbritannien-tilbageholder-russisk-olietankskib",
+            "location": "UK",
+            "key figures": "UK, Russia"
+        },
+        {
+            "title": "Former minister Torsten Schack Pedersen quits politics after 21 years",
+            "summary": "Former Danish minister Torsten Schack Pedersen has announced his retirement from politics after 21 years in office. Pedersen has been a key figure in Danish politics, serving as minister for several portfolios, including defense and foreign affairs.",
+            "link": "https://www.dr.dk/nyheder/seneste/tidligere-minister-torsten-schack-pedersen-stopper-i-politik-efter-21-aar",
+            "location": "Denmark",
+            "key figures": "Torsten Schack Pedersen"
+        }
+    ],
+    "greece": [
+        {
+            "title": "Pharmacist claims production of substances was done according to medical prescriptions",
+            "summary": "A pharmacist has testified to the investigating magistrate that the production of substances was done according to medical prescriptions. The testimony is part of an ongoing investigation into the production and distribution of pharmaceutical substances and doping substances.",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/xalandri-i-paragogi-skeyasmaton-ginotan-symfona-me-iatrikes-syntages-isxyristike-o-farmakopoios/",
+            "location": "Chalandri, Greece",
+            "key figures": "Pharmacist"
+        },
+        {
+            "title": "Delirium for Vassilis Spanoulis in Aris - Grand welcome prepared for him in Thessaloniki",
+            "summary": "Vassilis Spanoulis is expected to arrive in Thessaloniki in a few hours and the fans of Aris are preparing a grand welcome for the \"legend\" of Greek basketball and now coach of the team. According to sources, Spanoulis is expected to arrive at the Macedonia airport at 19:00.",
+            "link": "https://www.ertnews.gr/athlitismos/ntelirio-gia-vasili-spanouli-ston-ari-megaleiodi-ypodoxi-etoimazoun-apopse-oi-filathloi-sti-thessaloniki/",
+            "location": "Thessaloniki, Greece",
+            "key figures": "Vassilis Spanoulis"
+        },
+        {
+            "title": "Party until dawn for Olympiacos for the championship and Euroleague",
+            "summary": "The basketball team of Olympiacos celebrated the championship and the Euroleague until dawn in a nightclub. Sasha Vujacic was the MVP on the court and also in the nightclub, where he danced to the rhythms of Bangaranga, the Bulgarian song that won the Eurovision.",
+            "link": "https://www.ertnews.gr/eidiseis/glenti-mexri-proias-tou-olympiakou-gia-tin-kataktisi-protathlimatos-kai-euroleague/",
+            "location": "Greece",
+            "key figures": "Sasha Vujacic"
+        },
+        {
+            "title": "Iran's 'weak' president Pezeshkian survived the war - Peace may prove a more difficult challenge",
+            "summary": "As an interim agreement for a ceasefire with the United States appears increasingly likely, internal challenges for Iranian President Masoud Pezeshkian may soon multiply. If a deal is reached, Pezeshkian will have to deal with many post-war issues, but he is likely to emerge from it with greater credibility within the Iranian establishment.",
+            "link": "https://www.ertnews.gr/eidiseis/diethni/o-iranos-adynamos-proedros-pezeskian-epezise-tou-polemou-i-eirini-mporei-na-apodeixthei-pio-dyskoli-proklisi/",
+            "location": "Iran",
+            "key figures": "Masoud Pezeshkian"
+        },
+        {
+            "title": "Guinness record for the largest simultaneous zeibekiko dance in Thessaloniki",
+            "summary": "Thessaloniki has set the Guinness record for the largest simultaneous zeibekiko dance, with 830 people from Greece and abroad participating, including even from distant Beijing. The dance was held in the Aristotelous Square and was accompanied by the song 'Mia Thessaloniki' by Konstantinos Argyros.",
+            "link": "https://www.ertnews.gr/ert3/sti-thessaloniki-to-rekor-gkines-gia-ti-megalyteri-taytoxroni-xorografia-zeimpeikou/",
+            "location": "Thessaloniki, Greece",
+            "key figures": "Konstantinos Argyros"
+        }
+    ]
+}
