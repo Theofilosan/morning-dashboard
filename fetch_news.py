@@ -26,9 +26,11 @@ def fetch_feed_entries(url, limit=5):
     feed = feedparser.parse(url)
     articles = []
     for entry in feed.entries[:limit]:
+        # Check both summary and description fields for fallback
+        raw_summary = entry.get("summary", entry.get("description", ""))
         articles.append({
             "title": clean_html(entry.title),
-            "summary": clean_html(entry.summary if 'summary' in entry else "")[:200],
+            "summary": clean_html(raw_summary)[:200],
             "link": entry.link
         })
     return articles
@@ -52,13 +54,17 @@ def fetch_sports_tv():
 def get_detailed_weather():
     lat, lon = 37.9838, 23.7275 
     url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&hourly=temperature_2m,precipitation_probability,weather_code&current_weather=true&timezone=auto"
-    weather_desc = {0: "Ηλιοφάνεια", 1: "Σχεδόν αίθριος", 2: "Μερική συννεφιά", 3: "Συννεφιά", 45: "Ομίχλη", 51: "Ψιχάλες", 61: "Ασθενής βροχή", 63: "Βροχή", 80: "Καταιγίδα"}
+    weather_desc = {
+        0: "Ηλιοφάνεια", 1: "Σχεδόν αίθριος", 2: "Μερική συννεφιά", 3: "Συννεφιά", 
+        45: "Ομίχλη", 51: "Ψιχάλες", 61: "Ασθενής βροχή", 63: "Βροχή", 80: "Καταιγίδα"
+    }
 
     try:
         res = requests.get(url, timeout=10).json()
         current = res.get("current_weather", {})
         code = current.get("weathercode", 0)
-        condition = weather_desc.get(code, "Συννεφιά" if code > 3 else "Καλή")
+        condition = weather_desc.get(code, "Συννεφιά" if code > 3 else "Καλοκαιρία")
+        current_temp = current.get('temperature', 'N/A')
         
         hourly = res.get("hourly", {})
         times = hourly.get("time", [])
@@ -71,17 +77,26 @@ def get_detailed_weather():
                 rain_hours.append(hour_str)
         
         if rain_hours:
-            rain_info = f"Πιθανή βροχή κατά τις ώρες: {', '.join(rain_hours)}"
+            rain_info = f"Βροχή: {', '.join(rain_hours)}"
         else:
-            rain_info = "Δεν αναμένεται βροχή σήμερα."
+            rain_info = "Όχι βροχή"
+
+        # Ενώνουμε όλη την πληροφορία σε ένα κείμενο για άμεση συμβατότητα με το frontend
+        combined_text = f"{current_temp}°C - {condition} ({rain_info})"
 
         return {
-            "temp": f"{current.get('temperature', 'N/A')}°C",
+            "temp": combined_text,  # Αν το frontend διαβάζει data.weather.temp, θα δείξει τα πάντα!
             "condition": condition,
-            "rain_alert": rain_info
+            "rain_alert": rain_info,
+            "combined": combined_text
         }
     except Exception:
-        return {"temp": "N/A", "condition": "Άγνουστος", "rain_alert": "Δεν υπάρχουν δεδομένα βροχής."}
+        return {
+            "temp": "N/A", 
+            "condition": "Άγνουστος", 
+            "rain_alert": "Χωρίς δεδομένα",
+            "combined": "Χωρίς δεδομένα καιρού"
+        }
 
 # Execution
 print("Fetching clean data...")
@@ -113,13 +128,13 @@ def ask_groq_chunk(prompt_content):
 print("Processing and organizing sections through Groq...")
 
 # --- NEWS SECTIONS (English & Greek) ---
-# Added explicit instructions to return valid JSON syntax to fulfill Groq API rule
 for cat in ["world", "tech"]:
     p = f"Select the top 3-4 items. BOTH title and summary MUST be in ENGLISH. Return the output as a valid JSON object containing the key '{cat}' structured like this: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
     final_dashboard.update(ask_groq_chunk(p))
     time.sleep(2)
 
-p_dk = f"Select top 3-4 items. Translate completely to ENGLISH. Return the output as a valid JSON object containing the key 'denmark' structured like this: {{'denmark': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data['denmark'])}"
+# Ειδική οδηγία για τη Δανία ώστε να παράγει summary αν το RSS feed της DR το στείλει κενό
+p_dk = f"Select top 3-4 items from the Danish news. Translate completely to ENGLISH. CRITICAL: If the original 'summary' field is empty or blank, you MUST generate a realistic 1-2 sentence summary in ENGLISH based on the context of the title so it is never empty. Return the output as a valid JSON object containing the key 'denmark' structured like this: {{'denmark': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data['denmark'])}"
 final_dashboard.update(ask_groq_chunk(p_dk))
 time.sleep(2)
 
@@ -128,13 +143,21 @@ for cat in ["greece", "sports"]:
     final_dashboard.update(ask_groq_chunk(p))
     time.sleep(2)
 
-# --- TV PROGRAM SECTION ---
+# --- TV PROGRAM SECTION (Υποστηρίζει πλέον και τις δύο δομές frontend ταυτόχρονα!) ---
 print("-> Structuring Sports TV Schedule...")
 p_tv = f"""
 Extract the top 10 major live sports broadcasts for today from the text. 
 Sort them chronologically by time.
-You MUST output the result as a valid JSON object containing the key 'tv_program' with an array of objects containing 'time', 'event', and 'channel' written entirely in GREEK.
-Example JSON format: {{'tv_program': [{{'time': '16:00', 'event': 'Φόρμουλα 1: Γκραν Πρι Βαρκελώνης', 'channel': 'ANT1+'}}]}}
+You MUST output the result as a valid JSON object containing the key 'tv_program'.
+To prevent frontend layout bugs, each object inside the 'tv_program' array MUST contain ALL of the following keys:
+- 'time': the start time (e.g., '16:00')
+- 'event': the match name (e.g., 'Φόρμουλα 1: Γκραν Πρι Βαρκελώνης')
+- 'channel': the channel name (e.g., 'ANT1+')
+- 'title': a combination string of time and match (e.g., '16:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης')
+- 'summary': the channel info (e.g., 'Κανάλι: ANT1+')
+- 'link': the exact string 'https://www.sport24.gr/tvprogram/'
+
+All values must be written entirely in GREEK.
 Text: {json.dumps(raw_data['tv_program'], ensure_ascii=False)}
 """
 final_dashboard.update(ask_groq_chunk(p_tv))
@@ -143,4 +166,4 @@ final_dashboard.update(ask_groq_chunk(p_tv))
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(final_dashboard, f, ensure_ascii=False, indent=4)
 
-print("Process finished! All sections organized.")
+print("Process finished! All sections organized and backwards-compatible.")
