@@ -1,24 +1,25 @@
 {
     "weather": {
-        "temp": "28.2°C",
+        "temp": "28.0°C - Ηλιοφάνεια (Όχι βροχή)",
         "condition": "Ηλιοφάνεια",
-        "rain_alert": "Δεν αναμένεται βροχή σήμερα."
+        "rain_alert": "Όχι βροχή",
+        "combined": "28.0°C - Ηλιοφάνεια (Όχι βροχή)"
     },
     "world": [
-        {
-            "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-            "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
-            "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
-        },
         {
             "title": "Swiss voters reject 10 million population cap, early projections say",
             "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
             "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-            "summary": "The US president's comments come as Iran says an exact date has not been decided.",
-            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+            "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+            "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+            "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Fifa to pay Somali referee Artan full World Cup fee",
+            "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
+            "link": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss"
         },
         {
             "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
@@ -50,95 +51,130 @@
     ],
     "denmark": [
         {
-            "title": "Churches offer same-day weddings on June 26",
-            "summary": "",
+            "title": "Churches Offer Immediate Marriages on June 26th",
+            "summary": "Churches in Denmark will offer immediate marriages on June 26th, allowing couples to get married quickly.",
             "link": "https://www.dr.dk/nyheder/seneste/kirker-tilbyder-straks-vielser-den-26-juni"
         },
         {
-            "title": "Israel attacks Hizbollah targets in Beirut",
-            "summary": "",
+            "title": "Israel Attacks Hizbollah Targets in Beirut",
+            "summary": "Israel has launched attacks on Hizbollah targets in Beirut, escalating tensions in the region.",
             "link": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut"
         },
         {
-            "title": "Switzerland says no to population-based air defense, shows forecasts",
-            "summary": "",
+            "title": "Switzerland Rejects Balloon Release Due to Population Projections",
+            "summary": "Switzerland has rejected a proposal to release balloons into the air due to concerns over population projections.",
             "link": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser"
         },
         {
-            "title": "Storm and several arrested during Knicks victory celebration in New York",
-            "summary": "",
+            "title": "Storm and Multiple Arrests During Knicks Victory Celebration in New York",
+            "summary": "A storm and multiple arrests occurred during the celebration of the Knicks' victory in New York.",
             "link": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york"
         }
     ],
     "greece": [
         {
-            "title": "Γκραν Πρι Ισπανίας: Ο Χάμιλτον πέτυχε την πρώτη του νίκη με τη Ferrari – Στα 41 του έγινε ο γηραιότις νικητής στην ιστορία της F1",
-            "summary": "Ο Λιούις Χάμιλτον γιόρτασε μια συγκινητική πρώτη νίκη σε Γκραν Πρι με τη Ferrari στην Βαρώλώνη, βάζοντας τέλος στη σειρά πέντε συνεχόμενων θριάμβων του Κίμι Αντονέλι και καθιστώντας τον, σε ηλικία 41",
-            "link": "https://www.ertnews.gr/athlitismos/gkran-pri-ispanias-o-xamilton-petyxe-tin-proti-tou-niki-me-ti-ferrari-sta-41-tou-egine-o-giraioteros-nikitis-stin-istoria-tis-f1/"
+            "title": "Ένα βήμα πριν από την υτουραφή συμτητικας ΗΠΑ με Ιράν – «Αγκάθι» η ισραλινή επιτεση στη νότια Βηρυτό",
+            "summary": "Μόνο οι υτουραφές μένουν, σύμφωνα με τον Ντόναλλδ Τραμπ, για σιγήσουν τα όπλα στον Περσικό και να αρχίσουν οι συνοςλής για τα καλιστώντα θέφματα που οδήσαν στη σρλαςη Ηπλιμένών Πολιτειών και Ιράν.",
+            "link": "https://www.ertnews.gr/eidiseis/diethni/live-ena-vima-prin-apo-tin-ypografi-symfonias-ipa-me-iran-agkathi-i-israilini-epithesi-sti-notia-viryto/"
+        },
+        {
+            "title": "Η επιστροφή του Έμπολα και τα μαθήματα για την επόμενη πανδημία",
+            "summary": "Το 1976, ο Ζαν-Ζακ Μουγιέμπε, ένας νεαρός επιδημιολόγος από το Κονγό, στάλθηκε να διερευνήσει μια μυστηριώδη ασθένεια που εάχε εμφανιστεί στο τροπικό δάσος κοντά σε μια καθολιώα 41",
+            "link": "https://www.ertnews.gr/eidiseis/i-epistrofi-tou-empola-kai-ta-mathimata-gia-tin-epomeni-pandimia/"
         }
     ],
     "sports": [
         {
             "title": "Τζένιφερ Λόπεζ: Πανηγύρισε έξαλλα την κατάκτηση του πρωταθλήματος από τους Νικς",
-            "summary": "Από τις celebrities στην άλλη άκρη του Ατλαντικού που πανηγύρισαν έξαλλα την κατάκτηση του πρωταθλήματος από τους Νικς ήταν και η Τζένιφερ Λλόπεζ.",
+            "summary": "Από τις celebrities στην άλλη άκρη του Ατλαντικού που πανηγύρισε έξαλλα την κατάκτηση του πρωταθλήματος από τους Νικς ήταν και η Τζένιφερ Λλόπεζ.",
             "link": "https://www.gazzetta.gr/basketball/nba/2546968/tzenifer-lopez-panigyrise-exalla-tin-kataktisi-toy-protathlimatos-apo-toys"
         },
         {
             "title": "F1: Ο Χάμιλτον πήρε στη Βαρκελώνη την πρώτη του νίκη με τη Ferrari",
-            "summary": "Ο Λούις Χάμιλτον πανηγύρισε μια συγκλονιστιώα επικράτηση στη Βαρκελώνη, εκμεταλλευόμενος την τολμηρή στρατηγιώκή της Ferrari - Εγκατέλειψε ο Κντολιλι.",
+            "summary": "Ο Λούις Χάμιλτον πανηγύρισε μια συγκλονιστιώική επικράτηση στη Βαρκελώνη, εκμεταλλευόμενος την τολμηρή στρατηγιώική της Ferrari - Εγκατέλειψε ο Κντολιλι.",
             "link": "https://www.gazzetta.gr/gmotion/2546967/f1-o-hamilton-pire-sti-barkeloni-tin-proti-toy-niki-me-ti-ferrari"
         }
     ],
     "tv_program": [
         {
-            "time": "09:00",
-            "event": "Δελτα τελλεια τελλελλονγ τηπυ τελλελλον",
-            "channel": "Αντ1+"
-        },
-        {
-            "time": "10:00",
-            "event": "Μαλλεικι τελλελλον τηπυ τελλελλον",
-            "channel": "Αντ1+"
-        },
-        {
-            "time": "11:00",
-            "event": "Μαλλεικι τελλελλον τητελλέ",
-            "channel": "Αντ1+"
-        },
-        {
             "time": "12:00",
-            "event": "Μαλλεικι τελλελλον τητελλέ",
-            "channel": "Αντ1+"
-        },
-        {
-            "time": "13:00",
-            "event": "Μαλλεικι τελλελλον τητελλέ",
-            "channel": "Αντ1+"
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ANT1+",
+            "title": "12:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ANT1+",
+            "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "14:00",
-            "event": "Μαλλεικι τελλελλον τητελλέ",
-            "channel": "Αντ1+"
-        },
-        {
-            "time": "15:00",
-            "event": "Μαλλεικι τελλελλον τητελλέ",
-            "channel": "Αντ1+"
+            "event": "Νέο Κύπελο Ελλάδος",
+            "channel": "OLTA",
+            "title": "14:00 | Νέο Κύπελο Ελλάδος",
+            "summary": "Κανάλι: OLTA",
+            "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "16:00",
-            "event": "Φελτα τελλελλον τητελλέ",
-            "channel": "Αντ1+"
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ANT1+",
+            "title": "16:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ANT1+",
+            "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "17:00",
-            "event": "Μαλλεικι τελλελλον τητελλέ",
-            "channel": "Αντ1+"
+            "event": "Νέο Κύπελο Ελλάδος",
+            "channel": "OLTA",
+            "title": "17:00 | Νέο Κύπελο Ελλάδος",
+            "summary": "Κανάλι: OLTA",
+            "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "18:00",
-            "event": "Μαλλεικι τελλελλον τητελλέ",
-            "channel": "Αντ1+"
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ANT1+",
+            "title": "18:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ANT1+",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "19:00",
+            "event": "Νέο Κύπελο Ελλάδος",
+            "channel": "OLTA",
+            "title": "19:00 | Νέο Κύπελο Ελλάδος",
+            "summary": "Κανάλι: OLTA",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "20:00",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ANT1+",
+            "title": "20:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ANT1+",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "21:00",
+            "event": "Νέο Κύπελο Ελλάδος",
+            "channel": "OLTA",
+            "title": "21:00 | Νέο Κύπελο Ελλάδος",
+            "summary": "Κανάλι: OLTA",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "22:00",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ANT1+",
+            "title": "22:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ANT1+",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "23:00",
+            "event": "Νέο Κύπελο Ελλάδος",
+            "channel": "OLTA",
+            "title": "23:00 | Νέο Κύπελο Ελλάδος",
+            "summary": "Κανάλι: OLTA",
+            "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
 }
