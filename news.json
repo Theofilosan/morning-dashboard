@@ -1,76 +1,77 @@
 {
+    "world": [
+        {
+            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+            "summary": "US President Donald Trump has announced that a deal between the US and Iran will be signed on Sunday, despite Tehran casting doubt on the timing. The deal aims to ease tensions between the two countries and prevent further conflict. The move comes as Iran's President Hassan Rouhani has expressed skepticism about the deal, citing concerns over its terms and the US's commitment to it.",
+            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Swiss voters reject 10 million population cap, early projections say",
+            "summary": "Swiss voters have rejected a proposal to cap the country's population at 10 million, with early projections suggesting that 55% of participants voted against the proposal. The proposal was put forward by the Swiss People's Party, which argued that the country's population was growing too quickly and putting pressure on infrastructure and resources.",
+            "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+            "summary": "Russian families are using AI technology to create digital 'resurrections' of loved ones killed in Ukraine, in a highly controversial trend that lies at the intersection of Russia's war on Ukraine, new AI technologies, and grief. The technology uses AI algorithms to create digital avatars of the deceased, which can be used to communicate with family members and friends.",
+            "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss"
+        }
+    ],
+    "tech": [
+        {
+            "title": "As Anthropic suspends access to new models, India debates its AI future",
+            "summary": "The suspension of access to new AI models by Anthropic has sparked a debate in India about the country's AI future. Tech leaders are discussing whether the Anthropic episode is a wake-up call for India's AI ambitions, and whether the country should prioritize developing its own AI capabilities or rely on foreign companies.",
+            "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+        },
+        {
+            "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+            "summary": "Meta is reportedly moving to unwind its $2 billion Manus acquisition after Beijing ordered the deal to be reversed. The move comes as Meta faces increasing scrutiny from Chinese authorities over its business practices and data handling.",
+            "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+        },
+        {
+            "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+            "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday. The move comes as Anthropic faces increasing scrutiny from governments and regulators over its AI models and data handling.",
+            "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+        }
+    ],
+    "sports": [
+        {
+            "title": "New York Knicks win NBA championship for first time in over 50 years",
+            "summary": "The New York Knicks have won the NBA championship for the first time in over 50 years, defeating the San Antonio Spurs 94-90 in the fifth game of the best-of-seven series. The win marks a historic moment for the Knicks and their fans, who have been waiting for decades for a championship.",
+            "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Μουντιάλ 2026: Μετά την κλοπή η Αγγλία αντιμέτωπη και με ανεμοστρόβιλο",
+            "summary": "England is facing a new challenge at the 2026 World Cup, as a tornado warning has been issued for Kansas City. The team is already dealing with the aftermath of a recent theft, and now they must contend with the threat of severe weather.",
+            "link": "https://www.gazzetta.gr/football/mundial/2546956/moyntial-2026-meta-tin-klopi-i-agglia-antimetopi-kai-me-anemostrobilo"
+        },
+        {
+            "title": "Κουζμίνσκας για την κατάκτηση του τίτλου από τους Νικς: «Περήφανος που δεν έκανα τίποτα απολύτως γι' αυτό το πρωτάθλημα»",
+            "summary": "Mindaugas Kuzminskas has spoken about the New York Knicks' championship win, saying he is proud of the team's achievement despite not doing much to contribute to it. The Knicks' victory marks a historic moment for the team and their fans.",
+            "link": "https://www.gazzetta.gr/basketball/nba/2546955/koyzminskas-gia-tin-kataktisi-toy-titloy-apo-toys-niks-perifanos-poy-den"
+        }
+    ],
     "denmark": [
         {
-            "title": "Israel attacks Hezbollah targets in Beirut",
-            "summary": "Israel has launched airstrikes against Hezbollah targets in Beirut, Lebanon. The attack is a significant escalation of tensions between Israel and Hezbollah, a militant group backed by Iran. The attack has raised concerns about the stability of the region and the potential for further conflict.",
-            "link": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut",
-            "location": "Beirut, Lebanon",
-            "key figures": "Israel, Hezbollah"
+            "title": "Tidligere minister Torsten Schack Pedersen stopper i politik efter 21 år",
+            "summary": "Former Danish Minister Torsten Schack Pedersen has announced that he will be leaving politics after 21 years. The move comes as a surprise to many, and raises questions about the future of Danish politics.",
+            "link": "https://www.dr.dk/nyheder/seneste/tidligere-minister-torsten-schack-pedersen-stopper-i-politik-efter-21-aar"
         },
         {
-            "title": "Switzerland rejects population growth projections",
-            "summary": "Switzerland has rejected population growth projections, citing concerns about the impact of immigration on the country's infrastructure and resources. The decision has been met with criticism from some quarters, who argue that it is necessary to address the country's aging population and declining birth rates.",
-            "link": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser",
-            "location": "Switzerland",
-            "key figures": "Switzerland"
-        },
-        {
-            "title": "Vandalism and arrests during Knicks celebration in New York",
-            "summary": "Vandalism and arrests have been reported during a celebration of the New York Knicks' victory in the NBA playoffs. The celebration turned violent, with fans damaging property and clashing with police. Several people were arrested in connection with the incident.",
-            "link": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york",
-            "location": "New York, USA",
-            "key figures": "New York Knicks"
-        },
-        {
-            "title": "UK seizes Russian oil tanker",
-            "summary": "The UK has seized a Russian oil tanker, citing concerns about the country's involvement in the conflict in Ukraine. The move has been met with criticism from Russia, which has accused the UK of interfering in its internal affairs.",
-            "link": "https://www.dr.dk/nyheder/seneste/storbritannien-tilbageholder-russisk-olietankskib",
-            "location": "UK",
-            "key figures": "UK, Russia"
-        },
-        {
-            "title": "Former minister Torsten Schack Pedersen quits politics after 21 years",
-            "summary": "Former Danish minister Torsten Schack Pedersen has announced his retirement from politics after 21 years in office. Pedersen has been a key figure in Danish politics, serving as minister for several portfolios, including defense and foreign affairs.",
-            "link": "https://www.dr.dk/nyheder/seneste/tidligere-minister-torsten-schack-pedersen-stopper-i-politik-efter-21-aar",
-            "location": "Denmark",
-            "key figures": "Torsten Schack Pedersen"
+            "title": "Hærværk og flere anholdt under fejring af Knicks-sejr i New York",
+            "summary": "There have been reports of vandalism and arrests in New York City as fans celebrate the New York Knicks' championship win. The incident highlights the excitement and enthusiasm of the fans, but also raises concerns about public safety.",
+            "link": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york"
         }
     ],
     "greece": [
         {
-            "title": "Pharmacist claims production of substances was done according to medical prescriptions",
-            "summary": "A pharmacist has testified to the investigating magistrate that the production of substances was done according to medical prescriptions. The testimony is part of an ongoing investigation into the production and distribution of pharmaceutical substances and doping substances.",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/xalandri-i-paragogi-skeyasmaton-ginotan-symfona-me-iatrikes-syntages-isxyristike-o-farmakopoios/",
-            "location": "Chalandri, Greece",
-            "key figures": "Pharmacist"
+            "title": "Αγώνες πολεμικών τεχνών στον Λευκό Οίκο: Πρωτοφανές αθλητικό θέαμα με φόντο τα γενέθλια Τραμπ και αντιδράσεις για το κόστος",
+            "summary": "A unique martial arts event was held at the White House, coinciding with Donald Trump's birthday. The event sparked controversy over its cost and the use of the White House as a venue.",
+            "link": "https://www.ertnews.gr/eidiseis/diethni/agones-polemikon-texnon-ston-leyko-oiko-protofanes-athlitiko-theama-me-fonto-ta-genethlia-tramp-kai-antidraseis-gia-to-kostos/"
         },
         {
-            "title": "Delirium for Vassilis Spanoulis in Aris - Grand welcome prepared for him in Thessaloniki",
-            "summary": "Vassilis Spanoulis is expected to arrive in Thessaloniki in a few hours and the fans of Aris are preparing a grand welcome for the \"legend\" of Greek basketball and now coach of the team. According to sources, Spanoulis is expected to arrive at the Macedonia airport at 19:00.",
-            "link": "https://www.ertnews.gr/athlitismos/ntelirio-gia-vasili-spanouli-ston-ari-megaleiodi-ypodoxi-etoimazoun-apopse-oi-filathloi-sti-thessaloniki/",
-            "location": "Thessaloniki, Greece",
-            "key figures": "Vassilis Spanoulis"
-        },
-        {
-            "title": "Party until dawn for Olympiacos for the championship and Euroleague",
-            "summary": "The basketball team of Olympiacos celebrated the championship and the Euroleague until dawn in a nightclub. Sasha Vujacic was the MVP on the court and also in the nightclub, where he danced to the rhythms of Bangaranga, the Bulgarian song that won the Eurovision.",
-            "link": "https://www.ertnews.gr/eidiseis/glenti-mexri-proias-tou-olympiakou-gia-tin-kataktisi-protathlimatos-kai-euroleague/",
-            "location": "Greece",
-            "key figures": "Sasha Vujacic"
-        },
-        {
-            "title": "Iran's 'weak' president Pezeshkian survived the war - Peace may prove a more difficult challenge",
-            "summary": "As an interim agreement for a ceasefire with the United States appears increasingly likely, internal challenges for Iranian President Masoud Pezeshkian may soon multiply. If a deal is reached, Pezeshkian will have to deal with many post-war issues, but he is likely to emerge from it with greater credibility within the Iranian establishment.",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/o-iranos-adynamos-proedros-pezeskian-epezise-tou-polemou-i-eirini-mporei-na-apodeixthei-pio-dyskoli-proklisi/",
-            "location": "Iran",
-            "key figures": "Masoud Pezeshkian"
-        },
-        {
-            "title": "Guinness record for the largest simultaneous zeibekiko dance in Thessaloniki",
-            "summary": "Thessaloniki has set the Guinness record for the largest simultaneous zeibekiko dance, with 830 people from Greece and abroad participating, including even from distant Beijing. The dance was held in the Aristotelous Square and was accompanied by the song 'Mia Thessaloniki' by Konstantinos Argyros.",
-            "link": "https://www.ertnews.gr/ert3/sti-thessaloniki-to-rekor-gkines-gia-ti-megalyteri-taytoxroni-xorografia-zeimpeikou/",
-            "location": "Thessaloniki, Greece",
-            "key figures": "Konstantinos Argyros"
+            "title": "Χαλάνδρι: «Η παραγωγή σκευασμάτων γινόταν σύμφωνα με ιατρικές συνταγές» ισχυρίστηκε ο φαρμακοποιός",
+            "summary": "A pharmacist in Chalandri has claimed that the production of substances was carried out in accordance with medical prescriptions. The statement raises questions about the legitimacy of the pharmacist's actions.",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/xalandri-i-paragogi-skeyasmaton-ginotan-symfona-me-iatrikes-syntages-isxyristike-o-farmakopoios/"
         }
     ]
 }
