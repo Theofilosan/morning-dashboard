@@ -2,76 +2,128 @@
     "world": [
         {
             "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-            "summary": "US President Donald Trump has announced that a deal between the US and Iran will be signed on Sunday, despite Tehran casting doubt on the timing. The deal aims to ease tensions between the two countries and prevent further conflict. The move comes as Iran's President Hassan Rouhani has expressed skepticism about the deal, citing concerns over its terms and the US's commitment to it.",
+            "summary": "The US president's comments come as Iran says an exact date has not been decided. The deal is expected to be signed on Sunday, but Iran's foreign minister has cast doubt on the timing. The US and Iran have been engaged in talks for months, and a deal is expected to be reached soon. The exact details of the deal have not been released.",
             "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
         },
         {
             "title": "Swiss voters reject 10 million population cap, early projections say",
-            "summary": "Swiss voters have rejected a proposal to cap the country's population at 10 million, with early projections suggesting that 55% of participants voted against the proposal. The proposal was put forward by the Swiss People's Party, which argued that the country's population was growing too quickly and putting pressure on infrastructure and resources.",
+            "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal. The proposal was put forward by the Swiss People's Party, which argued that the country's population was growing too quickly. The party's leader, Christoph Blocher, said that the result was a 'clear rejection' of the proposal. The final result is expected to be confirmed later today.",
             "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-            "summary": "Russian families are using AI technology to create digital 'resurrections' of loved ones killed in Ukraine, in a highly controversial trend that lies at the intersection of Russia's war on Ukraine, new AI technologies, and grief. The technology uses AI algorithms to create digital avatars of the deceased, which can be used to communicate with family members and friends.",
-            "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss"
+            "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+            "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title. The shooting occurred in the early hours of the morning, and police are still investigating the circumstances. The Knicks' win was a historic moment for the team, and fans were celebrating in the streets. The disorder was largely confined to one area of the city.",
+            "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
+            "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death. The author has accused the hospital of stalling the review, and has called for an independent investigation. The hospital has denied the allegations, and says that it is cooperating fully with the authorities. The case has sparked widespread outrage in Nigeria.",
+            "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "As Anthropic suspends access to new models, India debates its AI future",
-            "summary": "The suspension of access to new AI models by Anthropic has sparked a debate in India about the country's AI future. Tech leaders are discussing whether the Anthropic episode is a wake-up call for India's AI ambitions, and whether the country should prioritize developing its own AI capabilities or rely on foreign companies.",
-            "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
-        },
-        {
-            "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-            "summary": "Meta is reportedly moving to unwind its $2 billion Manus acquisition after Beijing ordered the deal to be reversed. The move comes as Meta faces increasing scrutiny from Chinese authorities over its business practices and data handling.",
-            "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+            "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+            "summary": "The new Sonos Play can act as a portable speaker inside and outside your home. It's a versatile speaker that can be used in various settings. The speaker is also easy to set up and use. It's a great option for those who want a high-quality speaker without breaking the bank.",
+            "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/"
         },
         {
             "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-            "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday. The move comes as Anthropic faces increasing scrutiny from governments and regulators over its AI models and data handling.",
+            "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday. The move has sparked debate about the role of AI in society and the need for greater regulation. The Anthropic episode has also raised questions about the reliability of AI systems. It's a complex issue that requires careful consideration.",
             "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
-        }
-    ],
-    "sports": [
-        {
-            "title": "New York Knicks win NBA championship for first time in over 50 years",
-            "summary": "The New York Knicks have won the NBA championship for the first time in over 50 years, defeating the San Antonio Spurs 94-90 in the fifth game of the best-of-seven series. The win marks a historic moment for the Knicks and their fans, who have been waiting for decades for a championship.",
-            "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Μουντιάλ 2026: Μετά την κλοπή η Αγγλία αντιμέτωπη και με ανεμοστρόβιλο",
-            "summary": "England is facing a new challenge at the 2026 World Cup, as a tornado warning has been issued for Kansas City. The team is already dealing with the aftermath of a recent theft, and now they must contend with the threat of severe weather.",
-            "link": "https://www.gazzetta.gr/football/mundial/2546956/moyntial-2026-meta-tin-klopi-i-agglia-antimetopi-kai-me-anemostrobilo"
+            "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+            "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed. The move is a significant blow to Meta's plans for expansion in China. It's a complex issue that involves trade and technology. The outcome is uncertain, but it's clear that the stakes are high.",
+            "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
         },
         {
-            "title": "Κουζμίνσκας για την κατάκτηση του τίτλου από τους Νικς: «Περήφανος που δεν έκανα τίποτα απολύτως γι' αυτό το πρωτάθλημα»",
-            "summary": "Mindaugas Kuzminskas has spoken about the New York Knicks' championship win, saying he is proud of the team's achievement despite not doing much to contribute to it. The Knicks' victory marks a historic moment for the team and their fans.",
-            "link": "https://www.gazzetta.gr/basketball/nba/2546955/koyzminskas-gia-tin-kataktisi-toy-titloy-apo-toys-niks-perifanos-poy-den"
+            "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+            "summary": "Once again, AI proves to be an unreliable source of information about AI. The KPMG report was meant to provide insights into AI usage, but it was pulled due to apparent hallucinations. It's a reminder that AI is still a developing field and requires careful consideration. The incident highlights the need for greater transparency and accountability in AI research.",
+            "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
         }
     ],
     "denmark": [
         {
-            "title": "Tidligere minister Torsten Schack Pedersen stopper i politik efter 21 år",
-            "summary": "Former Danish Minister Torsten Schack Pedersen has announced that he will be leaving politics after 21 years. The move comes as a surprise to many, and raises questions about the future of Danish politics.",
-            "link": "https://www.dr.dk/nyheder/seneste/tidligere-minister-torsten-schack-pedersen-stopper-i-politik-efter-21-aar"
+            "title": "Israel attacks Hizbollah target in Beirut",
+            "summary": "Israel has launched a military operation against Hizbollah targets in Beirut, Lebanon. The operation is part of a larger conflict between Israel and Hizbollah. The exact details of the operation are not yet clear, but it is believed to be a significant escalation of the conflict. The situation is developing and more information will be available as it becomes available.",
+            "link": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut"
         },
         {
-            "title": "Hærværk og flere anholdt under fejring af Knicks-sejr i New York",
-            "summary": "There have been reports of vandalism and arrests in New York City as fans celebrate the New York Knicks' championship win. The incident highlights the excitement and enthusiasm of the fans, but also raises concerns about public safety.",
+            "title": "Switzerland rejects population growth, shows forecasts",
+            "summary": "Switzerland has rejected a proposal to increase the population of the country. The proposal was put forward by the government, but was met with opposition from many Swiss citizens. The government has now released forecasts showing the potential impact of the proposal, but it is unclear what the final outcome will be. The situation is complex and more information will be available as it becomes available.",
+            "link": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser"
+        },
+        {
+            "title": "Storm and more arrested during Knicks celebration in New York",
+            "summary": "A storm has hit New York, causing disruptions to the city. The storm has also led to more arrests during a celebration of the Knicks' victory. The situation is developing and more information will be available as it becomes available. The exact details of the arrests and the impact of the storm are not yet clear.",
             "link": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york"
+        },
+        {
+            "title": "UK holds Russian oil tanker",
+            "summary": "The UK has taken control of a Russian oil tanker. The tanker was seized by the UK authorities, who are investigating its activities. The exact details of the seizure and the reasons behind it are not yet clear. The situation is developing and more information will be available as it becomes available.",
+            "link": "https://www.dr.dk/nyheder/seneste/storbritannien-tilbageholder-russisk-olietankskib"
         }
     ],
     "greece": [
         {
-            "title": "Αγώνες πολεμικών τεχνών στον Λευκό Οίκο: Πρωτοφανές αθλητικό θέαμα με φόντο τα γενέθλια Τραμπ και αντιδράσεις για το κόστος",
-            "summary": "A unique martial arts event was held at the White House, coinciding with Donald Trump's birthday. The event sparked controversy over its cost and the use of the White House as a venue.",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/agones-polemikon-texnon-ston-leyko-oiko-protofanes-athlitiko-theama-me-fonto-ta-genethlia-tramp-kai-antidraseis-gia-to-kostos/"
+            "title": "Καταλυτιών παρεμβάσεις ναυαγοστών στην Πιερία: Έυσαν 65χρονη από τη Σερβία και 70χρονο από τη Β.",
+            "summary": "Σωτήρια ήταν η επέμβαση τριών ναυαγοστών κι ενός γιατρού που έκαναν ΚΑΡΩπασ συ μια 65χρονη τουρίστρια από την Σερβία, η οποία έχασε τις αισθήσεις της στης Παραλία της Λετοκαλής Πιερίας μόλις βγήκε α",
+            "link": "https://www.ertnews.gr/ert3/katalytikes-paremvaseis-nayagososton-stin-pieria-esosan-65xroni-apo-ti-servia-kai-70xrono-apo-ti-v-makedonia/"
+        }
+    ],
+    "sports": [
+        {
+            "title": "Τα 9 πιο πολύτιμα αντικείμενα στην ιστορία που κλάπηκαν και δεν έχουν ακόμη βρεθεί (vid)",
+            "summary": "Αυτή είναι μία λίστα με 9 ιστορικά κειμήλια και αριστουργήματα της τέχνης που κλάπηκαν στο παρελθόν και η τύχη τους αγνοείται.",
+            "link": "https://www.gazzetta.gr/plus/2546963/ta-9-pio-polytima-antikeimena-stin-istoria-poy-klapikan-kai-den-ehoyn-akomi-brethei"
         },
         {
-            "title": "Χαλάνδρι: «Η παραγωγή σκευασμάτων γινόταν σύμφωνα με ιατρικές συνταγές» ισχυρίστηκε ο φαρμακοποιός",
-            "summary": "A pharmacist in Chalandri has claimed that the production of substances was carried out in accordance with medical prescriptions. The statement raises questions about the legitimacy of the pharmacist's actions.",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/xalandri-i-paragogi-skeyasmaton-ginotan-symfona-me-iatrikes-syntages-isxyristike-o-farmakopoios/"
+            "title": "Νέα σελίδα στον Πέλοπα Κιάτου",
+            "summary": "Νέο Διοικητικό Συμβούλιο στον Πέλοπα Κιάτου που μετά τις εκλογές μπαίνει σε μια νέα εποχή, με τον Δήμαρχο Συκιωνίων, Σπύρο Σταματόπουλο να είναι και η ταντιπρόεδρος της ομάδας.",
+            "link": "https://www.gazzetta.gr/football/g-ethniki/2546966/nea-selida-ston-pelopa-kiatoy"
+        }
+    ],
+    "tv_program": [
+        {
+            "time": "10:00 AM",
+            "event": "NBA: Los Angeles Lakers vs. Boston Celtics",
+            "channel": "Δελτερον Σελενε"
+        },
+        {
+            "time": "Μελλεντερια",
+            "event": "NFL: New England Patriots vs. Kansas City Chiefs",
+            "channel": "Δελτερον Σελενε"
+        },
+        {
+            "time": "12:00 PM",
+            "event": "MLB: New York Yankees vs. Houston Astros",
+            "channel": "Δελτερον Σελενε"
+        },
+        {
+            "time": "2:00 PM",
+            "event": "NHL: Toronto Maple Leafs vs. Montreal Canadiens",
+            "channel": "Δελτερον Σελενε"
+        },
+        {
+            "time": "4:00 PM",
+            "event": "MLS: Los Angeles Galaxy vs. Seattle Sounders",
+            "channel": "Δελτερον Σελενε"
+        },
+        {
+            "time": "6:00 PM",
+            "event": "NBA: Golden State Warriors vs. Los Angeles Clippers",
+            "channel": "Δελτερον Σελενε"
+        },
+        {
+            "time": "8:00 PM",
+            "event": "NFL: Green Bay Packers vs. Chicago Bears",
+            "channel": "Δελτερον Σελενε"
+        },
+        {
+            "time": "10:00 PM",
+            "event": "MLB: Los Angeles Dodgers vs. San Francisco Giants",
+            "channel": "Δελτερον Σελενε"
         }
     ]
 }
