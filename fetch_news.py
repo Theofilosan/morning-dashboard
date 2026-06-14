@@ -1,4 +1,5 @@
 import os
+import sys
 import feedparser
 from groq import Groq
 import json
@@ -18,7 +19,7 @@ client = Groq(api_key=API_KEY)
 dr_url = "https://www.dr.dk/nyheder/service/feeds/senestenyt"
 dr_feed = feedparser.parse(dr_url)
 denmark_articles = []
-for entry in dr_feed.entries[:5]: # Fetch top 5 articles
+for entry in dr_feed.entries[:5]:
     denmark_articles.append({
         "title": entry.title,
         "summary": entry.summary if 'summary' in entry else "",
@@ -29,7 +30,7 @@ for entry in dr_feed.entries[:5]: # Fetch top 5 articles
 ert_url = "https://www.ertnews.gr/feed/"
 ert_feed = feedparser.parse(ert_url)
 greece_articles = []
-for entry in ert_feed.entries[:5]: # Fetch top 5 articles
+for entry in ert_feed.entries[:5]:
     greece_articles.append({
         "title": entry.title,
         "summary": entry.summary if 'summary' in entry else "",
@@ -42,8 +43,7 @@ You are an expert news analyst. Translate the following Danish and Greek news ar
 
 For each article, provide a detailed summary (3-4 sentences) highlighting the main event, why it matters, and any key figures or locations.
 
-Return ONLY a raw JSON object with two keys: 'denmark' and 'greece'. Each key must contain a list of the translated articles.
-Do not include any markdown formatting, do not include ```json or any conversational text.
+Return a JSON object with two keys: 'denmark' and 'greece'. Each key must contain a list of the translated articles.
 
 Danish Articles:
 {json.dumps(denmark_articles, ensure_ascii=False)}
@@ -52,11 +52,12 @@ Greek Articles:
 {json.dumps(greece_articles, ensure_ascii=False)}
 """
 
-# Call the Groq API using Llama 3.1
+# Call the Groq API with forced JSON Mode
 completion = client.chat.completions.create(
     model="llama-3.1-8b-instant",
     messages=[{"role": "user", "content": prompt}],
-    temperature=0.1 # Low temperature for structural consistency
+    response_format={"type": "json_object"}, # Enforces strict JSON output from the model
+    temperature=0.1
 )
 
 output_text = completion.choices[0].message.content.strip()
@@ -70,3 +71,4 @@ try:
 except json.JSONDecodeError:
     print("Error: The model did not return a valid JSON format. Raw output:")
     print(output_text)
+    sys.exit(1) # Force GitHub Actions to fail if file was not created
