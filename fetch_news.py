@@ -15,19 +15,24 @@ if not API_KEY:
 # Initialize the Groq client
 client = Groq(api_key=API_KEY)
 
-def fetch_feed_entries(url, limit=10):
-    """Helper function to fetch and clean RSS feed entries."""
+def fetch_feed_entries(url, limit=5):
+    """Fetch RSS entries and truncate summaries to dramatically save tokens."""
     feed = feedparser.parse(url)
     articles = []
     for entry in feed.entries[:limit]:
+        raw_summary = entry.summary if 'summary' in entry else ""
+        
+        # Truncate summary to 200 characters to strip massive HTML/bloat
+        clean_summary = raw_summary[:200] if raw_summary else ""
+        
         articles.append({
             "title": entry.title,
-            "summary": entry.summary if 'summary' in entry else "",
+            "summary": clean_summary,
             "link": entry.link
         })
     return articles
 
-# 1. Fetching raw news from various sources (10 articles each to allow AI filtering)
+# 1. Fetching raw news (Top 5 each to respect the 6,000 token free-tier limit)
 print("Fetching RSS feeds...")
 raw_denmark = fetch_feed_entries("https://www.dr.dk/nyheder/service/feeds/senestenyt")
 raw_greece = fetch_feed_entries("https://www.ertnews.gr/feed/")
@@ -58,7 +63,7 @@ completion = client.chat.completions.create(
     model="llama-3.1-8b-instant",
     messages=[{"role": "user", "content": prompt}],
     response_format={"type": "json_object"},
-    temperature=0.2 # Slightly higher for better editorial judgment
+    temperature=0.2
 )
 
 output_text = completion.choices[0].message.content.strip()
