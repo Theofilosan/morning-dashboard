@@ -26,7 +26,6 @@ def fetch_feed_entries(url, limit=5):
     feed = feedparser.parse(url)
     articles = []
     for entry in feed.entries[:limit]:
-        # Check both summary and description fields for fallback
         raw_summary = entry.get("summary", entry.get("description", ""))
         articles.append({
             "title": clean_html(entry.title),
@@ -81,11 +80,10 @@ def get_detailed_weather():
         else:
             rain_info = "Όχι βροχή"
 
-        # Ενώνουμε όλη την πληροφορία σε ένα κείμενο για άμεση συμβατότητα με το frontend
         combined_text = f"{current_temp}°C - {condition} ({rain_info})"
 
         return {
-            "temp": combined_text,  # Αν το frontend διαβάζει data.weather.temp, θα δείξει τα πάντα!
+            "temp": combined_text,
             "condition": condition,
             "rain_alert": rain_info,
             "combined": combined_text
@@ -127,26 +125,25 @@ def ask_groq_chunk(prompt_content):
 
 print("Processing and organizing sections through Groq...")
 
-# --- NEWS SECTIONS (English & Greek) ---
+# --- NEWS SECTIONS (Updated to request exactly 5 items) ---
 for cat in ["world", "tech"]:
-    p = f"Select the top 3-4 items. BOTH title and summary MUST be in ENGLISH. Return the output as a valid JSON object containing the key '{cat}' structured like this: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
+    p = f"Select the top 5 items. BOTH title and summary MUST be in ENGLISH. Return the output as a valid JSON object containing the key '{cat}' structured like this: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
     final_dashboard.update(ask_groq_chunk(p))
     time.sleep(2)
 
-# Ειδική οδηγία για τη Δανία ώστε να παράγει summary αν το RSS feed της DR το στείλει κενό
-p_dk = f"Select top 3-4 items from the Danish news. Translate completely to ENGLISH. CRITICAL: If the original 'summary' field is empty or blank, you MUST generate a realistic 1-2 sentence summary in ENGLISH based on the context of the title so it is never empty. Return the output as a valid JSON object containing the key 'denmark' structured like this: {{'denmark': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data['denmark'])}"
+p_dk = f"Select top 5 items from the Danish news. Translate completely to ENGLISH. CRITICAL: If the original 'summary' field is empty or blank, you MUST generate a realistic 1-2 sentence summary in ENGLISH based on the context of the title so it is never empty. Return the output as a valid JSON object containing the key 'denmark' structured like this: {{'denmark': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data['denmark'])}"
 final_dashboard.update(ask_groq_chunk(p_dk))
 time.sleep(2)
 
 for cat in ["greece", "sports"]:
-    p = f"Select the top 3-4 items. BOTH title and summary MUST be in GREEK. Return the output as a valid JSON object containing the key '{cat}' structured like this: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
+    p = f"Select the top 5 items. BOTH title and summary MUST be in GREEK. Return the output as a valid JSON object containing the key '{cat}' structured like this: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
     final_dashboard.update(ask_groq_chunk(p))
     time.sleep(2)
 
-# --- TV PROGRAM SECTION (Υποστηρίζει πλέον και τις δύο δομές frontend ταυτόχρονα!) ---
+# --- TV PROGRAM SECTION (Updated to request exactly 5 items) ---
 print("-> Structuring Sports TV Schedule...")
 p_tv = f"""
-Extract the top 10 major live sports broadcasts for today from the text. 
+Extract the top 5 major live sports broadcasts for today from the text. 
 Sort them chronologically by time.
 You MUST output the result as a valid JSON object containing the key 'tv_program'.
 To prevent frontend layout bugs, each object inside the 'tv_program' array MUST contain ALL of the following keys:
@@ -166,4 +163,4 @@ final_dashboard.update(ask_groq_chunk(p_tv))
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(final_dashboard, f, ensure_ascii=False, indent=4)
 
-print("Process finished! All sections organized and backwards-compatible.")
+print("Process finished! All sections now contain 5 items.")
