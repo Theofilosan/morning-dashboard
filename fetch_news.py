@@ -18,16 +18,26 @@ if not API_KEY:
 # Initialize the Groq client
 client = Groq(api_key=API_KEY)
 
+def clean_html(text):
+    """Strip all HTML elements, images, and broken tags completely."""
+    if not text:
+        return ""
+    soup = BeautifulSoup(text, "html.parser")
+    clean_text = soup.get_text(separator=" ")
+    return " ".join(clean_text.split()) # Strips extra spaces/newlines
+
 def fetch_feed_entries(url, limit=5):
-    """Fetch RSS entries and truncate summaries to dramatically save tokens."""
+    """Fetch RSS entries, clean HTML junk, and truncate safely."""
     feed = feedparser.parse(url)
     articles = []
     for entry in feed.entries[:limit]:
+        title = clean_html(entry.title)
         raw_summary = entry.summary if 'summary' in entry else ""
-        clean_summary = raw_summary[:200] if raw_summary else ""
+        summary = clean_html(raw_summary)[:200]
+        
         articles.append({
-            "title": entry.title,
-            "summary": clean_summary,
+            "title": title,
+            "summary": summary,
             "link": entry.link
         })
     return articles
@@ -44,26 +54,24 @@ def fetch_sports_tv():
         soup = BeautifulSoup(res.text, "html.parser")
         lines = []
         
-        # Look for text structures that contain a timestamp (e.g., 18:30 or 21:45)
         for element in soup.find_all(['p', 'div', 'span', 'li']):
-            text = element.get_text().strip()
+            text = clean_html(element.get_text())
             if re.search(r'\b\d{2}:\d{2}\b', text) and len(text) < 150:
                 if text not in lines:
                     lines.append(text)
                     
-        # Fallback text parser if layout structural markers miss
         if not lines:
             for line in soup.get_text(separator="\n").split("\n"):
-                line = line.strip()
+                line = clean_html(line)
                 if re.search(r'\b\d{2}:\d{2}\b', line) and len(line) < 150:
                     if line not in lines:
                         lines.append(line)
                         
-        return "\n".join(lines[:30]) # Pass the top 30 filtered items to prevent token overflow
+        return "\n".join(lines[:30])
     except Exception as e:
         return f"Error gathering TV data: {str(e)}"
 
-# 1. Gathering data sources
+# 1. Gathering 100% text-only clean data sources
 print("Fetching RSS feeds...")
 raw_denmark = fetch_feed_entries("https://www.dr.dk/nyheder/service/feeds/senestenyt")
 raw_greece = fetch_feed_entries("https://www.ertnews.gr/feed/")
@@ -100,7 +108,8 @@ completion = client.chat.completions.create(
     model="llama-3.1-8b-instant",
     messages=[{"role": "user", "content": prompt}],
     response_format={"type": "json_object"},
-    temperature=0.1
+    temperature=0.1,
+    max_tokens=3000 # Added to prevent the JSON from cutting off midway
 )
 
 output_text = completion.choices[0].message.content.strip()
