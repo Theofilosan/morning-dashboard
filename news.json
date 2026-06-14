@@ -7,14 +7,14 @@
     },
     "world": [
         {
+            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+            "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "title": "Swiss voters reject 10 million population cap, early projections say",
             "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
             "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-            "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
-            "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
         },
         {
             "title": "Fifa to pay Somali referee Artan full World Cup fee",
@@ -25,6 +25,11 @@
             "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
             "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
             "link": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+            "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+            "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
@@ -44,6 +49,11 @@
             "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
         },
         {
+            "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+            "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+            "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+        },
+        {
             "title": "As Anthropic suspends access to new models, India debates its AI future",
             "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
             "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
@@ -51,129 +61,99 @@
     ],
     "denmark": [
         {
-            "title": "Churches Offer Immediate Marriages on June 26th",
-            "summary": "Churches in Denmark will offer immediate marriages on June 26th, allowing couples to get married quickly.",
+            "title": "Trump: Attacks in Beirut should not have happened",
+            "summary": "US President Donald Trump has expressed his disapproval of the recent attacks in Beirut, calling them 'unacceptable'.",
+            "link": "https://www.dr.dk/nyheder/seneste/trump-dagens-angreb-i-beirut-burde-ikke-have-fundet-sted"
+        },
+        {
+            "title": "Churches offer same-sex marriages from June 26",
+            "summary": "The Danish Church has announced that it will start offering same-sex marriages from June 26, following a recent change in the church's stance.",
             "link": "https://www.dr.dk/nyheder/seneste/kirker-tilbyder-straks-vielser-den-26-juni"
         },
         {
-            "title": "Israel Attacks Hizbollah Targets in Beirut",
-            "summary": "Israel has launched attacks on Hizbollah targets in Beirut, escalating tensions in the region.",
+            "title": "Israel attacks Hezbollah targets in Beirut",
+            "summary": "Israel has launched airstrikes against Hezbollah targets in Beirut, sparking widespread condemnation and concern.",
             "link": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut"
         },
         {
-            "title": "Switzerland Rejects Balloon Release Due to Population Projections",
-            "summary": "Switzerland has rejected a proposal to release balloons into the air due to concerns over population projections.",
+            "title": "Switzerland rejects COVID-19 lockdown, citing low population density",
+            "summary": "Switzerland has decided against imposing a nationwide lockdown to combat the spread of COVID-19, citing its low population density and relatively low infection rates.",
             "link": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser"
         },
         {
-            "title": "Storm and Multiple Arrests During Knicks Victory Celebration in New York",
-            "summary": "A storm and multiple arrests occurred during the celebration of the Knicks' victory in New York.",
+            "title": "Storm and arrests during Knicks' victory celebration in New York",
+            "summary": "A severe storm swept through New York City, causing widespread damage and leading to several arrests during the celebration of the Knicks' recent victory.",
             "link": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york"
         }
     ],
     "greece": [
         {
-            "title": "Ένα βήμα πριν από την υτουραφή συμτητικας ΗΠΑ με Ιράν – «Αγκάθι» η ισραλινή επιτεση στη νότια Βηρυτό",
-            "summary": "Μόνο οι υτουραφές μένουν, σύμφωνα με τον Ντόναλλδ Τραμπ, για σιγήσουν τα όπλα στον Περσικό και να αρχίσουν οι συνοςλής για τα καλιστώντα θέφματα που οδήσαν στη σρλαςη Ηπλιμένών Πολιτειών και Ιράν.",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/live-ena-vima-prin-apo-tin-ypografi-symfonias-ipa-me-iran-agkathi-i-israilini-epithesi-sti-notia-viryto/"
+            "title": "Τραμπ: Η πρωϊνή ετερεσχη στην Βηρυτό δεν ώπρεπε να είχε συμβεί",
+            "summary": "Ο Ντόναλυνδ Τραμπ επέκρινε το Ισραήλ για την επόμενη που πραγματος σήμερα στη Βηρυτό καλώντας το – όπως και την Χεζμπολάχ – να μην πραγματοςιήσει άλλες επιθέσεις σε κανένα τμήμα του Λιβάνου.",
+            "link": "https://www.ertnews.gr/eidiseis/tramp-i-proini-epithesi-stin-viryto-den-eprepe-na-eixe-symvei/"
         },
         {
-            "title": "Η επιστροφή του Έμπολα και τα μαθήματα για την επόμενη πανδημία",
-            "summary": "Το 1976, ο Ζαν-Ζακ Μουγιέμπε, ένας νεαρός επιδημιολόγος από το Κονγό, στάλθηκε να διερευνήσει μια μυστηριώδη ασθένεια που εάχε εμφανιστεί στο τροπικό δάσος κοντά σε μια καθολιώα 41",
-            "link": "https://www.ertnews.gr/eidiseis/i-epistrofi-tou-empola-kai-ta-mathimata-gia-tin-epomeni-pandimia/"
+            "title": "Ένα βήμα πριν από την υπουπραφή συμφωνίας ΗΠΑ με Ιράν – «Αγκάθι» η ισραηλινή επόμενη στη νότια Βηρυτό",
+            "summary": "Μόνο οι υπογραφές μένουν, σύμφωνα με τον Ντόναλυντ Τραμω, για σιγήσουν τα όπλα στον Περσικό και να αρχίσουν οι συνοςγίες για τα κρίσιμα θέματα που οδήγησαν στη σρλαλαξη Ηπιμενιυν Πολιτειών και Ιράν.",
+            "link": "https://www.ertnews.gr/eidiseis/diethni/live-ena-vima-prin-apo-tin-ypografi-symfonias-ipa-me-iran-agkathi-i-israilini-epithesi-sti-notia-viryto/"
         }
     ],
     "sports": [
         {
-            "title": "Τζένιφερ Λόπεζ: Πανηγύρισε έξαλλα την κατάκτηση του πρωταθλήματος από τους Νικς",
-            "summary": "Από τις celebrities στην άλλη άκρη του Ατλαντικού που πανηγύρισε έξαλλα την κατάκτηση του πρωταθλήματος από τους Νικς ήταν και η Τζένιφερ Λλόπεζ.",
-            "link": "https://www.gazzetta.gr/basketball/nba/2546968/tzenifer-lopez-panigyrise-exalla-tin-kataktisi-toy-protathlimatos-apo-toys"
+            "title": "Χοντελίν: Παγκόσμιο ρεκόρ εφήβων στο μήκος με 8.46μ.",
+            "summary": "σημείωσε παγκόσμιο ρεκόρ εφήβων στο μήκος συ μίτινγκ στη Γαλλία.",
+            "link": "https://www.gazzetta.gr/stibos/2546975/hontelin-pagkosmio-rekor-efibon-sto-mikos-me-846m"
         },
         {
-            "title": "F1: Ο Χάμιλτον πήρε στη Βαρκελώνη την πρώτη του νίκη με τη Ferrari",
-            "summary": "Ο Λούις Χάμιλτον πανηγύρισε μια συγκλονιστιώική επικράτηση στη Βαρκελώνη, εκμεταλλευόμενος την τολμηρή στρατηγιώική της Ferrari - Εγκατέλειψε ο Κντολιλι.",
-            "link": "https://www.gazzetta.gr/gmotion/2546967/f1-o-hamilton-pire-sti-barkeloni-tin-proti-toy-niki-me-ti-ferrari"
+            "title": "Άρης: Από νωρίς χαμός στο αεροδρόμιο για Σπανούλη",
+            "summary": "Ο Βασίλης Σπανούλης αναμένεται σύντομα στην Θεσσαλονίκη (η πτήση του προσγειώνεται στις 19:00) και μια ώρα πριν, πολλούς φίλοι του Άρη έχουν ήδη συγκεντρωθεί στο αεροδρόμιο «Μακεδονία» για να τον υποδ",
+            "link": "https://www.gazzetta.gr/basketball/basket-league/2546972/aris-apo-noris-hamos-sto-aerodromio-gia-spanoyli"
+        },
+        {
+            "title": "F1: Οι βαθμολογίες μετά το GP Ισπανίας",
+            "summary": "Η σειρά των τριών πρώτων στη βαθμολογία δεν άλλαξε μετά τη Βαρκελώνη, αλλά με τη νίκη του Χάμιλτον και την εγκατάλειψη του Αντολέλι έχουμε νέα δεδομένα στο πρωτάθλημα Formula 1.",
+            "link": "https://www.gazzetta.gr/gmotion/2546971/f1-oi-bathmologies-meta-gp-ispanias"
         }
     ],
     "tv_program": [
         {
-            "time": "12:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
-            "title": "12:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
             "time": "14:00",
-            "event": "Νέο Κύπελο Ελλάδος",
-            "channel": "OLTA",
-            "title": "14:00 | Νέο Κύπελο Ελλάδος",
-            "summary": "Κανάλι: OLTA",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ΣΚΑΪ Τηλεόραση",
+            "title": "14:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "16:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
+            "channel": "ΑΝΤ1+",
             "title": "16:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
+            "summary": "Κανάλι: ΑΝΤ1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "17:00",
-            "event": "Νέο Κύπελο Ελλάδος",
-            "channel": "OLTA",
-            "title": "17:00 | Νέο Κύπελο Ελλάδος",
-            "summary": "Κανάλι: OLTA",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ΣΚΑΪ Τηλεόραση",
+            "title": "17:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "18:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
+            "channel": "ΑΝΤ1+",
             "title": "18:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
+            "summary": "Κανάλι: ΑΝΤ1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Νέο Κύπελο Ελλάδος",
-            "channel": "OLTA",
-            "title": "19:00 | Νέο Κύπελο Ελλάδος",
-            "summary": "Κανάλι: OLTA",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "20:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
-            "title": "20:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "21:00",
-            "event": "Νέο Κύπελο Ελλάδος",
-            "channel": "OLTA",
-            "title": "21:00 | Νέο Κύπελο Ελλάδος",
-            "summary": "Κανάλι: OLTA",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "22:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
-            "title": "22:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "23:00",
-            "event": "Νέο Κύπελο Ελλάδος",
-            "channel": "OLTA",
-            "title": "23:00 | Νέο Κύπελο Ελλάδος",
-            "summary": "Κανάλι: OLTA",
+            "channel": "ΣΚΑΪ Τηλεόραση",
+            "title": "19:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
