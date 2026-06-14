@@ -1,129 +1,144 @@
 {
+    "weather": {
+        "temp": "28.2°C",
+        "condition": "Ηλιοφάνεια",
+        "rain_alert": "Δεν αναμένεται βροχή σήμερα."
+    },
     "world": [
         {
-            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-            "summary": "The US president's comments come as Iran says an exact date has not been decided. The deal is expected to be signed on Sunday, but Iran's foreign minister has cast doubt on the timing. The US and Iran have been engaged in talks for months, and a deal is expected to be reached soon. The exact details of the deal have not been released.",
-            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "title": "Swiss voters reject 10 million population cap, early projections say",
-            "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal. The proposal was put forward by the Swiss People's Party, which argued that the country's population was growing too quickly. The party's leader, Christoph Blocher, said that the result was a 'clear rejection' of the proposal. The final result is expected to be confirmed later today.",
-            "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-            "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title. The shooting occurred in the early hours of the morning, and police are still investigating the circumstances. The Knicks' win was a historic moment for the team, and fans were celebrating in the streets. The disorder was largely confined to one area of the city.",
+            "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
             "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
-            "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death. The author has accused the hospital of stalling the review, and has called for an independent investigation. The hospital has denied the allegations, and says that it is cooperating fully with the authorities. The case has sparked widespread outrage in Nigeria.",
-            "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss"
+            "title": "Swiss voters reject 10 million population cap, early projections say",
+            "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+            "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+            "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+            "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
+            "link": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
             "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-            "summary": "The new Sonos Play can act as a portable speaker inside and outside your home. It's a versatile speaker that can be used in various settings. The speaker is also easy to set up and use. It's a great option for those who want a high-quality speaker without breaking the bank.",
+            "summary": "The new Sonos Play can act as a portable speaker inside and outside your home.",
             "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/"
         },
         {
             "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-            "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday. The move has sparked debate about the role of AI in society and the need for greater regulation. The Anthropic episode has also raised questions about the reliability of AI systems. It's a complex issue that requires careful consideration.",
+            "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
             "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
         },
         {
             "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-            "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed. The move is a significant blow to Meta's plans for expansion in China. It's a complex issue that involves trade and technology. The outcome is uncertain, but it's clear that the stakes are high.",
+            "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
             "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
         },
         {
-            "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-            "summary": "Once again, AI proves to be an unreliable source of information about AI. The KPMG report was meant to provide insights into AI usage, but it was pulled due to apparent hallucinations. It's a reminder that AI is still a developing field and requires careful consideration. The incident highlights the need for greater transparency and accountability in AI research.",
-            "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+            "title": "As Anthropic suspends access to new models, India debates its AI future",
+            "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+            "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
         }
     ],
     "denmark": [
         {
-            "title": "Israel attacks Hizbollah target in Beirut",
-            "summary": "Israel has launched a military operation against Hizbollah targets in Beirut, Lebanon. The operation is part of a larger conflict between Israel and Hizbollah. The exact details of the operation are not yet clear, but it is believed to be a significant escalation of the conflict. The situation is developing and more information will be available as it becomes available.",
+            "title": "Churches offer same-day weddings on June 26",
+            "summary": "",
+            "link": "https://www.dr.dk/nyheder/seneste/kirker-tilbyder-straks-vielser-den-26-juni"
+        },
+        {
+            "title": "Israel attacks Hizbollah targets in Beirut",
+            "summary": "",
             "link": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut"
         },
         {
-            "title": "Switzerland rejects population growth, shows forecasts",
-            "summary": "Switzerland has rejected a proposal to increase the population of the country. The proposal was put forward by the government, but was met with opposition from many Swiss citizens. The government has now released forecasts showing the potential impact of the proposal, but it is unclear what the final outcome will be. The situation is complex and more information will be available as it becomes available.",
+            "title": "Switzerland says no to population-based air defense, shows forecasts",
+            "summary": "",
             "link": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser"
         },
         {
-            "title": "Storm and more arrested during Knicks celebration in New York",
-            "summary": "A storm has hit New York, causing disruptions to the city. The storm has also led to more arrests during a celebration of the Knicks' victory. The situation is developing and more information will be available as it becomes available. The exact details of the arrests and the impact of the storm are not yet clear.",
+            "title": "Storm and several arrested during Knicks victory celebration in New York",
+            "summary": "",
             "link": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york"
-        },
-        {
-            "title": "UK holds Russian oil tanker",
-            "summary": "The UK has taken control of a Russian oil tanker. The tanker was seized by the UK authorities, who are investigating its activities. The exact details of the seizure and the reasons behind it are not yet clear. The situation is developing and more information will be available as it becomes available.",
-            "link": "https://www.dr.dk/nyheder/seneste/storbritannien-tilbageholder-russisk-olietankskib"
         }
     ],
     "greece": [
         {
-            "title": "Καταλυτιών παρεμβάσεις ναυαγοστών στην Πιερία: Έυσαν 65χρονη από τη Σερβία και 70χρονο από τη Β.",
-            "summary": "Σωτήρια ήταν η επέμβαση τριών ναυαγοστών κι ενός γιατρού που έκαναν ΚΑΡΩπασ συ μια 65χρονη τουρίστρια από την Σερβία, η οποία έχασε τις αισθήσεις της στης Παραλία της Λετοκαλής Πιερίας μόλις βγήκε α",
-            "link": "https://www.ertnews.gr/ert3/katalytikes-paremvaseis-nayagososton-stin-pieria-esosan-65xroni-apo-ti-servia-kai-70xrono-apo-ti-v-makedonia/"
+            "title": "Γκραν Πρι Ισπανίας: Ο Χάμιλτον πέτυχε την πρώτη του νίκη με τη Ferrari – Στα 41 του έγινε ο γηραιότις νικητής στην ιστορία της F1",
+            "summary": "Ο Λιούις Χάμιλτον γιόρτασε μια συγκινητική πρώτη νίκη σε Γκραν Πρι με τη Ferrari στην Βαρώλώνη, βάζοντας τέλος στη σειρά πέντε συνεχόμενων θριάμβων του Κίμι Αντονέλι και καθιστώντας τον, σε ηλικία 41",
+            "link": "https://www.ertnews.gr/athlitismos/gkran-pri-ispanias-o-xamilton-petyxe-tin-proti-tou-niki-me-ti-ferrari-sta-41-tou-egine-o-giraioteros-nikitis-stin-istoria-tis-f1/"
         }
     ],
     "sports": [
         {
-            "title": "Τα 9 πιο πολύτιμα αντικείμενα στην ιστορία που κλάπηκαν και δεν έχουν ακόμη βρεθεί (vid)",
-            "summary": "Αυτή είναι μία λίστα με 9 ιστορικά κειμήλια και αριστουργήματα της τέχνης που κλάπηκαν στο παρελθόν και η τύχη τους αγνοείται.",
-            "link": "https://www.gazzetta.gr/plus/2546963/ta-9-pio-polytima-antikeimena-stin-istoria-poy-klapikan-kai-den-ehoyn-akomi-brethei"
+            "title": "Τζένιφερ Λόπεζ: Πανηγύρισε έξαλλα την κατάκτηση του πρωταθλήματος από τους Νικς",
+            "summary": "Από τις celebrities στην άλλη άκρη του Ατλαντικού που πανηγύρισαν έξαλλα την κατάκτηση του πρωταθλήματος από τους Νικς ήταν και η Τζένιφερ Λλόπεζ.",
+            "link": "https://www.gazzetta.gr/basketball/nba/2546968/tzenifer-lopez-panigyrise-exalla-tin-kataktisi-toy-protathlimatos-apo-toys"
         },
         {
-            "title": "Νέα σελίδα στον Πέλοπα Κιάτου",
-            "summary": "Νέο Διοικητικό Συμβούλιο στον Πέλοπα Κιάτου που μετά τις εκλογές μπαίνει σε μια νέα εποχή, με τον Δήμαρχο Συκιωνίων, Σπύρο Σταματόπουλο να είναι και η ταντιπρόεδρος της ομάδας.",
-            "link": "https://www.gazzetta.gr/football/g-ethniki/2546966/nea-selida-ston-pelopa-kiatoy"
+            "title": "F1: Ο Χάμιλτον πήρε στη Βαρκελώνη την πρώτη του νίκη με τη Ferrari",
+            "summary": "Ο Λούις Χάμιλτον πανηγύρισε μια συγκλονιστιώα επικράτηση στη Βαρκελώνη, εκμεταλλευόμενος την τολμηρή στρατηγιώκή της Ferrari - Εγκατέλειψε ο Κντολιλι.",
+            "link": "https://www.gazzetta.gr/gmotion/2546967/f1-o-hamilton-pire-sti-barkeloni-tin-proti-toy-niki-me-ti-ferrari"
         }
     ],
     "tv_program": [
         {
-            "time": "10:00 AM",
-            "event": "NBA: Los Angeles Lakers vs. Boston Celtics",
-            "channel": "Δελτερον Σελενε"
+            "time": "09:00",
+            "event": "Δελτα τελλεια τελλελλονγ τηπυ τελλελλον",
+            "channel": "Αντ1+"
         },
         {
-            "time": "Μελλεντερια",
-            "event": "NFL: New England Patriots vs. Kansas City Chiefs",
-            "channel": "Δελτερον Σελενε"
+            "time": "10:00",
+            "event": "Μαλλεικι τελλελλον τηπυ τελλελλον",
+            "channel": "Αντ1+"
         },
         {
-            "time": "12:00 PM",
-            "event": "MLB: New York Yankees vs. Houston Astros",
-            "channel": "Δελτερον Σελενε"
+            "time": "11:00",
+            "event": "Μαλλεικι τελλελλον τητελλέ",
+            "channel": "Αντ1+"
         },
         {
-            "time": "2:00 PM",
-            "event": "NHL: Toronto Maple Leafs vs. Montreal Canadiens",
-            "channel": "Δελτερον Σελενε"
+            "time": "12:00",
+            "event": "Μαλλεικι τελλελλον τητελλέ",
+            "channel": "Αντ1+"
         },
         {
-            "time": "4:00 PM",
-            "event": "MLS: Los Angeles Galaxy vs. Seattle Sounders",
-            "channel": "Δελτερον Σελενε"
+            "time": "13:00",
+            "event": "Μαλλεικι τελλελλον τητελλέ",
+            "channel": "Αντ1+"
         },
         {
-            "time": "6:00 PM",
-            "event": "NBA: Golden State Warriors vs. Los Angeles Clippers",
-            "channel": "Δελτερον Σελενε"
+            "time": "14:00",
+            "event": "Μαλλεικι τελλελλον τητελλέ",
+            "channel": "Αντ1+"
         },
         {
-            "time": "8:00 PM",
-            "event": "NFL: Green Bay Packers vs. Chicago Bears",
-            "channel": "Δελτερον Σελενε"
+            "time": "15:00",
+            "event": "Μαλλεικι τελλελλον τητελλέ",
+            "channel": "Αντ1+"
         },
         {
-            "time": "10:00 PM",
-            "event": "MLB: Los Angeles Dodgers vs. San Francisco Giants",
-            "channel": "Δελτερον Σελενε"
+            "time": "16:00",
+            "event": "Φελτα τελλελλον τητελλέ",
+            "channel": "Αντ1+"
+        },
+        {
+            "time": "17:00",
+            "event": "Μαλλεικι τελλελλον τητελλέ",
+            "channel": "Αντ1+"
+        },
+        {
+            "time": "18:00",
+            "event": "Μαλλεικι τελλελλον τητελλέ",
+            "channel": "Αντ1+"
         }
     ]
 }
