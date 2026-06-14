@@ -1,229 +1,318 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="el">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Morning Dashboard</title>
+    <title>Morning Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-color: #121214;
-            --card-bg: #1a1a1e;
-            --text-color: #e4e4e7;
-            --text-muted: #a1a1aa;
-            --accent: #3b82f6;
-            --border: #27272a;
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-blue: #38bdf8;
+            --accent-green: #4ade80;
+            --accent-orange: #fb923c;
+            --border-color: #334155;
         }
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
+
+        * {
+            box-sizing: border-box;
             margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
             padding: 2rem;
-            display: flex;
-            justify-content: center;
+            line-height: 1.5;
         }
-        .container {
-            max-width: 1400px;
-            width: 100%;
-        }
+
+        /* Header & Live Info */
         header {
-            margin-bottom: 2rem;
-            border-bottom: 1px solid var(--border);
-            padding-bottom: 1rem;
             display: flex;
             justify-content: space-between;
-            align-items: flex-start;
-            flex-wrap: wrap;
-            gap: 1.5rem;
+            align-items: center;
+            margin-bottom: 2.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border-color);
         }
-        h1 { margin: 0; font-size: 2rem; }
-        .date { color: var(--text-muted); font-size: 0.9rem; margin-top: 0.5rem; }
-        
-        .weather-widget {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            padding: 1rem;
-            display: flex;
-            gap: 1.5rem;
-            font-size: 0.9rem;
-        }
-        .weather-current { border-right: 1px solid var(--border); padding-right: 1.5rem; }
-        .weather-current .temp { font-size: 1.8rem; font-weight: bold; color: var(--accent); }
-        .weather-forecast { display: flex; gap: 1rem; align-items: center; }
-        .forecast-day { text-align: center; }
-        .forecast-day .f-temp { font-weight: bold; }
 
+        .greeting h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            background: linear-gradient(to right, #fff, var(--text-muted));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .weather-widget {
+            background: var(--card-bg);
+            padding: 0.75rem 1.5rem;
+            border-radius: 50px;
+            border: 1px solid var(--border-color);
+            font-weight: 600;
+            font-size: 0.95rem;
+            color: var(--accent-blue);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        /* Dashboard Grid Layout */
         .dashboard-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 2rem;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 1.5rem;
         }
-        
-        .section-title { font-size: 1.2rem; color: var(--accent); margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
-        .news-container { display: flex; flex-direction: column; gap: 1rem; }
-        .news-card {
-            background-color: var(--card-bg);
-            padding: 1.2rem;
-            border-radius: 8px;
-            border: 1px solid var(--border);
-            transition: transform 0.2s, border-color 0.2s;
-        }
-        .news-card:hover { transform: translateY(-2px); border-color: var(--accent); }
-        .news-title { font-size: 1rem; font-weight: 600; margin: 0 0 0.5rem 0; line-height: 1.4; }
-        .news-title a { color: var(--text-color); text-decoration: none; }
-        .news-title a:hover { color: var(--accent); }
-        .news-summary { color: var(--text-muted); font-size: 0.9rem; line-height: 1.5; margin: 0; }
 
-        /* Sports TV Program Grid List */
-        .tv-list {
+        /* Modern Card Styling */
+        .card {
             background-color: var(--card-bg);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            overflow: hidden;
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.6s ease;
+            opacity: 0; /* For JS fade-in animation */
+            transform: translateY(20px);
         }
-        .tv-row {
-            display: grid;
-            grid-template-columns: 60px 1fr auto;
-            gap: 1rem;
-            padding: 0.75rem 1rem;
-            border-bottom: 1px solid var(--border);
-            font-size: 0.85rem;
+
+        .card.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 20px -3px rgba(0, 0, 0, 0.3);
+            border-color: #475569;
+        }
+
+        .card-header {
+            display: flex;
             align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1.25rem;
+            font-size: 1.2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
         }
-        .tv-row:last-child { border-bottom: none; }
-        .tv-time { color: var(--accent); font-weight: bold; }
-        .tv-event { color: var(--text-color); font-weight: 500; }
-        .tv-channel { background-color: #27272a; color: var(--text-muted); padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; white-space: nowrap; }
+
+        /* Color Coding for Sections */
+        .card.world .card-header { color: var(--accent-blue); }
+        .card.tech .card-header { color: #a855f7; }
+        .card.denmark .card-header { color: var(--accent-orange); }
+        .card.greece .card-header { color: #2dd4bf; }
+        .card.sports .card-header { color: var(--accent-green); }
+        .card.tv .card-header { color: #f43f5e; }
+
+        /* Content Lists */
+        .feed-list {
+            list-style: none;
+        }
+
+        .feed-item {
+            margin-bottom: 1.25rem;
+            padding-bottom: 1.25rem;
+            border-bottom: 1px solid #334155;
+        }
+
+        .feed-item:last-child {
+            margin-bottom: 0;
+            padding-bottom: 0;
+            border-bottom: none;
+        }
+
+        .feed-item a {
+            color: var(--text-main);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.05rem;
+            display: inline-block;
+            margin-bottom: 0.4rem;
+            transition: color 0.2s;
+        }
+
+        .feed-item a:hover {
+            color: var(--accent-blue);
+        }
+
+        .feed-item p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+
+        /* Specific TV Schedule Layout */
+        .tv-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+            padding: 0.6rem 0;
+            border-bottom: 1px dashed #334155;
+        }
+        .tv-item:last-child { border-bottom: none; }
+
+        .tv-time {
+            background: #f43f5e;
+            color: #fff;
+            padding: 0.2rem 0.5rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            font-family: monospace;
+            white-space: nowrap;
+        }
+        .tv-details {
+            display: flex;
+            flex-direction: column;
+        }
+        .tv-event { font-weight: 600; font-size: 0.95rem; }
+        .tv-channel { color: var(--text-muted); font-size: 0.85rem; }
+
+        /* Responsive adjustments */
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            header { flex-direction: column; gap: 1rem; align-items: flex-start; }
+        }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <header>
-            <div>
-                <h1>Morning Dashboard</h1>
-                <div class="date" id="current-date"></div>
-            </div>
-            <div class="weather-widget" id="weather-widget">
-                <p>Loading weather for Copenhagen...</p>
-            </div>
-        </header>
+    <header>
+        <div class="greeting">
+            <h1 id="dynamic-greeting">Καλημέρα</h1>
+            <p id="live-clock" style="color: var(--text-muted); font-size: 0.95rem; font-weight: 500;"></p>
+        </div>
+        <div class="weather-widget" id="weather-display">Φόρτωση καιρού...</div>
+    </header>
 
-        <main class="dashboard-grid">
-            <div>
-                <h2 class="section-title">World News</h2>
-                <div id="world-news" class="news-container"><p>Loading...</p></div>
-                <br>
-                <h2 class="section-title">Tech & Innovation</h2>
-                <div id="tech-news" class="news-container"><p>Loading...</p></div>
-            </div>
+    <main class="dashboard-grid">
+        <div class="card world" id="sec-world">
+            <div class="card-header">🌐 World News</div>
+            <ul class="feed-list" id="list-world"></ul>
+        </div>
 
-            <div>
-                <h2 class="section-title">Denmark Focus (EN)</h2>
-                <div id="denmark-news" class="news-container"><p>Loading...</p></div>
-                <br>
-                <h2 class="section-title">Greece Focus (GR)</h2>
-                <div id="greece-news" class="news-container"><p>Loading...</p></div>
-            </div>
+        <div class="card tech" id="sec-tech">
+            <div class="card-header">💻 TechCrunch</div>
+            <ul class="feed-list" id="list-tech"></ul>
+        </div>
 
-            <div>
-                <h2 class="section-title">Sports Arena</h2>
-                <div id="sports-news" class="news-container"><p>Loading...</p></div>
-                <br>
-                <h2 class="section-title">Πρόγραμμα TV</h2>
-                <div id="tv-program" class="tv-list">
-                    <p style="padding: 1rem; margin: 0;">Loading TV Guide...</p>
-                </div>
-            </div>
-        </main>
-    </div>
+        <div class="card denmark" id="sec-denmark">
+            <div class="card-header">🇩🇰 Denmark (DR)</div>
+            <ul class="feed-list" id="list-denmark"></ul>
+        </div>
+
+        <div class="card greece" id="sec-greece">
+            <div class="card-header">🇬🇷 Ελλαδα (ΕΡΤ)</div>
+            <ul class="feed-list" id="list-greece"></ul>
+        </div>
+
+        <div class="card sports" id="sec-sports">
+            <div class="card-header">⚽ Σπορ (Gazzetta)</div>
+            <ul class="feed-list" id="list-sports"></ul>
+        </div>
+
+        <div class="card tv" id="sec-tv">
+            <div class="card-header">📺 Προγραμμα TV</div>
+            <div class="feed-list" id="list-tv"></div>
+        </div>
+    </main>
 
     <script>
-        const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-        document.getElementById('current-date').innerText = new Date().toLocaleDateString('en-US', options);
+        // 1. Dynamic Greeting & Clock Setup
+        function updateClock() {
+            const now = new Date();
+            const hours = now.getHours();
+            let greet = "Καλημέρα, Θεόφιλε!";
+            
+            if (hours >= 12 && hours < 18) greet = "Καλησπέρα, Θεόφιλε!";
+            if (hours >= 18 || hours < 5) greet = "Καλησπέρα!";
 
-        // Fetch Copenhagen Weather
-        const weatherUrl = "https://api.open-meteo.com/v1/forecast?latitude=55.6761&longitude=12.5683&current_weather=true&daily=temperature_2m_max,temperature_2m_min&timezone=Europe%2FCopenhagen";
-        fetch(weatherUrl)
-            .then(res => res.json())
-            .then(wData => {
-                const current = wData.current_weather;
-                const daily = wData.daily;
-                let html = `
-                    <div class="weather-current">
-                        <div><b>Copenhagen</b></div>
-                        <div class="temp">${Math.round(current.temperature)}°C</div>
-                        <div style="color: var(--text-muted)">Wind: ${current.windspeed} km/h</div>
-                    </div>
-                    <div class="weather-forecast">
-                `;
-                for(let i = 1; i <= 3; i++) {
-                    const fDate = new Date(daily.time[i]).toLocaleDateString('en-US', { weekday: 'short' });
-                    html += `
-                        <div class="forecast-day">
-                            <div style="color: var(--text-muted)">${fDate}</div>
-                            <div class="f-temp">${Math.round(daily.temperature_2m_max[i])}°</div>
-                            <div style="color: #6b7280; font-size:0.8rem">${Math.round(daily.temperature_2m_min[i])}°</div>
-                        </div>
-                    `;
+            document.getElementById('dynamic-greeting').innerText = greet;
+            
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute:'2-digit' };
+            document.getElementById('live-clock').innerText = now.toLocaleDateString('el-GR', options);
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+
+        // 2. Fetch Data and Populate UI
+        async function loadDashboard() {
+            try {
+                // Fetching the generated news.json (add timestamp to bypass browser cache)
+                const response = await fetch(`news.json?t=${new Date().getTime()}`);
+                const data = await response.json();
+
+                // Weather Update
+                if (data.weather && data.weather.temp) {
+                    document.getElementById('weather-display').innerText = `🌡️ ${data.weather.temp}`;
                 }
-                html += `</div>`;
-                document.getElementById('weather-widget').innerHTML = html;
-            })
-            .catch(() => { document.getElementById('weather-widget').innerHTML = "<p>Weather unavailable</p>"; });
 
-        // Fetch Compiled Dashboard Data
-        fetch('news.json')
-            .then(response => {
-                if (!response.ok) throw new Error('No news data found');
-                return response.json();
-            })
-            .then(data => {
-                const renderColumn = (containerId, articles) => {
-                    const container = document.getElementById(containerId);
+                // Standard Categories Handler
+                const categories = ['world', 'tech', 'denmark', 'greece', 'sports'];
+                categories.forEach(cat => {
+                    const container = document.getElementById(`list-${cat}`);
                     container.innerHTML = '';
-                    if(!articles || articles.length === 0) {
-                        container.innerHTML = '<p>No critical updates.</p>';
-                        return;
+                    if (data[cat] && data[cat].length > 0) {
+                        data[cat].forEach(item => {
+                            const li = document.createElement('li');
+                            li.className = 'feed-item';
+                            li.innerHTML = `
+                                <a href="${item.link}" target="_blank">${item.title}</a>
+                                <p>${item.summary || 'Δεν υπάρχει διαθέσιμη περίληψη.'}</p>
+                            `;
+                            container.appendChild(li);
+                        });
+                    } else {
+                        container.innerHTML = '<li class="feed-item"><p>Δεν βρέθηκαν ειδήσεις.</p></li>';
                     }
-                    articles.forEach(article => {
-                        const card = document.createElement('div');
-                        card.className = 'news-card';
-                        card.innerHTML = `
-                            <h3 class="news-title"><a href="${article.link}" target="_blank">${article.title}</a></h3>
-                            <p class="news-summary">${article.summary}</p>
-                        `;
-                        container.appendChild(card);
-                    });
-                };
+                });
 
-                // Render News Categories
-                renderColumn('world-news', data.world);
-                renderColumn('tech-news', data.tech);
-                renderColumn('denmark-news', data.denmark);
-                renderColumn('greece-news', data.greece);
-                renderColumn('sports-news', data.sports);
-
-                // Render Sports TV Schedule Grid
-                const tvContainer = document.getElementById('tv-program');
+                // TV Program Custom Handler
+                const tvContainer = document.getElementById('list-tv');
                 tvContainer.innerHTML = '';
-                if(data.tv_program && data.tv_program.length > 0) {
+                if (data.tv_program && data.tv_program.length > 0) {
                     data.tv_program.forEach(item => {
-                        const row = document.createElement('div');
-                        row.className = 'tv-row';
-                        row.innerHTML = `
-                            <span class="tv-time">${item.time}</span>
-                            <span class="tv-event">${item.event}</span>
-                            <span class="tv-channel">${item.channel}</span>
+                        const div = document.createElement('div');
+                        div.className = 'tv-item';
+                        
+                        // Supports both custom structured keys or fallback title
+                        const time = item.time || (item.title ? item.title.split('|')[0].trim() : '00:00');
+                        const event = item.event || (item.title ? item.title.split('|')[1].trim() : item.title);
+                        const channel = item.channel || item.summary || 'Σπορ Κανάλι';
+
+                        div.innerHTML = `
+                            <span class="tv-time">${time}</span>
+                            <div class="tv-details">
+                                <span class="tv-event">${event}</span>
+                                <span class="tv-channel">${channel}</span>
+                            </div>
                         `;
-                        tvContainer.appendChild(row);
+                        tvContainer.appendChild(div);
                     });
                 } else {
-                    tvContainer.innerHTML = '<p style="padding: 1rem; margin: 0;">Δεν βρέθηκαν προγραμματισμένες μεταδόσεις για σήμερα.</p>';
+                    tvContainer.innerHTML = '<p class="feed-item">Δεν υπάρχουν προγραμματισμένες μεταδόσεις.</p>';
                 }
-            })
-            .catch(error => { console.error(error); });
+
+                // 3. Trigger Smooth Staggered Fade-in Animation using JS
+                const cards = document.querySelectorAll('.card');
+                cards.forEach((card, index) => {
+                    setTimeout(() => {
+                        card.classList.add('visible');
+                    }, index * 120); // Delays each card appearance by 120ms
+                });
+
+            } catch (error) {
+                console.error("Error loading dashboard data:", error);
+                document.getElementById('weather-display').innerText = "Σφάλμα φόρτωσης";
+            }
+        }
+
+        window.onload = loadDashboard;
     </script>
 </body>
 </html>
