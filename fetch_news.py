@@ -50,12 +50,8 @@ def fetch_sports_tv():
         return f"Error gathering TV data: {str(e)}"
 
 def get_detailed_weather():
-    """Fetches weather and calculates specific rain timeframes (e.g., Athens)."""
-    # Συντεταγμένες για Αθήνα (Άλλαξέ τις αν θες άλλη πόλη, π.χ. Latitude=55.67 για Κοπεγχάγη)
     lat, lon = 37.9838, 23.7275 
     url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&hourly=temperature_2m,precipitation_probability,weather_code&current_weather=true&timezone=auto"
-    
-    # Weather codes mapping to Greek descriptions
     weather_desc = {0: "Ηλιοφάνεια", 1: "Σχεδόν αίθριος", 2: "Μερική συννεφιά", 3: "Συννεφιά", 45: "Ομίχλη", 51: "Ψιχάλες", 61: "Ασθενής βροχή", 63: "Βροχή", 80: "Καταιγίδα"}
 
     try:
@@ -64,16 +60,14 @@ def get_detailed_weather():
         code = current.get("weathercode", 0)
         condition = weather_desc.get(code, "Συννεφιά" if code > 3 else "Καλή")
         
-        # Ανάλυση ωριαίας βροχής
         hourly = res.get("hourly", {})
         times = hourly.get("time", [])
         probs = hourly.get("precipitation_probability", [])
         
         rain_hours = []
-        # Ελέγχουμε τις επόμενες 18 ώρες
         for i in range(min(18, len(times))):
-            if probs[i] >= 30: # Πιθανότητα βροχής πάνω από 30%
-                hour_str = times[i].split("T")[1][:5] # Παίρνουμε το HH:MM
+            if probs[i] >= 30:
+                hour_str = times[i].split("T")[1][:5]
                 rain_hours.append(hour_str)
         
         if rain_hours:
@@ -87,7 +81,7 @@ def get_detailed_weather():
             "rain_alert": rain_info
         }
     except Exception:
-        return {"temp": "N/A", "condition": "Άγνωστος", "rain_alert": "Δεν υπάρχουν δεδομένα βροχής."}
+        return {"temp": "N/A", "condition": "Άγνουστος", "rain_alert": "Δεν υπάρχουν δεδομένα βροχής."}
 
 # Execution
 print("Fetching clean data...")
@@ -119,27 +113,28 @@ def ask_groq_chunk(prompt_content):
 print("Processing and organizing sections through Groq...")
 
 # --- NEWS SECTIONS (English & Greek) ---
+# Added explicit instructions to return valid JSON syntax to fulfill Groq API rule
 for cat in ["world", "tech"]:
-    p = f"Select the top 3-4 items. BOTH title and summary MUST be in ENGLISH. Format: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
+    p = f"Select the top 3-4 items. BOTH title and summary MUST be in ENGLISH. Return the output as a valid JSON object containing the key '{cat}' structured like this: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
     final_dashboard.update(ask_groq_chunk(p))
     time.sleep(2)
 
-p_dk = f"Select top 3-4 items. Translate completely to ENGLISH. Format: {{'denmark': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data['denmark'])}"
+p_dk = f"Select top 3-4 items. Translate completely to ENGLISH. Return the output as a valid JSON object containing the key 'denmark' structured like this: {{'denmark': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data['denmark'])}"
 final_dashboard.update(ask_groq_chunk(p_dk))
 time.sleep(2)
 
 for cat in ["greece", "sports"]:
-    p = f"Select the top 3-4 items. BOTH title and summary MUST be in GREEK. Format: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
+    p = f"Select the top 3-4 items. BOTH title and summary MUST be in GREEK. Return the output as a valid JSON object containing the key '{cat}' structured like this: {{'{cat}': [{{'title': '...', 'summary': '...', 'link': '...'}}]}}. Data: {json.dumps(raw_data[cat])}"
     final_dashboard.update(ask_groq_chunk(p))
     time.sleep(2)
 
-# --- TV PROGRAM SECTION (Strictly Organized) ---
+# --- TV PROGRAM SECTION ---
 print("-> Structuring Sports TV Schedule...")
 p_tv = f"""
 Extract the top 10 major live sports broadcasts for today from the text. 
 Sort them chronologically by time.
-Format them into a strict JSON array of objects with keys 'time', 'event', and 'channel' written entirely in GREEK.
-Example format: {{'tv_program': [{{'time': '16:00', 'event': 'Φόρμουλα 1: Γκραν Πρι Βαρκελώνης', 'channel': 'ANT1+'}}]}}
+You MUST output the result as a valid JSON object containing the key 'tv_program' with an array of objects containing 'time', 'event', and 'channel' written entirely in GREEK.
+Example JSON format: {{'tv_program': [{{'time': '16:00', 'event': 'Φόρμουλα 1: Γκραν Πρι Βαρκελώνης', 'channel': 'ANT1+'}}]}}
 Text: {json.dumps(raw_data['tv_program'], ensure_ascii=False)}
 """
 final_dashboard.update(ask_groq_chunk(p_tv))
