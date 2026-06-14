@@ -1,3 +1,5 @@
 feedparser
-python-dotenv
 groq
+python-dotenv
+requests
+beautifulsoup4
