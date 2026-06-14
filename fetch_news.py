@@ -51,7 +51,7 @@ def fetch_sports_tv():
         return f"Error gathering TV data: {str(e)}"
 
 def get_detailed_weather():
-    lat, lon = 37.9838, 23.7275 
+    lat, lon = 55.6761, 12.5683
     url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&hourly=temperature_2m,precipitation_probability,weather_code&current_weather=true&timezone=auto"
     weather_desc = {
         0: "Ηλιοφάνεια", 1: "Σχεδόν αίθριος", 2: "Μερική συννεφιά", 3: "Συννεφιά", 
