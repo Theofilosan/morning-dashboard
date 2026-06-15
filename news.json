@@ -1,159 +1,159 @@
 {
     "weather": {
-        "temp": "28.0°C - Ηλιοφάνεια (Όχι βροχή)",
-        "condition": "Ηλιοφάνεια",
-        "rain_alert": "Όχι βροχή",
-        "combined": "28.0°C - Ηλιοφάνεια (Όχι βροχή)"
+        "temp": "16.4°C - Συννεφιά (Βροχή: 00:00, 01:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)",
+        "condition": "Συννεφιά",
+        "rain_alert": "Βροχή: 00:00, 01:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00",
+        "combined": "16.4°C - Συννεφιά (Βροχή: 00:00, 01:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)"
     },
     "world": [
         {
-            "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-            "summary": "The US president's comments come as Iran says an exact date has not been decided.",
-            "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+            "title": "Oil prices fall and shares jump after US-Iran deal announced",
+            "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+            "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Swiss voters reject 10 million population cap, early projections say",
-            "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
-            "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+            "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+            "summary": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
+            "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Fifa to pay Somali referee Artan full World Cup fee",
-            "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
-            "link": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss"
+            "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
+            "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
+            "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
-            "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
-            "link": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss"
+            "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+            "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
+            "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-            "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
-            "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
+            "title": "Norwegian crown princess's son found guilty of two counts of rape",
+            "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and given four years in jail.",
+            "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-            "summary": "The new Sonos Play can act as a portable speaker inside and outside your home.",
-            "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/"
+            "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+            "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital.",
+            "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/"
         },
         {
-            "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-            "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-            "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+            "title": "As AI companies race to go public, who else is along for the ride?",
+            "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+            "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
         },
         {
-            "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-            "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-            "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+            "title": "UK may ban social media for children under 16",
+            "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+            "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/"
         },
         {
-            "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-            "summary": "Once again, AI proves to be an unreliable source of information about AI.",
-            "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+            "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+            "summary": "JPMorgan can't be pleased by any of this.",
+            "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/"
         },
         {
-            "title": "As Anthropic suspends access to new models, India debates its AI future",
-            "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-            "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+            "title": "The AI layoff wave is becoming a powder keg",
+            "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+            "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
         }
     ],
     "denmark": [
         {
-            "title": "Trump: Attacks in Beirut should not have happened",
-            "summary": "US President Donald Trump has expressed his disapproval of the recent attacks in Beirut, calling them 'unacceptable'.",
-            "link": "https://www.dr.dk/nyheder/seneste/trump-dagens-angreb-i-beirut-burde-ikke-have-fundet-sted"
+            "title": "Doctors Without Borders: Infection tracking after Ebola outbreak is moving slowly",
+            "summary": "The Danish health authorities are facing criticism for their slow response to the Ebola outbreak, with some doctors expressing concerns about the lack of coordination and resources.",
+            "link": "https://www.dr.dk/nyheder/seneste/laeger-uden-graenser-smitteopsporing-efter-ebola-udbrud-gaar-langsomt"
         },
         {
-            "title": "Churches offer same-sex marriages from June 26",
-            "summary": "The Danish Church has announced that it will start offering same-sex marriages from June 26, following a recent change in the church's stance.",
-            "link": "https://www.dr.dk/nyheder/seneste/kirker-tilbyder-straks-vielser-den-26-juni"
+            "title": "Inmates can apply for compensation for eavesdropping in prison",
+            "summary": "The Danish government has announced plans to introduce a new law that would allow inmates to apply for compensation if they have been subjected to eavesdropping in prison.",
+            "link": "https://www.dr.dk/nyheder/seneste/indsatte-kan-soege-om-godtgoerelse-aflytning-af-samtaler-i-faengslet"
         },
         {
-            "title": "Israel attacks Hezbollah targets in Beirut",
-            "summary": "Israel has launched airstrikes against Hezbollah targets in Beirut, sparking widespread condemnation and concern.",
-            "link": "https://www.dr.dk/nyheder/seneste/israel-angriber-hizbollah-maal-i-beirut"
+            "title": "Donald Trump Jr. visited Novo Nordisk in Bagsværd",
+            "summary": "Donald Trump Jr., the son of the former US President, visited the Danish pharmaceutical company Novo Nordisk in Bagsværd, sparking interest and speculation about the purpose of his visit.",
+            "link": "https://www.dr.dk/nyheder/seneste/donald-trump-jr-besoegte-novo-nordisk-i-bagsvaerd"
         },
         {
-            "title": "Switzerland rejects COVID-19 lockdown, citing low population density",
-            "summary": "Switzerland has decided against imposing a nationwide lockdown to combat the spread of COVID-19, citing its low population density and relatively low infection rates.",
-            "link": "https://www.dr.dk/nyheder/seneste/schweiz-siger-nej-til-loft-paa-befolkningstal-viser-prognoser"
+            "title": "Russia: US air defense system was responsible for fire in Ukrainian monastery",
+            "summary": "Russia has accused the US of being responsible for a fire that broke out in a Ukrainian monastery, with the US denying any involvement and calling the allegations \"baseless\".",
+            "link": "https://www.dr.dk/nyheder/seneste/rusland-amerikansk-luftforsvarssystem-var-skyld-i-brand-i-ukrainsk-kloster"
         },
         {
-            "title": "Storm and arrests during Knicks' victory celebration in New York",
-            "summary": "A severe storm swept through New York City, causing widespread damage and leading to several arrests during the celebration of the Knicks' recent victory.",
-            "link": "https://www.dr.dk/nyheder/seneste/haervaerk-og-flere-anholdt-under-fejring-af-knicks-sejr-i-new-york"
+            "title": "More girls and boys are getting HPV vaccinations",
+            "summary": "The Danish health authorities have reported an increase in the number of girls and boys receiving HPV vaccinations, with the goal of reducing the risk of cervical cancer and other HPV-related diseases.",
+            "link": "https://www.dr.dk/nyheder/seneste/flere-piger-og-drenge-bliver-hpv-vaccineret"
         }
     ],
     "greece": [
         {
-            "title": "Τραμπ: Η πρωϊνή ετερεσχη στην Βηρυτό δεν ώπρεπε να είχε συμβεί",
-            "summary": "Ο Ντόναλυνδ Τραμπ επέκρινε το Ισραήλ για την επόμενη που πραγματος σήμερα στη Βηρυτό καλώντας το – όπως και την Χεζμπολάχ – να μην πραγματοςιήσει άλλες επιθέσεις σε κανένα τμήμα του Λιβάνου.",
-            "link": "https://www.ertnews.gr/eidiseis/tramp-i-proini-epithesi-stin-viryto-den-eprepe-na-eixe-symvei/"
+            "title": "Συνεχίζονται οι έλεγχοι στην Κεντρική Μακεδονία για τη χρήση προστατευτικού κράνος",
+            "summary": "Στο πλαίσιο της εκστρατείας «Μηδενικής ανοχής στη μη χρήση κράνος», συνεχίζονται οι στοχευμένοι τροκοίς έλεγχοι σε Ημαθία, Κιλκίς, Πέλλα, Πιερία, Σέρρες και Χαλκιδική, με σκοπό την καθολική συμλμ",
+            "link": "https://www.ertnews.gr/ert3/synexizontai-oi-elegxoi-stin-kentriki-makedonia-gia-ti-xrisi-prostateytikou-kranous/"
         },
         {
-            "title": "Ένα βήμα πριν από την υπουπραφή συμφωνίας ΗΠΑ με Ιράν – «Αγκάθι» η ισραηλινή επόμενη στη νότια Βηρυτό",
-            "summary": "Μόνο οι υπογραφές μένουν, σύμφωνα με τον Ντόναλυντ Τραμω, για σιγήσουν τα όπλα στον Περσικό και να αρχίσουν οι συνοςγίες για τα κρίσιμα θέματα που οδήγησαν στη σρλαλαξη Ηπιμενιυν Πολιτειών και Ιράν.",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/live-ena-vima-prin-apo-tin-ypografi-symfonias-ipa-me-iran-agkathi-i-israilini-epithesi-sti-notia-viryto/"
+            "title": "Η ιστορία της Barbie ζωντανεύει σε νέα έκθεση στη Γλασκώβη",
+            "summary": "Μια ξεχωριστή έκθεση αφιερωμένη στην ιστορία της Barbie άνοιξε τις πύλες της στη Σκωτία, προσκαλώντας μικρούς και μεγάλους σε ένα ταλγίδι γεμάτο χρώμα και νοσταλγία. Η έκθεση «Barbie: The Exhibition» π",
+            "link": "https://www.ertnews.gr/eidiseis/i-istoria-tis-barbie-zontaneyei-se-nea-ekthesi-sti-glaskovi/"
         }
     ],
     "sports": [
         {
-            "title": "Χοντελίν: Παγκόσμιο ρεκόρ εφήβων στο μήκος με 8.46μ.",
-            "summary": "σημείωσε παγκόσμιο ρεκόρ εφήβων στο μήκος συ μίτινγκ στη Γαλλία.",
-            "link": "https://www.gazzetta.gr/stibos/2546975/hontelin-pagkosmio-rekor-efibon-sto-mikos-me-846m"
+            "title": "Ντε Στε Σίλιο: Ηρακλής - Ακόμα μία... ιταλική βόμβα στα... ραντάρ σύμφωνα με τους Ιταλούς",
+            "summary": "Μετά τον Λορέντσο Ινσίνιε, οι Ιταλοί γράφουν για τον Βάλτερ Ματσάρι ότι θίλει να πάρει στον Ηρακλή και τον Ματία Ντε Σίλιο.",
+            "link": "https://www.gazzetta.gr/football/superleague/2547157/nte-silio-iraklis-akoma-mia-italiki-bomba-sta-rantar-symfona-me-toys"
         },
         {
-            "title": "Άρης: Από νωρίς χαμός στο αεροδρόμιο για Σπανούλη",
-            "summary": "Ο Βασίλης Σπανούλης αναμένεται σύντομα στην Θεσσαλονίκη (η πτήση του προσγειώνεται στις 19:00) και μια ώρα πριν, πολλούς φίλοι του Άρη έχουν ήδη συγκεντρωθεί στο αεροδρόμιο «Μακεδονία» για να τον υποδ",
-            "link": "https://www.gazzetta.gr/basketball/basket-league/2546972/aris-apo-noris-hamos-sto-aerodromio-gia-spanoyli"
+            "title": "Μιλαν: Νέος προωνητής των Ροσονέρι ο Αμορίμ",
+            "summary": "Ο Φαμπρίτσιο Ρομάνο αποκάλυψε πως ο Ρούμπεν Αμορίμ θα αναλάβει χρέη προωνητή στη Μίλαν.",
+            "link": "https://www.gazzetta.gr/football/serie/2547156/milan-neos-proponitis-ton-rosoneri-o-amorim"
         },
         {
-            "title": "F1: Οι βαθμολογίες μετά το GP Ισπανίας",
-            "summary": "Η σειρά των τριών πρώτων στη βαθμολογία δεν άλλαξε μετά τη Βαρκελώνη, αλλά με τη νίκη του Χάμιλτον και την εγκατάλειψη του Αντολέλι έχουμε νέα δεδομένα στο πρωτάθλημα Formula 1.",
-            "link": "https://www.gazzetta.gr/gmotion/2546971/f1-oi-bathmologies-meta-gp-ispanias"
+            "title": "Μπουζούκια, έρωτες, βεντέτες και Μπισμπίκης: Οι σειρές της νέας τηλεοπτικής σεζόν",
+            "summary": "Σε γγλιμα μονοπάτια κινείται η μυθοπλασία της ερχόμενης τηλεοπτικής σεζόν, που έχει προτίμηση στους απαγορευμένους έρωτες, στα λουλούδια και στα τουρκικά concept.",
+            "link": "https://www.gazzetta.gr/plus/2547154/mpoyzoykia-erotes-bentetes-kai-mpismpikis-oi-seires-tis-neas-tileoptikis-sezon"
         }
     ],
     "tv_program": [
         {
-            "time": "14:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "14:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
             "time": "16:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΑΝΤ1+",
+            "channel": "ANT1+",
             "title": "16:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΑΝΤ1+",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "17:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "17:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "18:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΑΝΤ1+",
-            "title": "18:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΑΝΤ1+",
+            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "channel": "OLTA TV",
+            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "summary": "Κανάλι: OLTA TV",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
+            "channel": "ERT1",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
+            "summary": "Κανάλι: ERT1",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "20:00",
+            "event": "Απάντηση στο Μάντσεστερ Γιουνάιτεντ",
+            "channel": "OLTA TV",
+            "title": "20:00 | Απάντηση στο Μάντσεστερ Γιουνάιτεντ",
+            "summary": "Κανάλι: OLTA TV",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "21:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "19:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
+            "channel": "ANT1+",
+            "title": "21:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
