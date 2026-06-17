@@ -1,118 +1,113 @@
 {
     "weather": {
-        "temp": "16.4°C - Συννεφιά (Βροχή: 00:00, 01:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)",
-        "condition": "Συννεφιά",
-        "rain_alert": "Βροχή: 00:00, 01:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00",
-        "combined": "16.4°C - Συννεφιά (Βροχή: 00:00, 01:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)"
+        "temp": "16.3°C - Μερική συννεφιά (Όχι βροχή)",
+        "condition": "Μερική συννεφιά",
+        "rain_alert": "Όχι βροχή",
+        "combined": "16.3°C - Μερική συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "Oil prices fall and shares jump after US-Iran deal announced",
-            "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
-            "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
+            "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+            "summary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+            "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
-            "summary": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
-            "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss"
+            "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+            "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
+            "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
-            "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
-            "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss"
+            "title": "Brazil convicts Jair Bolsonaro's son of pursuing US help in father's legal battle",
+            "summary": "Eduardo Bolsonaro called the conviction \"baseless and senseless\".",
+            "link": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
-            "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
-            "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss"
+            "title": "Russian artist and Putin critic shot dead in Poland",
+            "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+            "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Norwegian crown princess's son found guilty of two counts of rape",
-            "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and given four years in jail.",
-            "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss"
+            "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+            "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
+            "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
-            "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital.",
-            "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/"
+            "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+            "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
+            "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/"
         },
         {
-            "title": "As AI companies race to go public, who else is along for the ride?",
-            "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-            "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
+            "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+            "summary": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively ",
+            "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/"
         },
         {
-            "title": "UK may ban social media for children under 16",
-            "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
-            "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/"
+            "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+            "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+            "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/"
         },
         {
-            "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
-            "summary": "JPMorgan can't be pleased by any of this.",
-            "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/"
+            "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
+            "summary": "A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World C",
+            "link": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/"
         },
         {
-            "title": "The AI layoff wave is becoming a powder keg",
-            "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-            "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
+            "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+            "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+            "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
         }
     ],
     "denmark": [
         {
-            "title": "Doctors Without Borders: Infection tracking after Ebola outbreak is moving slowly",
-            "summary": "The Danish health authorities are facing criticism for their slow response to the Ebola outbreak, with some doctors expressing concerns about the lack of coordination and resources.",
-            "link": "https://www.dr.dk/nyheder/seneste/laeger-uden-graenser-smitteopsporing-efter-ebola-udbrud-gaar-langsomt"
+            "title": "Soon you will have to pay tax on all small packages bought outside the EU",
+            "summary": "The Danish government is planning to introduce a tax on small packages bought outside the EU, affecting online shoppers.",
+            "link": "https://www.dr.dk/nyheder/seneste/snart-skal-du-betale-told-paa-alle-smaapakker-koebt-uden-eu"
         },
         {
-            "title": "Inmates can apply for compensation for eavesdropping in prison",
-            "summary": "The Danish government has announced plans to introduce a new law that would allow inmates to apply for compensation if they have been subjected to eavesdropping in prison.",
-            "link": "https://www.dr.dk/nyheder/seneste/indsatte-kan-soege-om-godtgoerelse-aflytning-af-samtaler-i-faengslet"
+            "title": "FCK is punished with the closure of the fan stand in the first match",
+            "summary": "FCK has been punished with the closure of the fan stand in the first match due to fan misconduct.",
+            "link": "https://www.dr.dk/nyheder/seneste/fck-straffes-med-nedlukning-af-fantribune-i-foerste-kampe"
         },
         {
-            "title": "Donald Trump Jr. visited Novo Nordisk in Bagsværd",
-            "summary": "Donald Trump Jr., the son of the former US President, visited the Danish pharmaceutical company Novo Nordisk in Bagsværd, sparking interest and speculation about the purpose of his visit.",
-            "link": "https://www.dr.dk/nyheder/seneste/donald-trump-jr-besoegte-novo-nordisk-i-bagsvaerd"
+            "title": "Denmark has the world's best researcher in energy",
+            "summary": "A Danish researcher has been named the world's best in the field of energy, a testament to Denmark's expertise in the field.",
+            "link": "https://www.dr.dk/nyheder/seneste/verdens-bedste-forsker-i-energi-er-dansk"
         },
         {
-            "title": "Russia: US air defense system was responsible for fire in Ukrainian monastery",
-            "summary": "Russia has accused the US of being responsible for a fire that broke out in a Ukrainian monastery, with the US denying any involvement and calling the allegations \"baseless\".",
-            "link": "https://www.dr.dk/nyheder/seneste/rusland-amerikansk-luftforsvarssystem-var-skyld-i-brand-i-ukrainsk-kloster"
+            "title": "Norway's Crown Princess, Mette-Marit, has received a lung transplant",
+            "summary": "Crown Princess Mette-Marit had been on the waiting list for new lungs.",
+            "link": "https://www.dr.dk/nyheder/seneste/norges-kronprinsesse-mette-marit-har-faaet-lungetransplantation"
         },
         {
-            "title": "More girls and boys are getting HPV vaccinations",
-            "summary": "The Danish health authorities have reported an increase in the number of girls and boys receiving HPV vaccinations, with the goal of reducing the risk of cervical cancer and other HPV-related diseases.",
-            "link": "https://www.dr.dk/nyheder/seneste/flere-piger-og-drenge-bliver-hpv-vaccineret"
+            "title": "Hand grenades and pistols found during excavation in Roskilde",
+            "summary": "During an excavation in Roskilde, hand grenades and pistols were found, sparking concerns about the city's history.",
+            "link": "https://www.dr.dk/nyheder/seneste/haandgranater-og-pistoler-fundet-under-udgravning-i-roskilde"
         }
     ],
     "greece": [
         {
-            "title": "Συνεχίζονται οι έλεγχοι στην Κεντρική Μακεδονία για τη χρήση προστατευτικού κράνος",
-            "summary": "Στο πλαίσιο της εκστρατείας «Μηδενικής ανοχής στη μη χρήση κράνος», συνεχίζονται οι στοχευμένοι τροκοίς έλεγχοι σε Ημαθία, Κιλκίς, Πέλλα, Πιερία, Σέρρες και Χαλκιδική, με σκοπό την καθολική συμλμ",
-            "link": "https://www.ertnews.gr/ert3/synexizontai-oi-elegxoi-stin-kentriki-makedonia-gia-ti-xrisi-prostateytikou-kranous/"
-        },
-        {
-            "title": "Η ιστορία της Barbie ζωντανεύει σε νέα έκθεση στη Γλασκώβη",
-            "summary": "Μια ξεχωριστή έκθεση αφιερωμένη στην ιστορία της Barbie άνοιξε τις πύλες της στη Σκωτία, προσκαλώντας μικρούς και μεγάλους σε ένα ταλγίδι γεμάτο χρώμα και νοσταλγία. Η έκθεση «Barbie: The Exhibition» π",
-            "link": "https://www.ertnews.gr/eidiseis/i-istoria-tis-barbie-zontaneyei-se-nea-ekthesi-sti-glaskovi/"
+            "title": "Θεσσαλονίκη: Έκτακτη προβολή αλληλεγγύης διοργανώνει θερινό σινεμά για το συνεργείο που κάηκε ολοσχερώς",
+            "summary": "Το απόγευμα της Δευτέρας (15/06) ξέσπασε πυρκαγιά, στο κάντρο της Θεσσαλονίκης, σε συνεργείο αυτοκινήτων επί της οδού Ευζώνων. Αποτέλεσμα ήταν να καταστραφεί ολοσχερώς, όμως ένα γειτονικό θερινό σινεμ",
+            "link": "https://www.ertnews.gr/ert3/thessaloniki-ektakti-provoli-allileggyis-diorganonei-therino-sinema-gia-to-synergeio-pou-kaike-olosxeros/"
         }
     ],
     "sports": [
         {
-            "title": "Ντε Στε Σίλιο: Ηρακλής - Ακόμα μία... ιταλική βόμβα στα... ραντάρ σύμφωνα με τους Ιταλούς",
-            "summary": "Μετά τον Λορέντσο Ινσίνιε, οι Ιταλοί γράφουν για τον Βάλτερ Ματσάρι ότι θίλει να πάρει στον Ηρακλή και τον Ματία Ντε Σίλιο.",
-            "link": "https://www.gazzetta.gr/football/superleague/2547157/nte-silio-iraklis-akoma-mia-italiki-bomba-sta-rantar-symfona-me-toys"
+            "title": "Μουντιάλ 2026: Στέλνει μήνυμα η Πορτογαλία κόντρα στο Κονγκό, γκολ και κάρτες στο Αγγλία - Κροατία",
+            "summary": "Πρεμιέρα για το Group K του Παγκοστου 2026, με την αναμέτρηση Πορτογαλία - Κονγκό στο NRG Stadium, το βράδυ της Τετάρτης (17/6, 20:00).",
+            "link": "https://www.gazzetta.gr/football/2547640/moyntial-2026-stelnei-minyma-i-portogalia-kontra-sto-kongko-gkol-kai-kartes-sto"
         },
         {
-            "title": "Μιλαν: Νέος προωνητής των Ροσονέρι ο Αμορίμ",
-            "summary": "Ο Φαμπρίτσιο Ρομάνο αποκάλυψε πως ο Ρούμπεν Αμορίμ θα αναλάβει χρέη προωνητή στη Μίλαν.",
-            "link": "https://www.gazzetta.gr/football/serie/2547156/milan-neos-proponitis-ton-rosoneri-o-amorim"
+            "title": "Έρχονται οι Ford Pro Blue Days στη ΒΕΛΜΑΡ",
+            "summary": "H Ford Βελμάρ δίλει την ευκαιρία σε όλους τους ενδιαφερόμενους να κάνουν το test drive του επαγγελματικού μοντέλου που επιθυμούν για λίγες μόνο ημέρες.",
+            "link": "https://www.gazzetta.gr/gmotion/2547478/erhontai-oi-ford-pro-blue-days-sti-belmar"
         },
         {
-            "title": "Μπουζούκια, έρωτες, βεντέτες και Μπισμπίκης: Οι σειρές της νέας τηλεοπτικής σεζόν",
-            "summary": "Σε γγλιμα μονοπάτια κινείται η μυθοπλασία της ερχόμενης τηλεοπτικής σεζόν, που έχει προτίμηση στους απαγορευμένους έρωτες, στα λουλούδια και στα τουρκικά concept.",
-            "link": "https://www.gazzetta.gr/plus/2547154/mpoyzoykia-erotes-bentetes-kai-mpismpikis-oi-seires-tis-neas-tileoptikis-sezon"
+            "title": "Παναθηναϊκός: «Πράσινος» μήχρι το 2027 ο Μανδηλάρης",
+            "summary": "Ο Άγγελος Μανδηλάρης θα συνεχίσει να αγωνίζεται στον Παναθηναϊκό και την επόμενη χρονιά, καθώς ανανέωσε με το «τριφύλλι» για ένα ακόμη χρόνο.",
+            "link": "https://www.gazzetta.gr/volleyball/volley-league/2547639/panathinaikos-prasinos-mehri-2027-o-mandilaris"
         }
     ],
     "tv_program": [
@@ -127,33 +122,33 @@
         {
             "time": "18:00",
             "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
-            "channel": "OLTA TV",
+            "channel": "ΣΚΑΪ",
             "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
-            "summary": "Κανάλι: OLTA TV",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
-            "channel": "ERT1",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
-            "summary": "Κανάλι: ERT1",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
+            "channel": "Alpha",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
+            "summary": "Κανάλι: Alpha",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Απάντηση στο Μάντσεστερ Γιουνάιτεντ",
-            "channel": "OLTA TV",
-            "title": "20:00 | Απάντηση στο Μάντσεστερ Γιουνάιτεντ",
-            "summary": "Κανάλι: OLTA TV",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Κροατία",
+            "channel": "Mega",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Κροατία",
+            "summary": "Κανάλι: Mega",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
-            "title": "21:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Σουηδία",
+            "channel": "Open",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Σουηδία",
+            "summary": "Κανάλι: Open",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
