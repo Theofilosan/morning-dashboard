@@ -1,113 +1,108 @@
 {
     "weather": {
-        "temp": "16.3°C - Μερική συννεφιά (Όχι βροχή)",
+        "temp": "19.6°C - Μερική συννεφιά (Βροχή: 02:00)",
         "condition": "Μερική συννεφιά",
-        "rain_alert": "Όχι βροχή",
-        "combined": "16.3°C - Μερική συννεφιά (Όχι βροχή)"
+        "rain_alert": "Βροχή: 02:00",
+        "combined": "19.6°C - Μερική συννεφιά (Βροχή: 02:00)"
     },
     "world": [
         {
-            "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-            "summary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
-            "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss"
+            "title": "What's in the US-Iran agreement?",
+            "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+            "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-            "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
-            "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
+            "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+            "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+            "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Brazil convicts Jair Bolsonaro's son of pursuing US help in father's legal battle",
-            "summary": "Eduardo Bolsonaro called the conviction \"baseless and senseless\".",
-            "link": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&at_campaign=rss"
+            "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+            "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+            "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Russian artist and Putin critic shot dead in Poland",
-            "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
-            "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss"
+            "title": "Gunfire heard at Niger capital's airport",
+            "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+            "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-            "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
-            "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss"
+            "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+            "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+            "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-            "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
-            "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/"
+            "title": "How to turn off AI in your Google Docs",
+            "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+            "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/"
         },
         {
-            "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-            "summary": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively ",
-            "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/"
+            "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+            "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+            "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/"
         },
         {
-            "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-            "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-            "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/"
+            "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+            "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+            "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/"
         },
         {
-            "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
-            "summary": "A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World C",
-            "link": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/"
+            "title": "Roelof Botha joins SpaceX’s board of directors",
+            "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+            "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/"
         },
         {
-            "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-            "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-            "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
+            "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+            "summary": "Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.",
+            "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/"
         }
     ],
     "denmark": [
         {
-            "title": "Soon you will have to pay tax on all small packages bought outside the EU",
-            "summary": "The Danish government is planning to introduce a tax on small packages bought outside the EU, affecting online shoppers.",
-            "link": "https://www.dr.dk/nyheder/seneste/snart-skal-du-betale-told-paa-alle-smaapakker-koebt-uden-eu"
+            "title": "Open AI Opens Its First Nordic Office in Sweden",
+            "summary": "Open AI has announced the opening of its first Nordic office in Sweden, marking a significant expansion into the region.",
+            "link": "https://www.dr.dk/nyheder/seneste/open-ai-aabner-sit-foerste-nordiske-kontor-i-sverige"
         },
         {
-            "title": "FCK is punished with the closure of the fan stand in the first match",
-            "summary": "FCK has been punished with the closure of the fan stand in the first match due to fan misconduct.",
-            "link": "https://www.dr.dk/nyheder/seneste/fck-straffes-med-nedlukning-af-fantribune-i-foerste-kampe"
+            "title": "Researchers Seek Women in Perimenopause for Experimental Treatments",
+            "summary": "Danish researchers are conducting experiments to find new treatments for women in perimenopause, a phase of life that can be challenging for many women.",
+            "link": "https://www.dr.dk/nyheder/seneste/forskere-soeger-kvinder-i-overgangsalderen-til-forsoeg-med-behandlingsformer"
         },
         {
-            "title": "Denmark has the world's best researcher in energy",
-            "summary": "A Danish researcher has been named the world's best in the field of energy, a testament to Denmark's expertise in the field.",
-            "link": "https://www.dr.dk/nyheder/seneste/verdens-bedste-forsker-i-energi-er-dansk"
+            "title": "Suspect in Russian Satirist Murder Case Arrested in Poland",
+            "summary": "A suspect in the murder case of a Russian satirist has been arrested in Poland, bringing new developments to the ongoing investigation.",
+            "link": "https://www.dr.dk/nyheder/seneste/mistaenkt-i-sag-om-drab-paa-russisk-satiriker-er-anholdt-i-polen"
         },
         {
-            "title": "Norway's Crown Princess, Mette-Marit, has received a lung transplant",
-            "summary": "Crown Princess Mette-Marit had been on the waiting list for new lungs.",
-            "link": "https://www.dr.dk/nyheder/seneste/norges-kronprinsesse-mette-marit-har-faaet-lungetransplantation"
+            "title": "Archaeologists Discover Simpler, Older Version of Stonehenge",
+            "summary": "Archaeologists have made a groundbreaking discovery, finding an older and simpler version of the famous Stonehenge monument.",
+            "link": "https://www.dr.dk/nyheder/seneste/arkaeologer-finder-enklere-og-aeldre-version-af-stonehenge"
         },
         {
-            "title": "Hand grenades and pistols found during excavation in Roskilde",
-            "summary": "During an excavation in Roskilde, hand grenades and pistols were found, sparking concerns about the city's history.",
-            "link": "https://www.dr.dk/nyheder/seneste/haandgranater-og-pistoler-fundet-under-udgravning-i-roskilde"
+            "title": "High Court to Rule on Danish Citizenship of Notorious Gang Member",
+            "summary": "The Danish High Court is set to make a ruling on the citizenship status of a notorious gang member, a decision that could have significant implications.",
+            "link": "https://www.dr.dk/nyheder/seneste/hoejesteret-skal-tage-stilling-til-bandekriminels-danske-statsborgerskab"
         }
     ],
     "greece": [
         {
-            "title": "Θεσσαλονίκη: Έκτακτη προβολή αλληλεγγύης διοργανώνει θερινό σινεμά για το συνεργείο που κάηκε ολοσχερώς",
-            "summary": "Το απόγευμα της Δευτέρας (15/06) ξέσπασε πυρκαγιά, στο κάντρο της Θεσσαλονίκης, σε συνεργείο αυτοκινήτων επί της οδού Ευζώνων. Αποτέλεσμα ήταν να καταστραφεί ολοσχερώς, όμως ένα γειτονικό θερινό σινεμ",
-            "link": "https://www.ertnews.gr/ert3/thessaloniki-ektakti-provoli-allileggyis-diorganonei-therino-sinema-gia-to-synergeio-pou-kaike-olosxeros/"
+            "title": "Το εμβόλιο που σχεδόν μηδένισε του θανάτους από καρκίνο του ταχήλου τη μήτρας στην Αγγλία",
+            "summary": "Σχεδόν 200 ζωές έχουν σωθεί στην Αγγλία χάρη στο εμβόλιο κατά του ιού HPV, σύμφωνα με νέα μελέτη που δημοσιεύθηώθηώικώ στο επιστημονικό περιοδικό The Lancet. Οι ερευνητές διαπίστωσαν ός οι θάνατοι από καρ",
+            "link": "https://www.ertnews.gr/eidiseis/to-emvolio-pou-sxedon-midenise-tous-thanatous-apo-karkino-tou-traxilou-tis-mitras-stin-agglia/"
+        },
+        {
+            "title": "Παγκόσμια ημέρα Μουσικής στο Αρχαιολογικό Μουσείο Θεσσαλονίκης",
+            "summary": "Το Αρχαιολογικό Μουσείο Θεσσαλονίκης μαζί με τον Σύνδεσμο Φίλων του Αρχαιολογικού Μουσείου Θεσσαλονίκης γιορτάζουν την Παγκόσμια Ημέρα Μουσικής με μια βραδιά γεμάτη μελωδίες. Ο Πέτρος Ανδρεάδης, α’ κλ",
+            "link": "https://www.ertnews.gr/ert3/pagkosmia-imera-mousikis-sto-arxaiologiko-mouseio-thessalonikis/"
         }
     ],
     "sports": [
         {
-            "title": "Μουντιάλ 2026: Στέλνει μήνυμα η Πορτογαλία κόντρα στο Κονγκό, γκολ και κάρτες στο Αγγλία - Κροατία",
-            "summary": "Πρεμιέρα για το Group K του Παγκοστου 2026, με την αναμέτρηση Πορτογαλία - Κονγκό στο NRG Stadium, το βράδυ της Τετάρτης (17/6, 20:00).",
-            "link": "https://www.gazzetta.gr/football/2547640/moyntial-2026-stelnei-minyma-i-portogalia-kontra-sto-kongko-gkol-kai-kartes-sto"
-        },
-        {
-            "title": "Έρχονται οι Ford Pro Blue Days στη ΒΕΛΜΑΡ",
-            "summary": "H Ford Βελμάρ δίλει την ευκαιρία σε όλους τους ενδιαφερόμενους να κάνουν το test drive του επαγγελματικού μοντέλου που επιθυμούν για λίγες μόνο ημέρες.",
-            "link": "https://www.gazzetta.gr/gmotion/2547478/erhontai-oi-ford-pro-blue-days-sti-belmar"
-        },
-        {
-            "title": "Παναθηναϊκός: «Πράσινος» μήχρι το 2027 ο Μανδηλάρης",
-            "summary": "Ο Άγγελος Μανδηλάρης θα συνεχίσει να αγωνίζεται στον Παναθηναϊκό και την επόμενη χρονιά, καθώς ανανέωσε με το «τριφύλλι» για ένα ακόμη χρόνο.",
-            "link": "https://www.gazzetta.gr/volleyball/volley-league/2547639/panathinaikos-prasinos-mehri-2027-o-mandilaris"
+            "title": "Ρεάλ Μαδρίτης: Ανακοίνωσε την απόκτηση του Κονατέ για τέσσερα χρόνια",
+            "summary": "Η Ρεάλ Μαδρίτης ανακοίνωσε την απόκτηση του Ιμπραϊμα Κονατέ, με τον πρώην αμυντικό της Λιβερπουλ να υπογράφει έως το 2030.",
+            "link": "https://www.gazzetta.gr/football/la-liga/2547880/real-madritis-anakoinose-tin-apoktisi-toy-konate-gia-tessera-hronia"
         }
     ],
     "tv_program": [
@@ -121,33 +116,33 @@
         },
         {
             "time": "18:00",
-            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
             "channel": "ΣΚΑΪ",
-            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
             "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
             "channel": "Alpha",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
             "summary": "Κανάλι: Alpha",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Κροατία",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Σουηδία",
             "channel": "Mega",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Κροατία",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Σουηδία",
             "summary": "Κανάλι: Mega",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Σουηδία",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Σερβία - Ρωσία",
             "channel": "Open",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Σουηδία",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Σερβία - Ρωσία",
             "summary": "Κανάλι: Open",
             "link": "https://www.sport24.gr/tvprogram/"
         }
