@@ -1,108 +1,113 @@
 {
     "weather": {
-        "temp": "19.6°C - Μερική συννεφιά (Βροχή: 02:00)",
+        "temp": "22.6°C - Μερική συννεφιά (Όχι βροχή)",
         "condition": "Μερική συννεφιά",
-        "rain_alert": "Βροχή: 02:00",
-        "combined": "19.6°C - Μερική συννεφιά (Βροχή: 02:00)"
+        "rain_alert": "Όχι βροχή",
+        "combined": "22.6°C - Μερική συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "What's in the US-Iran agreement?",
-            "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
-            "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
+            "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+            "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+            "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-            "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
-            "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss"
+            "title": "What Iran and US get from deal and why both could struggle to keep it",
+            "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+            "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-            "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
-            "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss"
+            "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+            "summary": "Some see a double standard: Japanese men who clean in public while their wives do all the housework.",
+            "link": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Gunfire heard at Niger capital's airport",
-            "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-            "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
+            "title": "Zimbabwe MPs pass bill to extend president's time in power",
+            "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
+            "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-            "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
-            "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss"
+            "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+            "summary": "Eighteen people and four IDF soldiers are also killed in clashes in Lebanon, officials say, despite a truce meant to be in place in the country.",
+            "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "How to turn off AI in your Google Docs",
-            "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-            "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/"
+            "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+            "summary": "Telegram argues India should block specific content, not an entire platform used by millions.",
+            "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
         },
         {
-            "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-            "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
-            "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/"
+            "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+            "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+            "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
         },
         {
-            "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-            "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
-            "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/"
+            "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+            "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+            "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
         },
         {
-            "title": "Roelof Botha joins SpaceX’s board of directors",
-            "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-            "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/"
+            "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+            "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+            "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"
         },
         {
-            "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
-            "summary": "Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.",
-            "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/"
+            "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+            "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+            "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/"
         }
     ],
     "denmark": [
         {
-            "title": "Open AI Opens Its First Nordic Office in Sweden",
-            "summary": "Open AI has announced the opening of its first Nordic office in Sweden, marking a significant expansion into the region.",
-            "link": "https://www.dr.dk/nyheder/seneste/open-ai-aabner-sit-foerste-nordiske-kontor-i-sverige"
+            "title": "Denmark and 18 other EU countries push for establishment of reception and departure centers outside Europe",
+            "summary": "Denmark and 18 other EU countries are pushing for the establishment of reception and departure centers outside Europe, in an effort to manage migration and asylum seekers.",
+            "link": "https://www.dr.dk/nyheder/seneste/danmark-og-18-andre-eu-lande-presser-paa-oprettelse-af-modtage-og-udrejsecentre-udenfor-europa"
         },
         {
-            "title": "Researchers Seek Women in Perimenopause for Experimental Treatments",
-            "summary": "Danish researchers are conducting experiments to find new treatments for women in perimenopause, a phase of life that can be challenging for many women.",
-            "link": "https://www.dr.dk/nyheder/seneste/forskere-soeger-kvinder-i-overgangsalderen-til-forsoeg-med-behandlingsformer"
+            "title": "Pigs roam free after accident in North Jutland",
+            "summary": "A group of pigs escaped from a farm in North Jutland after an accident, and are now roaming freely in the area.",
+            "link": "https://www.dr.dk/nyheder/seneste/grise-loeber-rundt-efter-uheld-i-nordjylland"
         },
         {
-            "title": "Suspect in Russian Satirist Murder Case Arrested in Poland",
-            "summary": "A suspect in the murder case of a Russian satirist has been arrested in Poland, bringing new developments to the ongoing investigation.",
-            "link": "https://www.dr.dk/nyheder/seneste/mistaenkt-i-sag-om-drab-paa-russisk-satiriker-er-anholdt-i-polen"
+            "title": "Danes bought less alcohol at home last year",
+            "summary": "According to recent statistics, Danes bought less alcohol at home last year, with a decline in sales of spirits and beer.",
+            "link": "https://www.dr.dk/nyheder/seneste/danskerne-koebte-mindre-alkohol-herhjemme-sidste-aar"
         },
         {
-            "title": "Archaeologists Discover Simpler, Older Version of Stonehenge",
-            "summary": "Archaeologists have made a groundbreaking discovery, finding an older and simpler version of the famous Stonehenge monument.",
-            "link": "https://www.dr.dk/nyheder/seneste/arkaeologer-finder-enklere-og-aeldre-version-af-stonehenge"
+            "title": "Two directors arrested in case of multi-million dollar real estate scam",
+            "summary": "Two directors have been arrested in connection with a multi-million dollar real estate scam, in which they allegedly defrauded investors out of large sums of money.",
+            "link": "https://www.dr.dk/nyheder/seneste/direktoerer-varetaegtsfaengslet-i-sag-om-millionsvindel-paa-bosteder"
         },
         {
-            "title": "High Court to Rule on Danish Citizenship of Notorious Gang Member",
-            "summary": "The Danish High Court is set to make a ruling on the citizenship status of a notorious gang member, a decision that could have significant implications.",
-            "link": "https://www.dr.dk/nyheder/seneste/hoejesteret-skal-tage-stilling-til-bandekriminels-danske-statsborgerskab"
+            "title": "1.4 million Danes have holiday pay owed to them",
+            "summary": "According to recent figures, 1.4 million Danes have holiday pay owed to them, with many still waiting to receive their rightful compensation.",
+            "link": "https://www.dr.dk/nyheder/seneste/1-4-millioner-danskere-har-feriepenge-til-gode"
         }
     ],
     "greece": [
         {
-            "title": "Το εμβόλιο που σχεδόν μηδένισε του θανάτους από καρκίνο του ταχήλου τη μήτρας στην Αγγλία",
-            "summary": "Σχεδόν 200 ζωές έχουν σωθεί στην Αγγλία χάρη στο εμβόλιο κατά του ιού HPV, σύμφωνα με νέα μελέτη που δημοσιεύθηώθηώικώ στο επιστημονικό περιοδικό The Lancet. Οι ερευνητές διαπίστωσαν ός οι θάνατοι από καρ",
-            "link": "https://www.ertnews.gr/eidiseis/to-emvolio-pou-sxedon-midenise-tous-thanatous-apo-karkino-tou-traxilou-tis-mitras-stin-agglia/"
-        },
-        {
-            "title": "Παγκόσμια ημέρα Μουσικής στο Αρχαιολογικό Μουσείο Θεσσαλονίκης",
-            "summary": "Το Αρχαιολογικό Μουσείο Θεσσαλονίκης μαζί με τον Σύνδεσμο Φίλων του Αρχαιολογικού Μουσείου Θεσσαλονίκης γιορτάζουν την Παγκόσμια Ημέρα Μουσικής με μια βραδιά γεμάτη μελωδίες. Ο Πέτρος Ανδρεάδης, α’ κλ",
-            "link": "https://www.ertnews.gr/ert3/pagkosmia-imera-mousikis-sto-arxaiologiko-mouseio-thessalonikis/"
+            "title": "Κεφαλογίννη: Θεαματική αύξηση 65% στα έσοδα του τουρισμού το πρώτο τρίμηνο του 2026 – Προορισμός city break η Κατηνα",
+            "summary": "Τη σύνδεση του τουρισμού, που καταρρίπτει χρονιά με την αντιμετώπιση του δης νύκτας της Πέμπτης προς Παρασκεή (19/6) στον νότιο Λίβανο, σύμφωνα με προσωρινό απολογισμό του υπουργός Τουρισμού Όλγα Κεφαλογίννη",
+            "link": "https://www.ertnews.gr/roi-idiseon/kefalogianni-theamatiki-ayksisi-65-sta-esoda-tou-tourismou-to-proto-trimino-tou-2026-proorismos-city-break-i-athina/"
         }
     ],
     "sports": [
         {
-            "title": "Ρεάλ Μαδρίτης: Ανακοίνωσε την απόκτηση του Κονατέ για τέσσερα χρόνια",
-            "summary": "Η Ρεάλ Μαδρίτης ανακοίνωσε την απόκτηση του Ιμπραϊμα Κονατέ, με τον πρώην αμυντικό της Λιβερπουλ να υπογράφει έως το 2030.",
-            "link": "https://www.gazzetta.gr/football/la-liga/2547880/real-madritis-anakoinose-tin-apoktisi-toy-konate-gia-tessera-hronia"
+            "title": "Μαπολι: Ο Μασιμιλιάνο Αλέγκρι αναμένεται να αναλάβει έως το 2029!",
+            "summary": "Ο Μασιμιλιάνο Αλέγκρι ετοιμάζεται να αναλάβει και επίσημα τη Νάπολι, με το Sky Sport να αναφέρει πως θα υπογράψει συμβόλαιο έως το 2029 με τους «παρτενοπέι».",
+            "link": "https://www.gazzetta.gr/football/serie/2548125/napoli-o-masimiliano-alegkri-anamenetai-na-analabei-ti-napoli"
+        },
+        {
+            "title": "Κολος Ρόδου: Ανακοίνωσε τον Κρούζερ",
+            "summary": "Ο Κολος Ρόδου ανακοίνωσε την έναρξη της συνεργας του με τον Ρόκι Κρούζερ, ενόψει της ερχόμενης αγωνιστικής χρονιάς.",
+            "link": "https://www.gazzetta.gr/basketball/basket-league/2548136/kolossos-rodoy-anakoinose-ton-kroyzer"
+        },
+        {
+            "title": "Ναπολι: Ο Μασιμιλιάνο Αλέγκρι αναμένεται να αναλάβει έως το 2029!",
+            "summary": "Ο Μασιμιλιάνο Αλέγκρι ετοιμάζεται να αναλάβει και επίσημα τη Νάπολι, με το Sky Sport να αναφέρει πως θα υπογράψει συμβόλαιο έως το 2029 με τους «παρτενοπέι».",
+            "link": "https://www.gazzetta.gr/football/serie/2548125/napoli-o-masimiliano-alegkri-anamenetai-na-analabei-ti-napoli"
         }
     ],
     "tv_program": [
@@ -116,34 +121,34 @@
         },
         {
             "time": "18:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "ΣΚΑΪ",
-            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "channel": "ΣΚΑΪ Τηλεόραση",
+            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
             "channel": "Alpha",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
             "summary": "Κανάλι: Alpha",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Σουηδία",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Κροατία",
             "channel": "Mega",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Σουηδία",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Κροατία",
             "summary": "Κανάλι: Mega",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Σερβία - Ρωσία",
-            "channel": "Open",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Σερβία - Ρωσία",
-            "summary": "Κανάλι: Open",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Σουηδία - Σπανία",
+            "channel": "ΣΚΑΪ Τηλεόραση",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Σουηδία - Σπανία",
+            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
