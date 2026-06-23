@@ -1,118 +1,112 @@
 {
     "weather": {
-        "temp": "22.3°C - Μερική συννεφιά (Όχι βροχή)",
-        "condition": "Μερική συννεφιά",
+        "temp": "18.8°C - Σχεδόν αίθριος (Όχι βροχή)",
+        "condition": "Σχεδόν αίθριος",
         "rain_alert": "Όχι βροχή",
-        "combined": "22.3°C - Μερική συννεφιά (Όχι βροχή)"
+        "combined": "18.8°C - Σχεδόν αίθριος (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-            "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
-            "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+            "title": "Myanmar army killed over 700 civilians in six months, UN says",
+            "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
+            "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-            "summary": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
-            "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss"
+            "title": "Inquiry ordered after building fire kills 15 in north India city",
+            "summary": "Witnesses described people jumping from windows to escape, while rescue teams broke through a wall to save lives.",
+            "link": "https://www.bbc.com/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-            "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
-            "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss"
+            "title": "Ransom note claims Nancy Guthrie died after abduction",
+            "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+            "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-            "summary": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
-            "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss"
+            "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+            "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+            "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-            "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
-            "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss"
+            "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+            "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+            "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-            "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-            "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+            "title": "OpenAI launches new initiative to help find and patch open source bugs",
+            "summary": "OpenAI is using AI to help the open source community better protect itself.",
+            "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
         },
         {
-            "title": "Every new iOS 27 feature that’s worth knowing about",
-            "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
-            "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/"
+            "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+            "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+            "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/"
         },
         {
-            "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-            "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-            "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+            "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+            "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+            "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/"
         },
         {
-            "title": "Founders Fund’s outlier bet on humanely killed fish",
-            "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
-            "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
+            "title": "The AI world is getting ‘loopy’",
+            "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+            "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
         },
         {
-            "title": "In the Weights is your new AI-centric vanity search",
-            "summary": "So ... what's your In the Weights score?",
-            "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+            "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+            "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+            "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
         }
     ],
     "denmark": [
         {
-            "title": "More reported dead after Ukrainian drone attacks on the Crimean Peninsula and in Russia",
-            "summary": "The attacks were carried out by Ukraine, and the death toll is expected to rise as more information becomes available.",
-            "link": "https://www.dr.dk/nyheder/seneste/flere-meldes-draebt-efter-ukrainske-droneangreb-paa-krim-halvoeen-og-i-rusland"
+            "title": "Denmark Reopens Embassy in Iran",
+            "summary": "The Danish government has decided to reopen its embassy in Iran, following a period of diplomatic tensions.",
+            "link": "https://www.dr.dk/nyheder/seneste/danmark-genaabner-ambassade-i-iran"
         },
         {
-            "title": "Suspected Swedish cocaine smuggler arrested in Colombia",
-            "summary": "The suspect was arrested in Colombia after being wanted by authorities for their alleged involvement in cocaine smuggling.",
-            "link": "https://www.dr.dk/nyheder/seneste/efterlyst-kokainsmugler-fra-sverige-anholdt-i-colombia"
+            "title": "19-Year-Old Arrested in Hand Grenade Case on Amager",
+            "summary": "A 19-year-old suspect has been arrested in connection with a hand grenade incident on the Amager island in Copenhagen.",
+            "link": "https://www.dr.dk/nyheder/seneste/19-aarig-anholdt-i-drabssag-om-haandgranat-paa-amager"
         },
         {
-            "title": "King Charles plans to share tax information",
-            "summary": "King Charles has announced plans to make his tax information publicly available, a move that is expected to increase transparency.",
-            "link": "https://www.dr.dk/nyheder/seneste/kong-charles-vil-dele-skatteoplysninger"
+            "title": "800 More People Found Employment in April",
+            "summary": "According to recent statistics, 800 more people found employment in Denmark in April, marking a positive trend in the job market.",
+            "link": "https://www.dr.dk/nyheder/seneste/800-flere-kom-i-arbejde-i-april-maaned"
         },
         {
-            "title": "At least six dead in Gaza - Al Jazeera photographer among the victims",
-            "summary": "The victims include a photographer for Al Jazeera, who was killed in the violence in Gaza.",
-            "link": "https://www.dr.dk/nyheder/seneste/mindst-seks-draebt-i-gaza-al-jazeera-fotograf-blandt-ofrene"
+            "title": "Roskilde Festival Expected to Cause Congestion on Roads",
+            "summary": "The upcoming Roskilde Festival is expected to cause significant congestion on the roads leading to the event, with authorities urging attendees to plan ahead.",
+            "link": "https://www.dr.dk/nyheder/seneste/roskilde-festival-forventes-give-traengsel-paa-vejene"
         },
         {
-            "title": "Young man dies in drowning accident in Roskilde",
-            "summary": "A young man has lost his life in a drowning accident in Roskilde, Denmark.",
-            "link": "https://www.dr.dk/nyheder/seneste/yngre-mand-mister-livet-i-drukneulykke-i-roskilde"
+            "title": "Trump's Reflection Pool in Washington to be Refilled",
+            "summary": "The reflection pool in Washington D.C., which was renovated by former President Trump, is set to be refilled after a period of maintenance.",
+            "link": "https://www.dr.dk/nyheder/seneste/kort-efter-trumps-renovering-skal-spejlbassin-i-washington-toemmes-igen"
         }
     ],
     "greece": [
         {
-            "title": "Δεν εώετάζεται πλαφόν στα ενοίκια, διευκρινίζει το Υπουργείο Κοινωνικής Συνοχής",
-            "summary": "Απάντηση σχετικά με δηυμοσιεύματα και δηυμόσιες αναφορές που συνδέουν την Εθνική Στρατηγική για τη Στεγαστική Πολιτική με ενδεχόμενο επιβολής πλαφόν στα ενοίκια, δινουν πηυγές του Υπουργείου Κοινωνική",
-            "link": "https://www.ertnews.gr/eidiseis/oikonomia/den-eksetazetai-plafon-sta-enoikia-dieykrinizei-to-ypourgeio-koinonikis-synoxis/"
+            "title": "Βέροια: Αυτοκίλενη εκελεμενη και πλαι πλευ σε τοιχίο- Νεκρός ο 60χρονος οδησελλενη",
+            "summary": "Τροχαίο δυστύχημα σημειώθηκε χθες (22 Ιουνίου 2026, περίπου στις 20:40) στη Βέροια. Όχημα που οδησε 60χρονος και επέβαινε 64χρονη, εξετράπη της πορείας του και πλαι πλευ σε του και τουτότητα της εκδήλωσης «Κτηταντινούπολης: Κτηταντινούπολης από μια εκκρεμότητα δεκαετιών σε μια νέα εποχή με διαφάνεια, ταχύτητα και ασφάλεια»",
+            "link": "https://www.ertnews.gr/ert3/veroia-aytokinito-eksetrapi-kai-prosekrouse-se-toixio-nekros-o-60xronos-odigos/"
         },
         {
-            "title": "Φωτιά στη Σκαλωσιά Λουτρακίου – Οριοθετήθηκώ άμεσα και με τη συνδρομή εναωλιων μισων",
-            "summary": "Οριοθετήθηώ η πυρκαγιά που εκδηλώθηώ τις πρωινές ώρες σήμερα στην περιοχή Σκαλωσιά Περαχώρας του δήμου Λουτρακίου – Αγίων Θεοδώρων Κορινθίας. Για της αντιμετώπισή της κινητοποιήθηώαν άμεσα επίγειες",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/fotia-sti-skalosia-loutrakiou-oriothetithike-amesa-kai-me-ti-syndromi-enaerion-meson/"
+            "title": "Μιςή του Πρωθυπουργού στη συζήτηση «Κτηταντινούπολης: Κτηταντινούπολης από μια εκκρεμότητα δεκαετιών σε μια νέα εποχή με διαφάνεια, ταχύτητα και ασφάλεια»",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/live-i-omilia-tou-prothypourgou-sti-syzitisi-ktimatologio-apo-mia-ekkremotita-dekaetion-se-mia-nea-epoxi-me-diafaneia-taxytita-kai-asfaleia/"
         }
     ],
     "sports": [
         {
-            "title": "Απυστευς ανευθυνότητα από λουόμενους - Πγαν να...",
-            "summary": "Φαωλετεραι πις οι συστάσεις τιν Αρχών δεν συνετίζουν τον κόυσμο",
-            "link": "https://www.gazzetta.gr/plus/2548591/apisteyti-aneythynotita-apo-loyomenoys-pigan-na-paixoyn-me-lagokefalo-kai-toys-dagkose"
+            "title": "Παγώσμια παραγώγή μπίρας: Η χώρα που παρασκεεί 1 στις 5 παγκοστες",
+            "summary": "Η Κώλα παραμένει ο μεγαλύτερος παραγώγός μπίρας παγκοστες με μώ μία στις πέντε μπίρες που βγαώλουν στο εμπόριο να εώλλαι από αυτή τη χώρα.",
+            "link": "https://www.gazzetta.gr/plus/2549113/pagkosmia-paragogi-mpiras-i-hora-poy-paraskeyazei-1-stis-5-pagkosmios"
         },
         {
-            "title": "ΠΑΟΚ: Ο Λωσι φτάνει στη Θεσσαλονίκη την Κυριακή (21/06)",
-            "summary": "Στη Θεσσαλονίκη θα προσγειωθεί το απόγευμα της Κυριακής (21/06) ο Κλισι με φϬντο την ανάληψη της τεχνικής ηγεσίας στον ΠΑΟΚ.",
-            "link": "https://www.gazzetta.gr/football/superleague/2548590/paok-o-lisi-erhetai-stin-ellada"
-        },
-        {
-            "title": "Long Term Test BYD Seal U DM-i Design: Το απόγειο της γαλαντομίας",
-            "summary": "Όσο περισσότερο το οδηγούμε, τόσο περισσότερο μας κακομαθαίνει το πληθωρικό plug-in hybrid SUV της BYD.",
-            "link": "https://www.gazzetta.gr/gmotion/2548216/long-term-test-byd-seal-u-dm-i-design-apogeio-tis-galantomias"
+            "title": "Αντετοκούλμπο: Godfather και Heat Culture για να νιώσει ξανά τη συντροφιά του δαχτυλιδιού",
+            "summary": "Ο Νίκος Καρφής γράφει για το μεγάλο μπαμ της μετακόμισης του Γιάννη Αντετοκούλμπο στους Χιτ. Ένας περήφανος οργανισμός με κουμανταδόρο τον Ράιλι και τον Σποέλστρα στον πάγκο αποτελεί ιδανική επιλογή.",
+            "link": "https://www.gazzetta.gr/basketball/nba/2549102/antetokoynmpo-godfather-kai-heat-culture-gia-na-niosei-kai-pali-diekdikitis"
         }
     ],
     "tv_program": [
@@ -126,34 +120,34 @@
         },
         {
             "time": "18:00",
-            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
             "channel": "ΣΚΑΪ",
-            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
             "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
-            "channel": "ΕΤ1",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
-            "summary": "Κανάλι: ΕΤ1",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "20:00",
-            "event": "Πρέμιερ Λιγκ: Λίβερπουλ - Μάντσεστερ Γιουνάιτεντ",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
             "channel": "ΣΚΑΪ",
-            "title": "20:00 | Πρέμιερ Λιγκ: Λίβερπουλ - Μάντσεστερ Γιουνάιτεντ",
+            "title": "19:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
             "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
-            "time": "21:00",
-            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Γκόλντεν Στέιτ Ουόριορς",
+            "time": "20:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
             "channel": "ANT1+",
-            "title": "21:00 | NBA: Λος Άντζελες Λέικερς - Γκόλντεν Στέιτ Ουόριορς",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
             "summary": "Κανάλι: ANT1+",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "21:00",
+            "event": "ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "channel": "ΣΚΑΪ",
+            "title": "21:00 | ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
