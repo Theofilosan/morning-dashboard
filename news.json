@@ -1,112 +1,118 @@
 {
     "weather": {
-        "temp": "18.8°C - Σχεδόν αίθριος (Όχι βροχή)",
-        "condition": "Σχεδόν αίθριος",
+        "temp": "23.0°C - Μερική συννεφιά (Όχι βροχή)",
+        "condition": "Μερική συννεφιά",
         "rain_alert": "Όχι βροχή",
-        "combined": "18.8°C - Σχεδόν αίθριος (Όχι βροχή)"
+        "combined": "23.0°C - Μερική συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "Myanmar army killed over 700 civilians in six months, UN says",
-            "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
-            "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
+            "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+            "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+            "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Inquiry ordered after building fire kills 15 in north India city",
-            "summary": "Witnesses described people jumping from windows to escape, while rescue teams broke through a wall to save lives.",
-            "link": "https://www.bbc.com/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss"
+            "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+            "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
+            "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Ransom note claims Nancy Guthrie died after abduction",
-            "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
-            "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss"
+            "title": "Air conditioning creates political divide after France records hottest day",
+            "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+            "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-            "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
-            "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
+            "title": "Philippines bans video game played by alleged high school shooter",
+            "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
+            "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-            "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-            "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+            "title": "I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+            "summary": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5.",
+            "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "OpenAI launches new initiative to help find and patch open source bugs",
-            "summary": "OpenAI is using AI to help the open source community better protect itself.",
-            "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+            "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+            "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+            "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
         },
         {
-            "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-            "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
-            "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/"
+            "title": "Europe is pushing back on Washington’s chip war",
+            "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac",
+            "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/"
         },
         {
-            "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
-            "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
-            "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/"
+            "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+            "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+            "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/"
         },
         {
-            "title": "The AI world is getting ‘loopy’",
-            "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-            "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
+            "title": "Elon suffers another day short of trillionaire status",
+            "summary": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+            "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/"
         },
         {
-            "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-            "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-            "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+            "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+            "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/"
         }
     ],
     "denmark": [
         {
-            "title": "Denmark Reopens Embassy in Iran",
-            "summary": "The Danish government has decided to reopen its embassy in Iran, following a period of diplomatic tensions.",
-            "link": "https://www.dr.dk/nyheder/seneste/danmark-genaabner-ambassade-i-iran"
+            "title": "25 on Danish list in Venezuela",
+            "summary": "A total of 25 Danes are on the list of people who are in Venezuela.",
+            "link": "https://www.dr.dk/nyheder/seneste/25-paa-danskerlisten-i-venezuela"
         },
         {
-            "title": "19-Year-Old Arrested in Hand Grenade Case on Amager",
-            "summary": "A 19-year-old suspect has been arrested in connection with a hand grenade incident on the Amager island in Copenhagen.",
-            "link": "https://www.dr.dk/nyheder/seneste/19-aarig-anholdt-i-drabssag-om-haandgranat-paa-amager"
+            "title": "DMI: Here is the website you should check before your holiday",
+            "summary": "The heatwave in Europe continues, so it's about being prepared.",
+            "link": "https://www.dr.dk/nyheder/seneste/dmi-her-er-hjemmesiden-du-boer-tjekke-inden-ferien"
         },
         {
-            "title": "800 More People Found Employment in April",
-            "summary": "According to recent statistics, 800 more people found employment in Denmark in April, marking a positive trend in the job market.",
-            "link": "https://www.dr.dk/nyheder/seneste/800-flere-kom-i-arbejde-i-april-maaned"
+            "title": "Authority fears many casualties after two powerful earthquakes in Venezuela",
+            "summary": "Buildings have collapsed in Caracas, and authorities estimate that the death toll could be between 10,000 and 100,000.",
+            "link": "https://www.dr.dk/nyheder/seneste/kraftigt-jordskaelv-ud-venezuela-udloeser-tsunamivarsel"
         },
         {
-            "title": "Roskilde Festival Expected to Cause Congestion on Roads",
-            "summary": "The upcoming Roskilde Festival is expected to cause significant congestion on the roads leading to the event, with authorities urging attendees to plan ahead.",
-            "link": "https://www.dr.dk/nyheder/seneste/roskilde-festival-forventes-give-traengsel-paa-vejene"
+            "title": "20-year-old man arrested after fatal accident in Tilst",
+            "summary": "A 20-year-old man has been arrested in connection with a fatal accident in Tilst.",
+            "link": "https://www.dr.dk/nyheder/seneste/20-aarig-mand-fremstilles-i-grundlovsforhoer-efter-doedsulykke-i-tilst"
         },
         {
-            "title": "Trump's Reflection Pool in Washington to be Refilled",
-            "summary": "The reflection pool in Washington D.C., which was renovated by former President Trump, is set to be refilled after a period of maintenance.",
-            "link": "https://www.dr.dk/nyheder/seneste/kort-efter-trumps-renovering-skal-spejlbassin-i-washington-toemmes-igen"
+            "title": "Olympic athletes can now apply for 65,000 kroner",
+            "summary": "Olympic athletes can now apply for a grant of 65,000 kroner.",
+            "link": "https://www.dr.dk/nyheder/seneste/ol-atleter-kan-fremover-soege-om-faa-65-000-kroner"
         }
     ],
     "greece": [
         {
-            "title": "Βέροια: Αυτοκίλενη εκελεμενη και πλαι πλευ σε τοιχίο- Νεκρός ο 60χρονος οδησελλενη",
-            "summary": "Τροχαίο δυστύχημα σημειώθηκε χθες (22 Ιουνίου 2026, περίπου στις 20:40) στη Βέροια. Όχημα που οδησε 60χρονος και επέβαινε 64χρονη, εξετράπη της πορείας του και πλαι πλευ σε του και τουτότητα της εκδήλωσης «Κτηταντινούπολης: Κτηταντινούπολης από μια εκκρεμότητα δεκαετιών σε μια νέα εποχή με διαφάνεια, ταχύτητα και ασφάλεια»",
-            "link": "https://www.ertnews.gr/ert3/veroia-aytokinito-eksetrapi-kai-prosekrouse-se-toixio-nekros-o-60xronos-odigos/"
+            "title": "«Παρακολουθώντας του Υπουργού Ανάπτυξης»",
+            "summary": "Με απόφαση του Υπουργού Ανάπτυξης, Τάκη Θεοδωρικάκου, παρατείνεται έως τις 24 Ιουλίου 2026 η προςεσμία υποβολής επενδυτικών προτάσεων στα καθεστώτα «Μεγάλες Επενδύσεις», «Περιοχές Ειδικής Ενίσχυσης» κ",
+            "link": "https://www.ertnews.gr/roi-idiseon/yp-anaptyksis-paratasi-eos-tis-24-iouliou-gia-ta-tria-kathestota-tou-anaptyksiakou-nomou/"
         },
         {
-            "title": "Μιςή του Πρωθυπουργού στη συζήτηση «Κτηταντινούπολης: Κτηταντινούπολης από μια εκκρεμότητα δεκαετιών σε μια νέα εποχή με διαφάνεια, ταχύτητα και ασφάλεια»",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/live-i-omilia-tou-prothypourgou-sti-syzitisi-ktimatologio-apo-mia-ekkremotita-dekaetion-se-mia-nea-epoxi-me-diafaneia-taxytita-kai-asfaleia/"
+            "title": "«Ήταν σαν βομβαρδισμός»",
+            "summary": "Τις δραματικάς στιγμές που έζησε κατά τη διάρκεια των δύο ισχυρών σεισμών που έπληξαν τη Βενεζουέλα περιέγραψε στην εκπομπή NewsroomτουΕΡΤnews η Ντίνα Αντωνιάδη, δικηγόρος, μέλος της ελληνικής κοινότη",
+            "link": "https://www.ertnews.gr/eidiseis/diethni/itan-san-vomvardismos-sygklonizei-sto-ertnews-ellinida-katoikos-tis-venezouelas-meta-ton-foniko-seismo/"
         }
     ],
     "sports": [
         {
-            "title": "Παγώσμια παραγώγή μπίρας: Η χώρα που παρασκεεί 1 στις 5 παγκοστες",
-            "summary": "Η Κώλα παραμένει ο μεγαλύτερος παραγώγός μπίρας παγκοστες με μώ μία στις πέντε μπίρες που βγαώλουν στο εμπόριο να εώλλαι από αυτή τη χώρα.",
-            "link": "https://www.gazzetta.gr/plus/2549113/pagkosmia-paragogi-mpiras-i-hora-poy-paraskeyazei-1-stis-5-pagkosmios"
+            "title": "Νίκος Τσάκος: Η σπάνια φωτογραφία του με το άλλοτε wonderkid της Ρόμα",
+            "summary": "Συνεχίζει να επιλέγει... ιταλικά ο Ηρακλής καθώς στη γειτονική χώρα γράφουν ότι έχει ξεκινήσει επαφές με τον Ντέβιντ Μπουά.",
+            "link": "https://www.gazzetta.gr/football/superleague/2549600/mpoya-iraklis-xekinise-diapragmateyseis-me-allote-wonderkid-tis-roma"
         },
         {
-            "title": "Αντετοκούλμπο: Godfather και Heat Culture για να νιώσει ξανά τη συντροφιά του δαχτυλιδιού",
-            "summary": "Ο Νίκος Καρφής γράφει για το μεγάλο μπαμ της μετακόμισης του Γιάννη Αντετοκούλμπο στους Χιτ. Ένας περήφανος οργανισμός με κουμανταδόρο τον Ράιλι και τον Σποέλστρα στον πάγκο αποτελεί ιδανική επιλογή.",
-            "link": "https://www.gazzetta.gr/basketball/nba/2549102/antetokoynmpo-godfather-kai-heat-culture-gia-na-niosei-kai-pali-diekdikitis"
+            "title": "Οπουά: Ηρακλής - Ξεκίνησε διαπραγματεύυσεις με το άλλοτε wonderkid της Ρόμα",
+            "summary": "Συνεχίζει να επιλέγει... ιταλικά ο Ηρακλής καθώς στη γειτονική χώρα γράφουν ότι έχει ξεκινήσει επαφές με τον Ντέβιντ Μπουά.",
+            "link": "https://www.gazzetta.gr/football/superleague/2549600/mpoya-iraklis-xekinise-diapragmateyseis-me-allote-wonderkid-tis-roma"
+        },
+        {
+            "title": "Μπουά: Ηρακλής - Ξεκίνησε διαπραγματεύυσεις με το άλλοτε wonderkid της Ρόμα",
+            "summary": "Συνεχίζει να επιλέγει... ιταλικά ο Ηρακλής καθώς στη γειτονική χώρα γράφουν ότι έχει ξεκινήσει επαφές με τον Ντέβιντ Μπουά.",
+            "link": "https://www.gazzetta.gr/football/superleague/2549600/mpoya-iraklis-xekinise-diapragmateyseis-me-allote-wonderkid-tis-roma"
         }
     ],
     "tv_program": [
@@ -144,9 +150,9 @@
         },
         {
             "time": "21:00",
-            "event": "ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
             "channel": "ΣΚΑΪ",
-            "title": "21:00 | ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
             "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         }
