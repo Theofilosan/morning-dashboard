@@ -1,154 +1,165 @@
 {
     "weather": {
-        "temp": "23.6°C - Ηλιοφάνεια (Όχι βροχή)",
+        "temp": "21.4°C - Ηλιοφάνεια (Όχι βροχή)",
         "condition": "Ηλιοφάνεια",
         "rain_alert": "Όχι βροχή",
-        "combined": "23.6°C - Ηλιοφάνεια (Όχι βροχή)"
+        "combined": "21.4°C - Ηλιοφάνεια (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-            "summary": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
-            "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss"
+            "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+            "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+            "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-            "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
-            "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
+            "title": "Heavy security deployed in South Africa ahead of anti-migrant protests",
+            "summary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+            "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "People flee as building collapses on Caracas outskirts",
-            "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
-            "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss"
+            "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
+            "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+            "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-            "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-            "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
+            "title": "Founder of Asian super-app Gojek sentenced to 10 years in jail for corruption",
+            "summary": "The case against Gojek founder Nadiem Makarim stemmed from a laptop deal during his term as Indonesia's education minister.",
+            "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-            "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-            "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss"
+            "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+            "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
+            "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-            "summary": "YouTube Shorts is getting a makeover.",
-            "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/"
+            "title": "Gemini’s personalized AI image generation is now free for US users",
+            "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+            "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
         },
         {
-            "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-            "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-            "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+            "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+            "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+            "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"
         },
         {
-            "title": "Xbox follows Apple with price increases",
-            "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
-            "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/"
+            "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+            "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+            "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
         },
         {
-            "title": "Polymarket says hackers stole users’ funds",
-            "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
-            "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/"
+            "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
+            "summary": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
+            "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/"
         },
         {
-            "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-            "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-            "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+            "title": "The AI jobs debate just got messier",
+            "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+            "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
         }
     ],
     "denmark": [
         {
-            "title": "South Korea plans to train half a million drone pilots",
-            "summary": "South Korea aims to train a large number of drone pilots, but the exact number is not specified.",
-            "link": "https://www.dr.dk/nyheder/seneste/sydkorea-vil-uddanne-en-halv-million-dronepiloter"
+            "title": "17-year-old reports rape at Roskilde Festival to the police",
+            "summary": "A 17-year-old has reported a rape at the Roskilde Festival to the police, sparking concerns about safety at the event.",
+            "link": "https://www.dr.dk/nyheder/seneste/17-aarig-har-anmeldt-voldtaegt-paa-roskilde-festival-til-politiet"
         },
         {
-            "title": "Two people died in separate drowning incidents in North Jutland",
-            "summary": "Two people lost their lives in separate drowning incidents in North Jutland, Denmark.",
-            "link": "https://www.dr.dk/nyheder/seneste/personer-doede-i-forskellige-drukneulykker-i-nordsjaelland"
+            "title": "China's foreign minister to visit Denmark",
+            "summary": "China's foreign minister is set to visit Denmark, marking a significant diplomatic development between the two countries.",
+            "link": "https://www.dr.dk/nyheder/seneste/kinas-udenrigsminister-skal-besoege-danmark"
         },
         {
-            "title": "More than 300 people have died of Ebola in DR Congo",
-            "summary": "The Ebola outbreak in DR Congo has claimed the lives of over 300 people, highlighting the severity of the crisis.",
-            "link": "https://www.dr.dk/nyheder/seneste/flere-end-300-er-doede-af-ebola-i-dr-congo"
+            "title": "Unemployment rate rises by 700 in May",
+            "summary": "The unemployment rate in Denmark has increased by 700 in May, according to the latest statistics.",
+            "link": "https://www.dr.dk/nyheder/seneste/ledigheden-steg-med-700-i-maj"
         },
         {
-            "title": "23-year-old British TikTok influencer accused of murdering her partner in Dubai",
-            "summary": "A 23-year-old British TikTok influencer is accused of murdering her partner in Dubai, with the influencer claiming self-defense.",
-            "link": "https://www.dr.dk/nyheder/seneste/23-aarig-britisk-tiktok-influencer-anklages-drab-paa-sin-kaereste-i-dubai"
+            "title": "Danish economy grows",
+            "summary": "Denmark's economy has shown signs of growth, with various sectors contributing to the positive trend.",
+            "link": "https://www.dr.dk/nyheder/seneste/dansk-oekonomi-vokser"
         },
         {
-            "title": "Resistance heroine Jutta Graae honored with a statue",
-            "summary": "Jutta Graae, a Danish resistance heroine, has been honored with a statue in recognition of her bravery and contributions to the resistance movement.",
-            "link": "https://www.dr.dk/nyheder/seneste/modstandskvinden-jutta-graae-hyldes-med-statue"
+            "title": "Power outages in Copenhagen and Kastrup",
+            "summary": "Power outages have been reported in various areas of Copenhagen and Kastrup, causing disruptions to daily life.",
+            "link": "https://www.dr.dk/nyheder/seneste/stroemafbrydelser-i-koebenhavn-og-kastrup"
         }
     ],
     "greece": [
         {
-            "title": "Η κλιματική αλλαγή πυ από τον ακραίο καύσωνα στη δυκή Ευωπη",
-            "summary": "Η κλιματική αλλαγή ευθύνεται «αναμφισβήτητα» για την ένταση του καύσωνα που πλήττει τη δυκή Ευωπη, έχοντας ως συνεται τη του θα ήταν σχεδόν αδύνατο πριν από 50 χρόνια, σύμφωνα με τα συμπεράσλατα μελέτης τη",
-            "link": "https://www.ertnews.gr/roi-idiseon/i-klimatiki-allagi-piso-apo-ton-akraio-kaysona-sti-dytiki-eyropi/"
+            "title": "Σε 24ωρη απεργια αύριο οι μετατατείς τη Ρόδου",
+            "summary": "Σε 24ωρη απεργιακή κινητοποίηση προχωρούλίν αύριο, Τετάρτη, οι εκπρόσωποι του κλάδου επισηματίση υτατατείς τη Ρόδου.",
+            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/notio_aigaio/se-24ori-apergia-ayrio-oi-metaforeis-tis-rodou/"
+        },
+        {
+            "title": "Βρετανία: Οι αιτούντες άσυλο θα πρέπει να πληρώσουν τέλος 10.000 λιρών πριν υποβάλουν αίτηση για μόνιμη διαμονή",
+            "link": "https://www.ertnews.gr/eidiseis/vretania-oi-aitountes-asylo-tha-prepei-na-plirosoun-telos-10-000-liron-prin-ypovaloun-aitisi-gia-monimi-diamoni/"
+        },
+        {
+            "title": "Κοινή δράση Βόλου – Λάρισας για τη στήριξη ευάλωτων πολιτών και γυναιών θυμάτων βίας",
+            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/koini-drasi-volou-larisas-gia-ti-stiriksi-eyaloton-politon-kai-gynaikon-thymaton-vias/"
+        },
+        {
+            "title": "Συνελήφθη διακινητής από το Ιράν – Με «ταρίφα» 1.500 ευρώ μετέφερε μετέφερε στο Αγαθονήσι",
+            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/notio_aigaio/synelifthi-diakinitis-apo-to-iran-me-tarifa-1-500-eyro-metefere-metanastes-sto-agathonisi/"
+        },
+        {
+            "title": "Θεοδωρικάκος: Συνεχείς παρεμβάσεις για τη στήριξη των πολιτών και των νοικοκυριών",
+            "link": "https://www.ertnews.gr/eidiseis/theodorikakos-synexeis-paremvaseis-gia-ti-stiriksi-ton-politon-kai-ton-noikokyrion/"
         }
     ],
     "sports": [
         {
-            "title": "Ολοκληρώνονται οι όμιλοι στο Παγκόσμιο με καθηυμερινό",
-            "summary": "Super ενισχυμένες αποδόσεις, promos, αποστολές και Mούντο Game στα καταστήματα Allwyn.",
-            "link": "https://www.gazzetta.gr/mundial/2549848/oloklironontai-oi-omiloi-sto-pagkosmio-me-kathimerino-undoxing-empeirion-kai"
+            "title": "Κάρμο: «Μόλις μου τηλεφώνησαν από τον Ολυμπιακό ήμουν πολύ ευχισμένος, μοιάζει σαν να είναι γρατό»",
+            "summary": "Τις πρώτες του δηλώσεις μετά την επιστροφή του στον Ολυμπιακό για δεύτη φορά έκανε ο Νταβίντ Κάρμο.",
+            "link": "https://www.gazzetta.gr/football/superleague/2550764/karmo-molis-moy-tilefonisan-apo-ton-olympiako-imoyn-poly-eytyhismenos"
         },
         {
-            "title": "Πώς ένας διπλός γάμος θα κατέληγε σε τραγωδία λόγω καύσωνα - Κατέρρεαν οι καλεσμένοι",
-            "summary": "Ήταν 26 Ιουνίου 1976 και η Βρετανία βρισκόταν στη δίνη ενός ιστορικού καύσωνα, με 15 συνεχόμενες ημέρες κατά τις οποίες η θερμοκρασία ξεπερνούσε τους 32 βαθμούς Κελσίου",
-            "link": "https://www.gazzetta.gr/plus/2549843/pos-enas-diplos-gamos-tha-katelige-se-tragodia-logo-kaysona-katerrean-oi-kalesmenoi"
-        },
-        {
-            "title": "F1: Η Honda δεν περιμένει θαύματα σύντομα",
-            "summary": "Ο πρόεδρος του HRC, Κότζι Γουατανάμπε, παραδέχεται τις σοβαρές δυσκολίες, εληγεί τους λόγους της πτώσης και ζητά υποςπολονή για το πλάνο της Honda.",
-            "link": "https://www.gazzetta.gr/gmotion/2548917/f1-i-honda-den-perimenei-syntoma-thaymata"
+            "title": "Μπογκντάνοβιτς: Τι γίνεται τώρα που έμεινε ελεύθερος και πόσο θα περιμένει ο ίδιος το NBA",
+            "summary": "Ελεύθερος έμεινε ο Μπόγκνταν Μπογκντάνοβιτς. H Euroleague... παραμονεύει, το Ντένβερ προσφέρει το ιδανικό «καταφύγιο» για να συμπληρώσει τη 10ετία και να κλειδώσει τη...",
+            "link": "https://www.gazzetta.gr/basketball/nba/2550761/mpogkntanobits-ti-ginetai-tora-poy-emeine-eleytheros-kai-poso-tha-perimenei"
         }
     ],
     "tv_program": [
         {
-            "time": "14:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "14:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
             "time": "16:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΑΝΤ1+",
+            "channel": "ANT1+",
             "title": "16:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΑΝΤ1+",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "17:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "17:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "18:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΑΝΤ1+",
-            "title": "18:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΑΝΤ1+",
+            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "channel": "ΣΚΑΪ",
+            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "19:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
+            "channel": "ΕΤ1",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
+            "summary": "Κανάλι: ΕΤ1",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "20:00",
+            "event": "Πρέμιερ Λιγκ: Λίβερπουλ - Μάντσεστερ Γιουνάιτεντ",
+            "channel": "ΣΚΑΪ",
+            "title": "20:00 | Πρέμιερ Λιγκ: Λίβερπουλ - Μάντσεστερ Γιουνάιτεντ",
+            "summary": "Κανάλι: ΣΚΑΪ",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "21:00",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Γκόλντεν Στέιτ Ουόριορς",
+            "channel": "ANT1+",
+            "title": "21:00 | NBA: Λος Άντζελες Λέικερς - Γκόλντεν Στέιτ Ουόριορς",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
