@@ -1,137 +1,116 @@
 {
     "weather": {
-        "temp": "19.9°C - Συννεφιά (Βροχή: 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)",
+        "temp": "14.9°C - Συννεφιά (Βροχή: 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)",
         "condition": "Συννεφιά",
-        "rain_alert": "Βροχή: 12:00, 13:00, 14:00, 15:00, 16:00, 17:00",
-        "combined": "19.9°C - Συννεφιά (Βροχή: 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)"
+        "rain_alert": "Βροχή: 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00",
+        "combined": "14.9°C - Συννεφιά (Βροχή: 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)"
     },
     "world": [
         {
-            "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
-            "summary": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
-            "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+            "title": "At least 11 killed in second Russian strikes on Kyiv in a week",
+            "summary": "Rescue efforts are continuing at more than 20 locations, the city's top military administrator says.",
+            "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-            "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
-            "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
+            "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+            "summary": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
+            "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-            "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
-            "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
+            "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+            "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+            "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-            "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-            "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss"
+            "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+            "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+            "link": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-            "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
-            "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
+            "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+            "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
+            "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-            "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
-            "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/"
+            "title": "Uber’s European expansion plans may have hit a speed bump",
+            "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+            "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/"
         },
         {
-            "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-            "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
-            "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"
+            "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+            "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+            "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/"
         },
         {
-            "title": "WhatsApp usernames are already raising impersonation red flags",
-            "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
-            "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/"
+            "title": "Amazon will stop accepting new customers for Mechanical Turk",
+            "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+            "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
         },
         {
-            "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-            "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
-            "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/"
+            "title": "5 desk gadgets that can make your workday better",
+            "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
+            "link": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/"
         },
         {
-            "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-            "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
-            "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+            "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+            "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
+            "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/"
         }
     ],
     "denmark": [
         {
-            "title": "Smugglers caught with a half billion for illegal cigarette factory",
-            "summary": "A large illegal cigarette factory was discovered in Svebølle, and the court in Holbæk has found evidence against the smugglers.",
-            "link": "https://www.dr.dk/nyheder/seneste/boeder-paa-en-halv-milliard-ulovlig-cigaretfabrik"
+            "title": "Historic Trial Against Philippine Vice President Begins Today",
+            "summary": "A historic trial against the Vice President of the Philippines is set to begin today, marking a significant moment in the country's judicial history.",
+            "link": "https://www.dr.dk/nyheder/seneste/historisk-retssag-mod-filippinsk-vicepraesident-begynder-i-dag"
         },
         {
-            "title": "Forest fire forces 200 people out of their homes in southern France",
-            "summary": "A forest fire in southern France has forced 200 people to leave their homes.",
-            "link": "https://www.dr.dk/nyheder/seneste/skovbrand-tvinger-200-mennesker-fra-deres-hjem-i-sydfrankrig"
+            "title": "Spain Expects 100 Million Tourists This Year",
+            "summary": "Spain is anticipating a record-breaking 100 million tourists this year, with the country's tourism industry expected to continue its upward trend.",
+            "link": "https://www.dr.dk/nyheder/seneste/spanien-forventer-100-millioner-turister-i-aar"
         },
         {
-            "title": "Japanese yen falls to its weakest level in 40 years",
-            "summary": "The Japanese yen has fallen to its weakest level in 40 years, causing economic concerns.",
-            "link": "https://www.dr.dk/nyheder/seneste/japansk-yen-falder-til-svageste-niveau-i-40-aar"
+            "title": "Norway's Royal Family Shares Photo of Crown Princess After Surgery",
+            "summary": "The Norwegian royal family has shared a photo of Crown Princess Mette-Marit after her recent surgery, offering a glimpse into her recovery.",
+            "link": "https://www.dr.dk/nyheder/seneste/det-norske-kongehus-deler-billede-af-kronprinsessen-efter-operation"
         },
         {
-            "title": "BO still struggling to make a profit on the bottom line",
-            "summary": "Despite efforts, BO is still struggling to make a profit on its bottom line.",
-            "link": "https://www.dr.dk/nyheder/seneste/det-kniber-stadig-med-faa-overskud-paa-bundlinjen-b-o"
+            "title": "Funeral Procession for Iran's Late Ayatollah Has Begun",
+            "summary": "The funeral procession for Iran's late Ayatollah has begun, with thousands of mourners gathering to pay their respects to the deceased leader.",
+            "link": "https://www.dr.dk/nyheder/seneste/begravelsesoptog-irans-afdoede-ayatollah-er-begyndt"
         },
         {
-            "title": "AI to help customers in BR buy toys online soon",
-            "summary": "A new AI system will soon be implemented in BR to help customers buy toys online.",
-            "link": "https://www.dr.dk/nyheder/seneste/snart-bliver-det-ai-der-hjaelper-kunder-i-br-med-koebe-legetoej-online"
+            "title": "Australian Foreign Minister Calls Chinese Missile Test 'Destabilizing'",
+            "summary": "Australia's Foreign Minister has condemned China's recent missile test as 'destabilizing', expressing concerns about the potential implications for regional security.",
+            "link": "https://www.dr.dk/nyheder/seneste/australiens-udenrigsminister-kalder-kinesisk-missiltest-destabiliserende"
         }
     ],
     "greece": [
         {
-            "title": "Νότια Αφρική: Τουλάχιστον 16 νεκροί και 20 τραυματίες από ανατροπή λεωφορείου",
-            "summary": "Θανατηφόρο δυστύχημα σημειώθηκε τα ξης Πέμπτης (2/7) στη Νότια Αφρική, όταν λεωφορείο που μετέφερε επιβάτες προς την επαρχία Ανατολικό Ακρωτήριο (Eastern Cape) ανετράπη, με αποτέλεσμα να χά",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/notia-afriki-toulaxiston-16-nekroi-kai-20-traymaties-apo-anatropi-leoforeiou/"
+            "title": "Σαρηγιάννης στο ΕΡΤnews Radio 105,8 για τοξικό νέφος: Πώς να καθαριστούν οι επιφάνειες και με ποια μέτρα προστασίας για να μην εισπνεύσουμε καρκινογόλήμες ουσίες",
+            "summary": "Αυτή τη στιγμή η κατάσταστη εήναι πολύ καλύτησω σε σχέση με χθες σε όλη την περιοχή της Θεσσαλονίκης, όχι μόνο πάνω στις γεωλογικές της πλάκες, αλλά και πάνω στις πολιτικές, κο",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/sarigiannis-sto-ertnews-radio-105-8-gia-toksiko-nefos-pos-na-katharistoun-oi-epifaneies-kai-me-poia-metra-prostasias-gia-na-min-eispneysoume-karkinogones-ousies/"
         },
         {
-            "title": "Θεσσαλονίκη: Η κατάσταση των ταυματιών από την εμπρηστική επίθεση – Εξακολουθούν να νοσηλεύονται στο Ιπποκράτειο",
-            "summary": "Στο Ιπποκράτειο Νοσοκομείο Θεσσαλονίκης εξακολουθούν να νοσηλεύονται τέσσερα άτομα μετά την εμπρηστική επίθεση κατά στελεχών της ΝΔ στη Θεσσαλονίκη. Η σωματική του κατάσταση εειναι καλή και οι γιατροί",
-            "link": "https://www.ertnews.gr/video/thessaloniki-i-katastasi-ton-traymation-apo-tin-empristiki-epithesi-eksakolouthoun-na-nosileyontai-sto-ippokrateio/"
+            "title": "Η Λατινική Αμερική και οι τεκτονικές φυσικές και πολιτικές μετακινήσεις",
+            "summary": "Συνταξη : Πολυδεύκης Παπαδόπος Υπάρχουν στην ιστορία όπου μια ολόκληρη ήπειρος μοιάζει να μετακινείται ταυτόχρονα, όχι μόνο πάνω στις γεωλογικές της πλάκες, αλλά και πάνω στις πολιτικές, κο",
+            "link": "https://www.ertnews.gr/eidiseis/i-latiniki-ameriki-kai-oi-tektonikes-fysikes-kai-politikes-metakiniseis/"
         }
     ],
     "sports": [
         {
-            "title": "Αποστολάκης: Κηφισιά - Κνακοινώθηκε η μεταγραφή",
-            "summary": "Όπως αναμενόταν, η Κηφισιά ανακοίλινώθυ την απόκτηση του Κώστα Αποστολάκη, ο οποίος αποχώρησε ως ελεύθερος από την ΑΕΛ.",
-            "link": "https://www.gazzetta.gr/football/superleague/2551301/apostolakis-kifisia-anakoinothike-i-metagrafi"
+            "title": "Μουντιάλ 2026: Ο Βινίσιους διώκοψε συνέντευξη του Χάλαντ για να τον ασκαλιάσει (vid)",
+            "summary": "Ο Βινίσιους Τζούνιορ σταμάτησε τη συνέντευξη του Έρλινγκ Χάαλαντ, θέλοντας να ασκαλιάσει και να συγχαρεί τον διεθνών του.",
+            "link": "https://www.gazzetta.gr/football/mundial/2552286/moyntial-2026-o-binisioys-diekopse-synenteyxi-toy-haalant-gia-na-ton"
         },
         {
-            "title": "Μουντιάλ 2026: Ανακοίλώισαν στη συνέντευη Τύπου ότι ο πατέρας του προωνητή του Κονγκό έφυγε από τη ζωή (vid)",
-            "summary": "Μια άβολη στιγμή έζησε ο τεχνικόλης της Λ.Δ. του Κονγκό, Σεμπαστιάν Ντεσάμπρ, όταν ανακοιλώθηκε δημόσια ο θάνατος του πατέρα του.",
-            "link": "https://www.gazzetta.gr/football/mundial/2551300/moyntial-2026-anakoinosan-sti-synenteyxi-typoy-oti-o-pateras-toy-proponiti"
-        },
-        {
-            "title": "Triumph και Ηλιοφίλ: Το τέλος του δρόμου",
-            "summary": "Μια από τις μακροβιότες και πιο επιτυχημένες σχίσεις στην ελληνική αγορά ολοκληρώνει -κάπως άδοξα με υπαιτιότητα της Triumph- έναν κύκλο 33 ετών.",
-            "link": "https://www.gazzetta.gr/gmotion/2551299/triumph-kai-iliofil-telos-toy-dromoy"
+            "title": "Husqvarna Enduro 2027: Βαδίζοντας στην επιτυχημένη συνταγή (vid)",
+            "summary": "Σχεδιασμένα για απαιτητικούς αναβάτες, τα νέα μοντέλα Εντούρο της αυστριακής φίρμας χρησιμοποιούν την πλατφόρμα των διεθνών του επιτυχιών.",
+            "link": "https://www.gazzetta.gr/gmotion/2551594/husqvarna-enduro-2027-badizontas-stin-epityhimeni-syntagi-vid"
         }
     ],
     "tv_program": [
-        {
-            "time": "12:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "12:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "14:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "14:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
         {
             "time": "16:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
@@ -143,17 +122,33 @@
         {
             "time": "18:00",
             "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "ΣΚΑΪ Τηλεόραση",
+            "channel": "ΣΚΑΪ",
             "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
+            "summary": "Κανάλι: ΣΚΑΪ",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "19:00",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
+            "channel": "ΣΚΑΪ",
+            "title": "19:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ Τηλεόραση",
-            "title": "20:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ Τηλεόραση",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "channel": "ΑΝΤ1",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "summary": "Κανάλι: ΑΝΤ1",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "21:00",
+            "event": "ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "channel": "ΣΚΑΪ",
+            "title": "21:00 | ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
