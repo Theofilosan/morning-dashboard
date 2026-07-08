@@ -1,113 +1,125 @@
 {
     "weather": {
-        "temp": "15.4°C - Ψιχάλες (Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)",
-        "condition": "Ψιχάλες",
-        "rain_alert": "Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00",
-        "combined": "15.4°C - Ψιχάλες (Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00, 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)"
+        "temp": "16.8°C - Ηλιοφάνεια (Βροχή: 00:00)",
+        "condition": "Ηλιοφάνεια",
+        "rain_alert": "Βροχή: 00:00",
+        "combined": "16.8°C - Ηλιοφάνεια (Βροχή: 00:00)"
     },
     "world": [
         {
-            "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-            "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
-            "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
+            "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+            "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
+            "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Trump confirms he asked Fifa to review Balogun ban",
-            "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+            "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+            "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+            "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-            "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss"
+            "title": "Nato allies announce £37bn for new missile project",
+            "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+            "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-            "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
-            "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss"
+            "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+            "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+            "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
-            "summary": "Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees.",
-            "link": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss"
+            "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
+            "summary": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
+            "link": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-            "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-            "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
+            "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+            "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+            "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
         },
         {
-            "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-            "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-            "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
+            "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+            "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+            "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
         },
         {
-            "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-            "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-            "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
+            "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+            "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+            "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
         },
         {
-            "title": "The ‘first’ AI-run ransomware attack still needed a human",
-            "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
-            "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
+            "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+            "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+            "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/"
         },
         {
-            "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-            "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
-            "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/"
+            "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+            "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+            "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
         }
     ],
     "denmark": [
         {
-            "title": "Macron did not hear explosions in Damascus confirmed by the Élysée Palace",
-            "summary": "The Élysée Palace has confirmed that French President Emmanuel Macron did not hear any explosions in Damascus.",
-            "link": "https://www.dr.dk/nyheder/seneste/elyseepalaeet-bekraefter-macron-hoerte-ikke-eksplosioner-i-damaskus"
+            "title": "Minister to draft plans for deportation centers with Germany and Italy",
+            "summary": "The Danish Minister is set to draft plans for deportation centers with Germany and Italy, a move that could impact the country's immigration policies.",
+            "link": "https://www.dr.dk/nyheder/seneste/minister-skal-droefte-planer-om-udrejsecentre-med-tyskland-og-italien"
         },
         {
-            "title": "Critical problems with home care in Aarhus district",
-            "summary": "There are critical problems with home care in a district of Aarhus, with residents facing long wait times and inadequate care.",
-            "link": "https://www.dr.dk/nyheder/seneste/kritiske-problemer-med-hjemmeplejen-i-aarhus-bydel"
+            "title": "Traffic on Nørrebrogade is open again after overturned trailer",
+            "summary": "The traffic on Nørrebrogade has reopened after a trailer overturned, causing disruptions to the area.",
+            "link": "https://www.dr.dk/nyheder/seneste/trafikken-paa-noerrebrogade-er-aaben-igen-efter-vaeltet-stillads"
         },
         {
-            "title": "Leader's coffin arrives in holy city after funeral procession",
-            "summary": "The coffin of an Iranian leader has arrived in a holy city after a funeral procession, drawing large crowds and sparking controversy.",
-            "link": "https://www.dr.dk/nyheder/seneste/afdoed-iransk-leders-kiste-ankommet-til-hellig-efter-begravelsesoptog"
+            "title": "Far fewer people are affected by the work requirement than expected",
+            "summary": "The number of people affected by the work requirement in Denmark is significantly lower than initially expected.",
+            "link": "https://www.dr.dk/nyheder/seneste/langt-faerre-er-omfattet-af-arbejdspligt-end-forventet"
         },
         {
-            "title": "Zelenskyj: Lack of air defense prevented Ukraine from stopping Russian attack",
-            "summary": "Ukrainian President Volodymyr Zelenskyj has stated that a lack of air defense prevented Ukraine from stopping a Russian attack.",
-            "link": "https://www.dr.dk/nyheder/seneste/zelenskyj-mangel-paa-luftforsvar-forhindrede-ukraine-i-stoppe-russisk-angreb"
+            "title": "Kyiv hit by Russian missiles as NATO summit is underway",
+            "summary": "Kyiv has been hit by Russian missiles, coinciding with the ongoing NATO summit, which has raised concerns about the escalating conflict.",
+            "link": "https://www.dr.dk/nyheder/seneste/kyiv-ramt-af-russiske-missiler-mens-nato-topmoede-er-i-gang"
         },
         {
-            "title": "Death toll in DR Congo exceeds 500 after Ebola outbreak",
-            "summary": "The death toll in the Democratic Republic of Congo has exceeded 500 after an Ebola outbreak, with the situation continuing to deteriorate.",
-            "link": "https://www.dr.dk/nyheder/seneste/doedstallet-i-dr-congo-er-nu-over-500-efter-ebolaudbrud"
+            "title": "ICE shoots and kills Mexican citizen in Houston",
+            "summary": "A Mexican citizen was shot and killed by an ICE agent in Houston, sparking concerns about police brutality and immigration policies.",
+            "link": "https://www.dr.dk/nyheder/seneste/ice-skyder-og-draeber-mexicansk-statsborger-i-houston"
         }
     ],
     "greece": [
         {
-            "title": "Ξεκίνησε το Σαν Φερμίν στην Παμπλόνα με πέντε τραυματισμούς στην πρώτη ταυροδρομία",
-            "summary": "Πέντε δρομείς τραυματιστηκαν, όταν το ενθουσιώδες πλήθος έτρεξε μπροστά από έξι ταύρους στην εναρκτήρια ταυροδρομία του φεστιβάλ Σαν Φερμίν 2026, που πραγματοποιήθηώκε την Τριτη 7 Ιουλίου στην Παμπλόνα",
-            "link": "https://www.ertnews.gr/eidiseis/strong-ksekinise-to-san-fermin-stin-pamplona-me-pente-traymatismous-stin-proti-tayrodromia-strong/"
+            "title": "Λάρισα: Πιστοποιήθκαν οι πρώτοι 32 τεχνίτες για ηλεκτρικά οχήματα υψηλής τάσης",
+            "summary": "Τριάντα δύο Πιστοποιητικά Τεχνίτη Οχημάτων Υψηλής Σα πονεμήθηκαν το Παπολεμήσουν της σε μέλη του Συλλόγου Ηλεκτρολόγων Αυτοκινήτων της Π.Ε. Λάρισας. Η απονομή έγινε στο πλαυολεως με τίτλ",
+            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/larisa/larisa-pistopoiithikan-oi-protoi-32-texnites-gia-ilektrika-oximata-ypsilis-tasis/"
         },
         {
-            "title": "Ο κόστος της φοιτητικής στέγης στην Καλες– Ο χάρτης των φοιτητικών ενοικίων",
-            "summary": "Η ενεση φοιτητικής στέγης και το υψηλό κόυτος των ενοικίων αποτελούν μια από τις μεγαλύτες προκλήσεις για χιλιάδες φοιτητές και τις οικογένειές του όλη την Ελλάδα κάθε χρόνο, ιδιαίτερα το καλοκ",
-            "link": "https://www.ertnews.gr/eidiseis/oikonomia/to-kostos-tis-foititikis-stegis-stin-athina-o-xartis-ton-foititikon-enoikion/"
+            "title": "Η Φινλανδία προειδοποιεί: Η Ευωπη κινδυνεύει να μην έχει αρκετούς στρατιώτες πρόθυμους να πολεμήσουν",
+            "link": "https://www.ertnews.gr/eidiseis/i-finlandia-proeidopoiei-i-eyropi-kindyneyei-na-min-exei-arketous-stratiotes-prothymous-na-polemisoun/"
+        },
+        {
+            "title": "Τροπολογία Χατζηδάκη: Οριζόντια Ππολιγνιτοποίησης",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/strong-tropologia-xatzidaki-orizontia-ritra-dikaiis-metavasis-gia-tis-perioxes-apolignitopoiisis-strong/"
+        },
+        {
+            "title": "ΠΤαρα: Άρση της κράτησης για τον Τζέιμς Δαλαμάγκα μέχρι την συνεδρίαση του Συμβουλίου Εφετών",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/patra-arsi-tis-kratisis-gia-ton-tzeims-dalamagka-mexri-tin-synedriasi-tou-symvouliou-efeton/"
         }
     ],
     "sports": [
         {
-            "title": "Ολυμπιαώγκός: Κυκλοφόρησε η τρίτη εμφάνισή του για τη νέα σεζόν",
-            "summary": "Ο Ολυμπιαώγκός μοιράστηώκε με τους φιλάθλους φωτογραφής από την τρίτη εμφάνισή του, που κυκλοφόρησε σε σκούρο μπλε χρώμα και με ιδιαίτες λεσομέρειες στον γιακά.",
-            "link": "https://www.gazzetta.gr/football/superleague/2552546/olympiakos-kykloforise-i-triti-emfanisi-toy-gia-ti-nea-sezon"
+            "title": "Γένσεν - Παναθηναϊκός: Στα ραντάρ της Λάτσιο ο Δανός μίσος",
+            "summary": "Συμφωνα με δητου δη Ιταλία, ο Γένσεν είναι πιθανό να μπει στο στόχαστρο της Λάτσιο.",
+            "link": "https://www.gazzetta.gr/football/superleague/2552797/gensen-panathinaikos-sta-rantar-tis-latsio-o-danos-mesos"
         },
         {
-            "title": "Ολυμπιαώγκός: Κυκλοφόρησε η τρίτη εμφάνισή του για τη νέα σεζόν",
-            "summary": "Ο Ολυμπιαώγκός μοιράστηώκε με τους φιλάθλους φωτογραφής από την τρίτη εμφάνισή του, που κυκλοφόρησε σε σκούρο μπλε χρώμα και με ιδιαίτες λεσομέρειες στον γιακά.",
-            "link": "https://www.gazzetta.gr/football/superleague/2552546/olympiakos-kykloforise-i-triti-emfanisi-toy-gia-ti-nea-sezon"
+            "title": "Η παλεματες για τα F35, η παρεςεγίσχη Μαρκόπολου με Άδωνι και το βασικό όπλο του Τσιπρα",
+            "summary": "Το τελεφώνητες Μαρκόπολου με Άδωνι, τα επόμενα βήματα Τσιπρα και η ...",
+            "link": "https://www.gazzetta.gr/plus/2552796/i-psyhraimia-gia-ta-f35-i-parexigisi-markopoyloy-me-adoni-kai-basiko-oplo-toy-tsipra"
+        },
+        {
+            "title": "Το τερμάτισαν στην Ιταλία: Χωριό επιβάλλει πρόστιμα για εμφανίστηών σε τους ή χωρίς μπλούζα",
+            "summary": "Χωριό στητην Ιταλία επιβάλλει πρόστιμα σε τουρίστες που κεκλοφορούν με το μαγιό τους ή χωρίς μπλούζα εκτός παραλίας.",
+            "link": "https://www.gazzetta.gr/plus/2552794/termatisan-stin-italia-horio-epiballei-prostima-gia-emfaniseis-me-magio-i-horis"
         }
     ],
     "tv_program": [
@@ -128,27 +140,27 @@
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
+            "time": "19:00",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
+            "channel": "ΣΚΑΪ",
+            "title": "19:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
+            "summary": "Κανάλι: ΣΚΑΪ",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
             "time": "20:00",
             "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "channel": "Alpha",
+            "channel": "ANT1+",
             "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "summary": "Κανάλι: Alpha",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
-            "channel": "Mega",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
-            "summary": "Κανάλι: Mega",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "22:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
-            "channel": "Open",
-            "title": "22:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
-            "summary": "Κανάλι: Open",
+            "event": "ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "channel": "ΣΚΑΪ",
+            "title": "21:00 | ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
