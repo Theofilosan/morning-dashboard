@@ -1,125 +1,108 @@
 {
     "weather": {
-        "temp": "16.8°C - Ηλιοφάνεια (Βροχή: 00:00)",
-        "condition": "Ηλιοφάνεια",
-        "rain_alert": "Βροχή: 00:00",
-        "combined": "16.8°C - Ηλιοφάνεια (Βροχή: 00:00)"
+        "temp": "22.1°C - Μερική συννεφιά (Όχι βροχή)",
+        "condition": "Μερική συννεφιά",
+        "rain_alert": "Όχι βροχή",
+        "combined": "22.1°C - Μερική συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-            "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
-            "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+            "title": "At least 11 dead and 19 missing in wildfire in southern Spain",
+            "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+            "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-            "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
-            "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
+            "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+            "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
+            "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Nato allies announce £37bn for new missile project",
-            "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-            "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
+            "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+            "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
+            "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-            "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-            "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss"
+            "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+            "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+            "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
-            "summary": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
-            "link": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss"
+            "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+            "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+            "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-            "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-            "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+            "title": "OpenAI launches its new family of models with GPT-5.6",
+            "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+            "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
         },
         {
-            "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-            "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-            "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
+            "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+            "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+            "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
         },
         {
-            "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-            "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-            "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+            "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+            "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes",
+            "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
         },
         {
-            "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-            "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
-            "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/"
+            "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+            "summary": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+            "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/"
         },
         {
-            "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-            "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-            "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
+            "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
+            "summary": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
+            "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/"
         }
     ],
     "denmark": [
         {
-            "title": "Minister to draft plans for deportation centers with Germany and Italy",
-            "summary": "The Danish Minister is set to draft plans for deportation centers with Germany and Italy, a move that could impact the country's immigration policies.",
-            "link": "https://www.dr.dk/nyheder/seneste/minister-skal-droefte-planer-om-udrejsecentre-med-tyskland-og-italien"
+            "title": "Record Number of Tourist Overnight Stays in Denmark at the Start of the Year",
+            "summary": "Denmark has seen a record number of tourist overnight stays at the start of the year, according to recent data.",
+            "link": "https://www.dr.dk/nyheder/seneste/rekordmange-turistovernatninger-i-danmark-i-starten-af-aaret"
         },
         {
-            "title": "Traffic on Nørrebrogade is open again after overturned trailer",
-            "summary": "The traffic on Nørrebrogade has reopened after a trailer overturned, causing disruptions to the area.",
-            "link": "https://www.dr.dk/nyheder/seneste/trafikken-paa-noerrebrogade-er-aaben-igen-efter-vaeltet-stillads"
+            "title": "Don't Let Firefighters Stress You Out? Check the Weather Forecast and Take a Warm Bath If You're in a Bad Situation",
+            "summary": "If you're feeling stressed about firefighters, check the weather forecast and take a warm bath to calm down.",
+            "link": "https://www.dr.dk/nyheder/seneste/vil-du-ikke-generes-af-brandmaend-tjek-vejrudsigt-og-tag-et-varmt-bad-hvis-uheldet-er-ude"
         },
         {
-            "title": "Far fewer people are affected by the work requirement than expected",
-            "summary": "The number of people affected by the work requirement in Denmark is significantly lower than initially expected.",
-            "link": "https://www.dr.dk/nyheder/seneste/langt-faerre-er-omfattet-af-arbejdspligt-end-forventet"
+            "title": "Two Young Men Accept Extended Pre-Trial Detention in Gudenåen Murder Case",
+            "summary": "Two young men have accepted extended pre-trial detention in connection with a murder case from Gudenåen.",
+            "link": "https://www.dr.dk/nyheder/seneste/unge-maend-accepterer-forlaenget-varetaegtsfaengsling-i-drabssag-fra-gudenaaen"
         },
         {
-            "title": "Kyiv hit by Russian missiles as NATO summit is underway",
-            "summary": "Kyiv has been hit by Russian missiles, coinciding with the ongoing NATO summit, which has raised concerns about the escalating conflict.",
-            "link": "https://www.dr.dk/nyheder/seneste/kyiv-ramt-af-russiske-missiler-mens-nato-topmoede-er-i-gang"
+            "title": "Municipalities Urge Citizens to Keep an Eye Out for Larvae",
+            "summary": "Municipalities are urging citizens to keep an eye out for larvae, which have been found in various areas.",
+            "link": "https://www.dr.dk/nyheder/seneste/kommuner-opfordrer-borgere-til-holde-oeje-med-fund-af-larver"
         },
         {
-            "title": "ICE shoots and kills Mexican citizen in Houston",
-            "summary": "A Mexican citizen was shot and killed by an ICE agent in Houston, sparking concerns about police brutality and immigration policies.",
-            "link": "https://www.dr.dk/nyheder/seneste/ice-skyder-og-draeber-mexicansk-statsborger-i-houston"
+            "title": "12 People Have Lost Their Lives in a Forest Fire in Southern Spain",
+            "summary": "Spain's prime minister has expressed deep sorrow and despair over the loss of 12 lives in a forest fire in southern Spain.",
+            "link": "https://www.dr.dk/nyheder/seneste/12-personer-har-mistet-livet-i-skovbrand-i-det-sydlige-spanien"
         }
     ],
     "greece": [
         {
-            "title": "Λάρισα: Πιστοποιήθκαν οι πρώτοι 32 τεχνίτες για ηλεκτρικά οχήματα υψηλής τάσης",
-            "summary": "Τριάντα δύο Πιστοποιητικά Τεχνίτη Οχημάτων Υψηλής Σα πονεμήθηκαν το Παπολεμήσουν της σε μέλη του Συλλόγου Ηλεκτρολόγων Αυτοκινήτων της Π.Ε. Λάρισας. Η απονομή έγινε στο πλαυολεως με τίτλ",
-            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/larisa/larisa-pistopoiithikan-oi-protoi-32-texnites-gia-ilektrika-oximata-ypsilis-tasis/"
-        },
-        {
-            "title": "Η Φινλανδία προειδοποιεί: Η Ευωπη κινδυνεύει να μην έχει αρκετούς στρατιώτες πρόθυμους να πολεμήσουν",
-            "link": "https://www.ertnews.gr/eidiseis/i-finlandia-proeidopoiei-i-eyropi-kindyneyei-na-min-exei-arketous-stratiotes-prothymous-na-polemisoun/"
-        },
-        {
-            "title": "Τροπολογία Χατζηδάκη: Οριζόντια Ππολιγνιτοποίησης",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/strong-tropologia-xatzidaki-orizontia-ritra-dikaiis-metavasis-gia-tis-perioxes-apolignitopoiisis-strong/"
-        },
-        {
-            "title": "ΠΤαρα: Άρση της κράτησης για τον Τζέιμς Δαλαμάγκα μέχρι την συνεδρίαση του Συμβουλίου Εφετών",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/patra-arsi-tis-kratisis-gia-ton-tzeims-dalamagka-mexri-tin-synedriasi-tou-symvouliou-efeton/"
+            "title": "Μητσοτάκης από τη Βουλή: «Η Δημοκρατία απαντίση βω οδησεινς του του τρομοκράτες στη Δικαιουνη»",
+            "summary": "Στην ανάγκη κοινής στάσης των πολιτικών δυνάμεων απέναντι στην τρομοκρατία αναφέρθηκώ ο πρωθυπουργός Κυριάκος Μητσοτάκης από τη Βουλή, κατά τη διάρκεια της «Ώρας του Πρωθυπουργού». Ο κ. Μητσοτάκης ξεκ",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/mitsotakis-apo-ti-vouli-i-dimokratia-apanta-sti-via-odigontas-tous-tromokrates-sti-dikaiosyni/"
         }
     ],
     "sports": [
         {
-            "title": "Γένσεν - Παναθηναϊκός: Στα ραντάρ της Λάτσιο ο Δανός μίσος",
-            "summary": "Συμφωνα με δητου δη Ιταλία, ο Γένσεν είναι πιθανό να μπει στο στόχαστρο της Λάτσιο.",
-            "link": "https://www.gazzetta.gr/football/superleague/2552797/gensen-panathinaikos-sta-rantar-tis-latsio-o-danos-mesos"
+            "title": "Γαλλία: Νεκρή 17χρονη κατά τι διάρκεια των πανησμών για την πρόκριστής",
+            "summary": "Μια 17χρονη έχασε τη ζωή της με τραγικό τρόπο κατά τη διάρκεια των εορτασμών για την πρόκριστής της Γαλλίας στους «8» του Μουντιάλ.",
+            "link": "https://www.gazzetta.gr/football/mundial/2553305/gallia-nekri-17hroni-kata-ti-diarkeia-ton-panigyrismon-gia-tin-prokrisi"
         },
         {
-            "title": "Η παλεματες για τα F35, η παρεςεγίσχη Μαρκόπολου με Άδωνι και το βασικό όπλο του Τσιπρα",
-            "summary": "Το τελεφώνητες Μαρκόπολου με Άδωνι, τα επόμενα βήματα Τσιπρα και η ...",
-            "link": "https://www.gazzetta.gr/plus/2552796/i-psyhraimia-gia-ta-f35-i-parexigisi-markopoyloy-me-adoni-kai-basiko-oplo-toy-tsipra"
-        },
-        {
-            "title": "Το τερμάτισαν στην Ιταλία: Χωριό επιβάλλει πρόστιμα για εμφανίστηών σε τους ή χωρίς μπλούζα",
-            "summary": "Χωριό στητην Ιταλία επιβάλλει πρόστιμα σε τουρίστες που κεκλοφορούν με το μαγιό τους ή χωρίς μπλούζα εκτός παραλίας.",
-            "link": "https://www.gazzetta.gr/plus/2552794/termatisan-stin-italia-horio-epiballei-prostima-gia-emfaniseis-me-magio-i-horis"
+            "title": "Ρεάλ Μαδρίτης: Ο Μουρίνιο πήρε έναν 45χρονο «Galactico» από τη Μονακό και δεν είναι ποδοσφαιριστής!",
+            "summary": "Κλινικός διευθυντής της Ρεάλ Μαδρίτης θα είναι ο Αλεξάντρ Κρεουζέ, ο οποίος θεωρείται σημείο αναφοράς στη βιομησανία του ποδοσφαίρου.",
+            "link": "https://www.gazzetta.gr/football/la-liga/2553304/real-madritis-o-moyrinio-pire-enan-45hrono-galactico-apo-ti-monako-kai-den"
         }
     ],
     "tv_program": [
@@ -141,26 +124,26 @@
         },
         {
             "time": "19:00",
-            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
-            "channel": "ΣΚΑΪ",
-            "title": "19:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "channel": "Alpha",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "summary": "Κανάλι: Alpha",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "channel": "ANT1+",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "summary": "Κανάλι: ANT1+",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
+            "channel": "Mega",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
+            "summary": "Κανάλι: Mega",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
-            "channel": "ΣΚΑΪ",
-            "title": "21:00 | ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
+            "channel": "Open",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
+            "summary": "Κανάλι: Open",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
