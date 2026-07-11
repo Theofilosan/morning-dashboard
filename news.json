@@ -1,108 +1,108 @@
 {
     "weather": {
-        "temp": "22.1°C - Μερική συννεφιά (Όχι βροχή)",
-        "condition": "Μερική συννεφιά",
+        "temp": "20.7°C - Συννεφιά (Όχι βροχή)",
+        "condition": "Συννεφιά",
         "rain_alert": "Όχι βροχή",
-        "combined": "22.1°C - Μερική συννεφιά (Όχι βροχή)"
+        "combined": "20.7°C - Συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "At least 11 dead and 19 missing in wildfire in southern Spain",
-            "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
-            "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
+            "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+            "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+            "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-            "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
-            "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
+            "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+            "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+            "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-            "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-            "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss"
+            "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+            "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+            "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-            "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
-            "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
+            "title": "Forced to wait his turn, Marine Le Pen's deputy returns to the shadows",
+            "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+            "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-            "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
-            "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
+            "title": "Meet the crypto billionaires building a world where money buys you a vote",
+            "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+            "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "OpenAI launches its new family of models with GPT-5.6",
-            "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-            "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+            "title": "Meta removes controversial AI feature on Instagram after backlash",
+            "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback and will be removing this feature.\"",
+            "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
         },
         {
-            "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-            "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-            "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
+            "title": "Apple sues OpenAI over alleged trade secret theft",
+            "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+            "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
         },
         {
-            "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-            "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes",
-            "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
+            "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+            "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+            "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/"
         },
         {
-            "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-            "summary": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
-            "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/"
+            "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+            "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions a",
+            "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/"
         },
         {
-            "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-            "summary": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
-            "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/"
+            "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+            "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub",
+            "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/"
         }
     ],
     "denmark": [
         {
-            "title": "Record Number of Tourist Overnight Stays in Denmark at the Start of the Year",
-            "summary": "Denmark has seen a record number of tourist overnight stays at the start of the year, according to recent data.",
-            "link": "https://www.dr.dk/nyheder/seneste/rekordmange-turistovernatninger-i-danmark-i-starten-af-aaret"
+            "title": "British police release 26-year-old in murder case of politician",
+            "summary": "A 26-year-old man has been released by British police in connection with the murder of a politician.",
+            "link": "https://www.dr.dk/nyheder/seneste/britisk-politi-loeslader-26-aarig-i-sag-om-draebt-politiker"
         },
         {
-            "title": "Don't Let Firefighters Stress You Out? Check the Weather Forecast and Take a Warm Bath If You're in a Bad Situation",
-            "summary": "If you're feeling stressed about firefighters, check the weather forecast and take a warm bath to calm down.",
-            "link": "https://www.dr.dk/nyheder/seneste/vil-du-ikke-generes-af-brandmaend-tjek-vejrudsigt-og-tag-et-varmt-bad-hvis-uheldet-er-ude"
+            "title": "Batteries sold in Fleggaard recalled after metal fragments found",
+            "summary": "Batteries sold in Fleggaard have been recalled after metal fragments were found in them.",
+            "link": "https://www.dr.dk/nyheder/seneste/poelser-solgt-i-fleggaard-tilbagekaldes-efter-fund-af-metalstykker"
         },
         {
-            "title": "Two Young Men Accept Extended Pre-Trial Detention in Gudenåen Murder Case",
-            "summary": "Two young men have accepted extended pre-trial detention in connection with a murder case from Gudenåen.",
-            "link": "https://www.dr.dk/nyheder/seneste/unge-maend-accepterer-forlaenget-varetaegtsfaengsling-i-drabssag-fra-gudenaaen"
+            "title": "Three in critical condition after serious traffic accident in Midtjylland",
+            "summary": "Three people are in critical condition after a serious traffic accident in Midtjylland.",
+            "link": "https://www.dr.dk/nyheder/seneste/fire-i-kritisk-tilstand-efter-alvorlig-trafikulykke-i-midtjylland"
         },
         {
-            "title": "Municipalities Urge Citizens to Keep an Eye Out for Larvae",
-            "summary": "Municipalities are urging citizens to keep an eye out for larvae, which have been found in various areas.",
-            "link": "https://www.dr.dk/nyheder/seneste/kommuner-opfordrer-borgere-til-holde-oeje-med-fund-af-larver"
+            "title": "15 die in the Philippines after typhoon",
+            "summary": "At least 15 people have died in the Philippines after a powerful typhoon.",
+            "link": "https://www.dr.dk/nyheder/seneste/15-mister-livet-i-filippinerne-efter-supertyfon"
         },
         {
-            "title": "12 People Have Lost Their Lives in a Forest Fire in Southern Spain",
-            "summary": "Spain's prime minister has expressed deep sorrow and despair over the loss of 12 lives in a forest fire in southern Spain.",
-            "link": "https://www.dr.dk/nyheder/seneste/12-personer-har-mistet-livet-i-skovbrand-i-det-sydlige-spanien"
+            "title": "Germany votes for contentious healthcare budget cuts",
+            "summary": "Germany has voted in favor of contentious budget cuts in the country's healthcare system.",
+            "link": "https://www.dr.dk/nyheder/seneste/tyskland-stemmer-omstridt-spareplan-i-sygekasserne"
         }
     ],
     "greece": [
         {
-            "title": "Μητσοτάκης από τη Βουλή: «Η Δημοκρατία απαντίση βω οδησεινς του του τρομοκράτες στη Δικαιουνη»",
-            "summary": "Στην ανάγκη κοινής στάσης των πολιτικών δυνάμεων απέναντι στην τρομοκρατία αναφέρθηκώ ο πρωθυπουργός Κυριάκος Μητσοτάκης από τη Βουλή, κατά τη διάρκεια της «Ώρας του Πρωθυπουργού». Ο κ. Μητσοτάκης ξεκ",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/mitsotakis-apo-ti-vouli-i-dimokratia-apanta-sti-via-odigontas-tous-tromokrates-sti-dikaiosyni/"
+            "title": "Κρήτη: Λισγότερα περισστατικά, περισσότες σωλλήψεις για ενδοοικογενειακή βπια – Τι ειπή ο Μιχ.",
+            "summary": "Με επίκεντρο την πρόληψη, την προστασία των θυμάτων και την ενυγός των μηχανισμών αντιμετώπισης της ενδοοικογενειακής βπιας πραγματοποιήθηώζώ στο Ηράκλειο η εκδήλωση του Υπουχγείου Ππλί.",
+            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/iraklio/kriti-ligotera-peristatika-perissoteres-syllipseis-gia-endooikogeneiaki-via-ti-eipe-o-mix-xrysoxoidis-gia-ti-venteta-stin-kriti/"
+        },
+        {
+            "title": "Οικονομικό Πανεπιστήμιο Κθνών: Πενήντα υποτροφίες για φοιτητές – Περιφέρεια.",
+            "summary": "Στη στη περίγη 50 συνολικά φοιτητών και φοιτητριών που προέρχονται από περιοχή 14 ναυτικά μίλια νότια της Γαύδου.",
+            "link": "https://www.ertnews.gr/roi-idiseon/oikonomiko-panepistimio-athinon-peninta-ypotrofies-gia-foitites-apo-tin-perifereia/"
         }
     ],
     "sports": [
         {
-            "title": "Γαλλία: Νεκρή 17χρονη κατά τι διάρκεια των πανησμών για την πρόκριστής",
-            "summary": "Μια 17χρονη έχασε τη ζωή της με τραγικό τρόπο κατά τη διάρκεια των εορτασμών για την πρόκριστής της Γαλλίας στους «8» του Μουντιάλ.",
-            "link": "https://www.gazzetta.gr/football/mundial/2553305/gallia-nekri-17hroni-kata-ti-diarkeia-ton-panigyrismon-gia-tin-prokrisi"
-        },
-        {
-            "title": "Ρεάλ Μαδρίτης: Ο Μουρίνιο πήρε έναν 45χρονο «Galactico» από τη Μονακό και δεν είναι ποδοσφαιριστής!",
-            "summary": "Κλινικός διευθυντής της Ρεάλ Μαδρίτης θα είναι ο Αλεξάντρ Κρεουζέ, ο οποίος θεωρείται σημείο αναφοράς στη βιομησανία του ποδοσφαίρου.",
-            "link": "https://www.gazzetta.gr/football/la-liga/2553304/real-madritis-o-moyrinio-pire-enan-45hrono-galactico-apo-ti-monako-kai-den"
+            "title": "Σαν Σήμερα: Ο Σουμάχερ ώππασε το πλδι του στο Στολβερστον (vid)",
+            "summary": "Ορισμένα γεγονότα της ιστορίας του μηχανοκίλητου αθλητισμού και της Formula 1, μέχρι σήμερα κάνουν κόυλουν κανο να παραμιλήει.",
+            "link": "https://www.gazzetta.gr/gmotion/2553484/117-san-simera-o-soymaher-espase-podi-toy-sto-silberston-vid"
         }
     ],
     "tv_program": [
@@ -124,26 +124,26 @@
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "channel": "Alpha",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "summary": "Κανάλι: Alpha",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
+            "channel": "ΣΚΑΪ",
+            "title": "19:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
-            "channel": "Mega",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
-            "summary": "Κανάλι: Mega",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "channel": "ANT1+",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
-            "channel": "Open",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
-            "summary": "Κανάλι: Open",
+            "event": "ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "channel": "ΣΚΑΪ",
+            "title": "21:00 | ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
