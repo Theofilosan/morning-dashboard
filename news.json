@@ -1,108 +1,113 @@
 {
     "weather": {
-        "temp": "20.7°C - Συννεφιά (Όχι βροχή)",
+        "temp": "21.7°C - Συννεφιά (Βροχή: 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)",
         "condition": "Συννεφιά",
-        "rain_alert": "Όχι βροχή",
-        "combined": "20.7°C - Συννεφιά (Όχι βροχή)"
+        "rain_alert": "Βροχή: 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00",
+        "combined": "21.7°C - Συννεφιά (Βροχή: 06:00, 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)"
     },
     "world": [
         {
-            "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-            "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-            "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
+            "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+            "summary": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
+            "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-            "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-            "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
+            "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+            "summary": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+            "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-            "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-            "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
+            "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+            "summary": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
+            "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Forced to wait his turn, Marine Le Pen's deputy returns to the shadows",
-            "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
-            "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss"
+            "title": "British couple return to village at heart of deadly Spanish wildfire",
+            "summary": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
+            "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Meet the crypto billionaires building a world where money buys you a vote",
-            "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
-            "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
+            "title": "At least 27 killed, 22 critically injured in Bangkok bar fire",
+            "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+            "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Meta removes controversial AI feature on Instagram after backlash",
-            "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback and will be removing this feature.\"",
-            "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+            "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+            "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+            "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
         },
         {
-            "title": "Apple sues OpenAI over alleged trade secret theft",
-            "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-            "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+            "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+            "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+            "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/"
         },
         {
-            "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-            "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
-            "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/"
+            "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+            "summary": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
+            "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/"
         },
         {
-            "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-            "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions a",
-            "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/"
+            "title": "Reed Jobs would rather talk about curing cancer than his last name",
+            "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a ",
+            "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/"
         },
         {
-            "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-            "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub",
-            "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/"
+            "title": "TechCrunch Mobility: A robotaxi ultimatum",
+            "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+            "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/"
         }
     ],
     "denmark": [
         {
-            "title": "British police release 26-year-old in murder case of politician",
-            "summary": "A 26-year-old man has been released by British police in connection with the murder of a politician.",
-            "link": "https://www.dr.dk/nyheder/seneste/britisk-politi-loeslader-26-aarig-i-sag-om-draebt-politiker"
+            "title": "Red flags raised in Vallensbæk due to overflow",
+            "summary": "An overflow in Vallensbæk has prompted the raising of red flags, indicating a potential issue with the water level.",
+            "link": "https://www.dr.dk/nyheder/seneste/overloeb-i-vallensbaek-betyder-roede-badeflag"
         },
         {
-            "title": "Batteries sold in Fleggaard recalled after metal fragments found",
-            "summary": "Batteries sold in Fleggaard have been recalled after metal fragments were found in them.",
-            "link": "https://www.dr.dk/nyheder/seneste/poelser-solgt-i-fleggaard-tilbagekaldes-efter-fund-af-metalstykker"
+            "title": "Denmark to provide 85 million kroner in humanitarian aid to Gaza and Lebanon",
+            "summary": "Denmark has announced plans to provide 85 million kroner in humanitarian aid to Gaza and Lebanon, supporting those affected by the ongoing conflict.",
+            "link": "https://www.dr.dk/nyheder/seneste/danmark-vil-give-85-millioner-kroner-i-humanitaer-stoette-til-gaza-og-libanon"
         },
         {
-            "title": "Three in critical condition after serious traffic accident in Midtjylland",
-            "summary": "Three people are in critical condition after a serious traffic accident in Midtjylland.",
-            "link": "https://www.dr.dk/nyheder/seneste/fire-i-kritisk-tilstand-efter-alvorlig-trafikulykke-i-midtjylland"
+            "title": "10,000 more deaths than usual during heatwaves in Europe",
+            "summary": "A recent study has found that heatwaves in Europe have resulted in 10,000 more deaths than usual, highlighting the devastating impact of extreme weather conditions.",
+            "link": "https://www.dr.dk/nyheder/seneste/10-000-flere-end-normalt-doede-under-hedeboelge-i-europa"
         },
         {
-            "title": "15 die in the Philippines after typhoon",
-            "summary": "At least 15 people have died in the Philippines after a powerful typhoon.",
-            "link": "https://www.dr.dk/nyheder/seneste/15-mister-livet-i-filippinerne-efter-supertyfon"
+            "title": "EU countries to sanction 250 Russian individuals and entities",
+            "summary": "In response to the ongoing conflict, EU countries have announced plans to sanction 250 Russian individuals and entities, imposing economic penalties and restrictions.",
+            "link": "https://www.dr.dk/nyheder/seneste/eu-landene-vil-sanktionere-250-russiske-personer-og-enheder"
         },
         {
-            "title": "Germany votes for contentious healthcare budget cuts",
-            "summary": "Germany has voted in favor of contentious budget cuts in the country's healthcare system.",
-            "link": "https://www.dr.dk/nyheder/seneste/tyskland-stemmer-omstridt-spareplan-i-sygekasserne"
+            "title": "Actor Sam Neill, known for 'Jurassic Park', passes away",
+            "summary": "Renowned actor Sam Neill, best known for his role in the 'Jurassic Park' franchise, has passed away, leaving a lasting legacy in the world of cinema.",
+            "link": "https://www.dr.dk/nyheder/seneste/jurassic-park-skuespiller-sam-neill-er-doed"
         }
     ],
     "greece": [
         {
-            "title": "Κρήτη: Λισγότερα περισστατικά, περισσότες σωλλήψεις για ενδοοικογενειακή βπια – Τι ειπή ο Μιχ.",
-            "summary": "Με επίκεντρο την πρόληψη, την προστασία των θυμάτων και την ενυγός των μηχανισμών αντιμετώπισης της ενδοοικογενειακής βπιας πραγματοποιήθηώζώ στο Ηράκλειο η εκδήλωση του Υπουχγείου Ππλί.",
-            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/iraklio/kriti-ligotera-peristatika-perissoteres-syllipseis-gia-endooikogeneiaki-via-ti-eipe-o-mix-xrysoxoidis-gia-ti-venteta-stin-kriti/"
+            "title": "Στη Λέσβο ο Κλέξης ΤσυλανίΡ: “Ήρθαμε να ακούσουμε τα προβλήματα και να διεκδικήσουμε λώσεις”",
+            "summary": "Επίσκεψη στη Λέσβο πραγματοποωί σήμερα, Δευτέρα 13 Ιολίου, ο πρόεδρος της Ελληνικής Αριστερής Συμπαράταπης (ΕΛ.Α.Σ.), Αλέξης ΤσυλανίΡ. Πρώτος σταθμός της επίσκεψής του ήταν το κτίριο της Περιφέρειας ",
+            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/voreio_aigaio/sti-lesvo-o-aleksis-tsipras-irthame-na-akousoume-ta-provlimata-kai-na-diekdikisoume-lyseis/"
         },
         {
-            "title": "Οικονομικό Πανεπιστήμιο Κθνών: Πενήντα υποτροφίες για φοιτητές – Περιφέρεια.",
-            "summary": "Στη στη περίγη 50 συνολικά φοιτητών και φοιτητριών που προέρχονται από περιοχή 14 ναυτικά μίλια νότια της Γαύδου.",
-            "link": "https://www.ertnews.gr/roi-idiseon/oikonomiko-panepistimio-athinon-peninta-ypotrofies-gia-foitites-apo-tin-perifereia/"
+            "title": "Ουγγαρία: Ο Πέτερ Μαγιάρ προωθεί την αποπομπή του προέδρου Τάμας Σοτλιοκ",
+            "summary": "Το νίο ουγγρικό κοινοβούλιο αναμένεται να εγκρίνει τη Δευτέρα συνταγματική τροποποίηση, η οποία περιλαμβάνει διάταξη για τον τερματισμό της θητείας του νυν προέδρου της Ουγγαρίας, Τάμας Σοτλιοκ. Εάν ε",
+            "link": "https://www.ertnews.gr/eidiseis/diethni/ouggaria-o-peter-magiar-proothei-tin-apopompi-tou-proedrou-tamas-souliok/"
         }
     ],
     "sports": [
         {
-            "title": "Σαν Σήμερα: Ο Σουμάχερ ώππασε το πλδι του στο Στολβερστον (vid)",
-            "summary": "Ορισμένα γεγονότα της ιστορίας του μηχανοκίλητου αθλητισμού και της Formula 1, μέχρι σήμερα κάνουν κόυλουν κανο να παραμιλήει.",
-            "link": "https://www.gazzetta.gr/gmotion/2553484/117-san-simera-o-soymaher-espase-podi-toy-sto-silberston-vid"
+            "title": "Μουντιάλ 2026: Η απάντηση του Ιγκλέσιας στον πρώην πρωθυπουργό της Ισπανίας",
+            "summary": "Ο Μπόρχα Ιγκλέσιας απάντησε στις ρατσιστικές δηλώσεις του πρώην Ισπανού πρωθυτους του FIBA Europe Cup 2026-27.",
+            "link": "https://www.gazzetta.gr/football/mundial/2553932/moyntial-2026-i-apantisi-toy-igklesias-ston-proin-prothypoyrgo-tis"
+        },
+        {
+            "title": "Αγγελετάκης-Δακτυλίδης: «Η Μύκονος θα εκπροσωπήσει με υπερηφάνεια το νησί μας στην Ευρώπη»",
+            "summary": "Οι επικεφαλής της ΚΑΕ Μυκόνου, Αλέκος Αγγελετάκης και Νίκος Δακτυλίδης στάθηκαν στην πρώτη ευρωπαϊκή συμμετοχή της ομάδας στους ομίλους του FIBA Europe Cup 2026-27.",
+            "link": "https://www.gazzetta.gr/basketball/fiba-europe-cup/2553930/aggeletakis-daktylidis-i-mykonos-tha-ekprosopisei-me-yperifaneia"
         }
     ],
     "tv_program": [
@@ -116,34 +121,34 @@
         },
         {
             "time": "18:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
             "channel": "ΣΚΑΪ",
-            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
             "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
-            "channel": "ΣΚΑΪ",
-            "title": "19:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
+            "channel": "Alpha",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
+            "summary": "Κανάλι: Alpha",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "channel": "ANT1+",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "summary": "Κανάλι: ANT1+",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Κροατία",
+            "channel": "Mega",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πορτογαλία - Κροατία",
+            "summary": "Κανάλι: Mega",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
-            "channel": "ΣΚΑΪ",
-            "title": "21:00 | ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Σουηδία - Σπανία",
+            "channel": "Open",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Σουηδία - Σπανία",
+            "summary": "Κανάλι: Open",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
