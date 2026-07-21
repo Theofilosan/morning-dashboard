@@ -1,120 +1,113 @@
 {
     "weather": {
-        "temp": "21.2°C - Συννεφιά (Όχι βροχή)",
-        "condition": "Συννεφιά",
+        "temp": "18.0°C - Ηλιοφάνεια (Όχι βροχή)",
+        "condition": "Ηλιοφάνεια",
         "rain_alert": "Όχι βροχή",
-        "combined": "21.2°C - Συννεφιά (Όχι βροχή)"
+        "combined": "18.0°C - Ηλιοφάνεια (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "US launches new strikes as Iran says civilian infrastructure hit",
-            "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
-            "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+            "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+            "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+            "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-            "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-            "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
+            "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+            "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
+            "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "More than 500 Rohingya vanished at sea - what happened?",
-            "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
-            "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss"
+            "title": "Tate brothers appear in US court for extradition proceedings",
+            "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
+            "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
-            "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
-            "link": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss"
+            "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+            "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+            "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Philippines condemns monkey video on Chinese media as racist",
-            "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
-            "link": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss"
+            "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+            "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+            "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Google Vids now lets you star in your own AI videos",
-            "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp",
-            "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
+            "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+            "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+            "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
         },
         {
-            "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-            "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
-            "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/"
+            "title": "AI’s most important protocol is getting a little bit easier to use",
+            "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+            "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
         },
         {
-            "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-            "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
-            "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/"
+            "title": "Trump’s latest AI czar has already resigned",
+            "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+            "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
         },
         {
-            "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-            "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
-            "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/"
+            "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+            "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+            "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/"
         },
         {
-            "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-            "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
-            "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/"
+            "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+            "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+            "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
         }
     ],
     "denmark": [
         {
-            "title": "Danske Bank earned 6.2 billion kroner in the second quarter",
-            "summary": "Danske Bank has reported a significant profit in the second quarter, with earnings reaching 6.2 billion kroner.",
-            "link": "https://www.dr.dk/nyheder/seneste/danske-bank-tjente-6-2-milliarder-kroner-i-andet-kvartal"
+            "title": "Stephen Kinnock tipped as minister for Wales",
+            "summary": "Stephen Kinnock is reportedly being considered for a ministerial position in Wales. The news comes as the UK government continues to shape its new cabinet.",
+            "link": "https://www.dr.dk/nyheder/seneste/stephen-kinnock-udpeges-som-udenrigsminister-wales"
         },
         {
-            "title": "Young people dream of having more children than they have, study shows",
-            "summary": "A recent study has found that young people in Denmark are dreaming of having more children than they currently have, with many expressing a desire for larger families.",
-            "link": "https://www.dr.dk/nyheder/seneste/unge-droemmer-om-flere-boern-end-de-faar-viser-undersoegelse"
+            "title": "Two tourists stabbed near the Acropolis",
+            "summary": "Two tourists were stabbed near the famous Acropolis in Greece, leaving them with serious injuries. The incident has sparked concerns about safety in the area.",
+            "link": "https://www.dr.dk/nyheder/seneste/turister-ramt-af-knivstik-naer-akropolis"
         },
         {
-            "title": "Two people reported dead in Texas flooding",
-            "summary": "Two people have been reported dead in the recent flooding in Texas, with many more affected by the severe weather conditions.",
-            "link": "https://www.dr.dk/nyheder/seneste/foreloebigt-draebt-i-oversvoemmelser-i-texas"
+            "title": "Philippines claims Chinese coast guard attacked its personnel",
+            "summary": "The Philippines has accused the Chinese coast guard of attacking its personnel, leading to a diplomatic row between the two nations.",
+            "link": "https://www.dr.dk/nyheder/seneste/filippinerne-haevder-kinesisk-kystvagt-slog-flaadepersonale-i-hovedet"
         },
         {
-            "title": "Death toll nears 4,900 in Venezuela",
-            "summary": "The death toll in Venezuela has risen to near 4,900, with the country continuing to struggle with a severe humanitarian crisis.",
-            "link": "https://www.dr.dk/nyheder/seneste/doedstal-naermer-sig-4-900-mennesker-i-venezuela"
+            "title": "2,300 more people found work in May",
+            "summary": "The Danish labor market saw a significant boost in May, with 2,300 more people finding employment. This marks a positive trend in the country's job market.",
+            "link": "https://www.dr.dk/nyheder/seneste/i-maj-kom-2-300-flere-i-arbejde"
         },
         {
-            "title": "DSB to operate fewer regional trains on Zealand",
-            "summary": "DSB has announced plans to operate fewer regional trains on Zealand, citing a decrease in demand for the service.",
-            "link": "https://www.dr.dk/nyheder/seneste/dsb-koerer-med-faerre-regionaltog-paa-sjaelland"
+            "title": "New UK prime minister cuts tax on British electricity bills",
+            "summary": "The new UK prime minister has announced plans to reduce the tax on electricity bills for British households, aiming to alleviate the financial burden on citizens.",
+            "link": "https://www.dr.dk/nyheder/seneste/ny-premierminister-saenker-skatten-paa-briternes-elregning"
         }
     ],
     "greece": [
         {
-            "title": "Συνάντηση ΥΦΠΕΞ Γιάννη Λοβέρδου με τον Υπουργό Πολιτισμού του Ουζμπεκιστάν",
-            "summary": "Ο Υφυπουργός Εξωτερικών, Γιάνλης Λοβέρδος, είχε στις 15 Ιολίου εθιμοτυπική συνάντηση με τον Υπουργό Πολιτισμού του Ουζμπεκιστάν, Ozodbek Nazarbekov, στο πλαίσιο επίσκεψης του τελευταίου στην Κατας. Σ",
-            "link": "https://www.ertnews.gr/omogeneia/synantisi-yfypeks-gianni-loverdou-me-ton-ypourgo-politismou-tou-ouzmpekistan/"
+            "title": "Θεσσαλονίκη: Χωρίς τις αισθήσεις του ανασύρθηκώ λουόμενος στον Ποταμό Επανομής",
+            "summary": "Ένας 76χρονος ανασύρθηώγκώ χθες το απόγευμα χωρίς τις αισθήσεις του, από τη θαλάσσια περιοχή «Ποταμός» Επανομής Θεσσαλονίκης.",
+            "link": "https://www.ertnews.gr/ert3/thessaloniki-xoris-tis-aisthiseis-tou-anasyrthike-76xronos-louomenos-ston-potamo-epanomis/"
         },
         {
-            "title": "Κοροβέση στο ΕΡΤnews: Δεν θα συμμετείχα σε συγκυβέρνηση με τη ΝΔ – Οι συνεργασίες συζητούνται μετά τις εκλογές",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/politiki/korovesi-sto-ertnews-den-tha-symmeteixa-se-sygkyvernisi-me-ti-nd-oi-synergasies-syzitountai-meta-tis-ekloges/"
-        },
-        {
-            "title": "Βριλήσσια: Σκύλος επιτέθηώζκε σε πεζό και σότωσε το κατοικάδιό του – Συνελήφθη η ιδιοκτήτρια",
-            "link": "https://www.ertnews.gr/eidiseis/vrilissia-skylos-epitethike-se-pezo-kai-skotose-to-katoikidio-tou-synelifthi-i-idioktitria/"
-        },
-        {
-            "title": "Κίνηση τώρα: Στο «κόκλινο» ο Κηφισός – Χαμηλές ταχύτητες σε βασικούς άξονες της Κατας",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/kinisi-tora-sto-kokkino-o-kifisos-xamiles-taxytites-se-vasikous-aksones-tis-athinas/"
+            "title": "Ξαφνικό μπουρίνι σε Ασπροβάλτα, Βρασνά και Δράμα- Έπεσαν δέντρα και δρόμοι μετατράπηώγκαν σε ποτάμια",
+            "summary": "Ισχυρές καταιγίδες και θυλλώδεις άνεμοι προκάλεσαν σοβαρά προλήματα σχθ Βόρεια Ελλάδα με δέντρα να ξεριζώνονται, δρόμους να μετατρέπονται σε ποτάμια και την Πυροσβεστική να δέχεται δεκάδες κλήσεις.",
+            "link": "https://www.ertnews.gr/video/ksafniko-mpourini-se-asprovalta-vrasna-kai-drama-epesan-dentra-kai-dromoi-metatrapikan-se-potamia/"
         }
     ],
     "sports": [
         {
-            "title": "Ο Έντσο Φερνάντες έκανε μια ανάρτηση με τ«Wonderwall» των Oasis ως απάντηση προς τους Άγγλους, αλλά το κατέβασε άρον άρον.",
-            "summary": "Ο Έντσο Φερνάντες έκανε μια ανάρτηση με τ«Wonderwall» των Oasis ως απάντηση προς τους Άγγλους, αλλά το κατέβασε άρον άρον.",
-            "link": "https://www.gazzetta.gr/football/mundial/2554954/o-entso-fernantes-anebase-story-me-oasis-gia-na-trolarei-toys-aggloys-kai"
+            "title": "Σενγκέλια: «Πληρώνει τη ρήτρα του για να αποχωρήσει από την Μπαρτσελόνα»",
+            "summary": "Έτοιμος να γυρίσει στην καριέρα του εμφανίζεται ο Τόρνικε Σενγκέλια, με δηφμοσίευμα από τη Σερβία να αναφέρει πως ο Γεωργιανός φόργουορντ σκοπεύει να καταβάλει ο ίδιος τη ρήτρα αποδέσφυσής του ",
+            "link": "https://www.gazzetta.gr/basketball/euroleague/2555857/sengkelia-plironei-ti-ritra-toy-gia-na-apohorisei-apo-tin-mpartselona"
         },
         {
-            "title": "Χάποελ Τελ Αβτ Ανακοίνώσε τη λύση της υπεργασίας της με τ«Ουνεργασίας» της με τ«Ουνεργασίας» αλλά το κατέβασε αλλά το κατέβασε αλλά το κατέβασε.",
-            "summary": "Χάποελ Τελ Αβτ Ανακοίνώσε τη λύση της υπεργασίας της με τ«Ουνεργασίας» της με τ«Ουνεργασίας» αλλά το κατέβασε αλλά το κατέβασε αλλά το κατέβασε.",
-            "link": "https://www.gazzetta.gr/basketball/euroleague/2554953/hapoel-tel-abib-anakoinose-ti-lysi-tis-synergasias-tis-me-ton-motlei"
+            "title": "World Cup MVP powered by Interwetten: Ο Φεράν θα γιορτάζει κάθε με δημοσίευμα",
+            "summary": "Ο Φεράν Τόρες έδωσε στην Ισπανία το τρόταιο του Παγκοσφμίου Κυπέλλου και ήταν ο αδιαμφισβήτητος MVP του τελικού με την Αργεντινή.",
+            "link": "https://www.gazzetta.gr/football/mundial/2555717/world-cup-mvp-powered-interwetten-o-feran-tha-giortazei-kathe-mera"
         }
     ],
     "tv_program": [
@@ -128,34 +121,34 @@
         },
         {
             "time": "18:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
             "channel": "ΣΚΑΪ",
-            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
             "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
-            "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Μάλτα",
+            "time": "20:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
             "channel": "Alpha",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Μάλτα",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Γερμανία",
             "summary": "Κανάλι: Alpha",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
-            "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιρλανδία",
-            "channel": "Mega",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιρλανδία",
-            "summary": "Κανάλι: Mega",
+            "time": "22:00",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Σαν Αντόνιο Σπερς",
+            "channel": "ΣΚΑΪ",
+            "title": "22:00 | NBA: Λος Άντζελες Λέικερς - Σαν Αντόνιο Σπερς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
-            "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πολωνία - Σουηδία",
-            "channel": "Open",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Πολωνία - Σουηδία",
-            "summary": "Κανάλι: Open",
+            "time": "00:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ιταλία - Βέλγιο",
+            "channel": "ANT1+",
+            "title": "00:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ιταλία - Βέλγιο",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
