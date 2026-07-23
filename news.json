@@ -1,108 +1,117 @@
 {
     "weather": {
-        "temp": "15.7°C - Συννεφιά (Βροχή: 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)",
-        "condition": "Συννεφιά",
-        "rain_alert": "Βροχή: 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00",
-        "combined": "15.7°C - Συννεφιά (Βροχή: 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00)"
+        "temp": "18.0°C - Μερική συννεφιά (Βροχή: 10:00, 11:00, 12:00)",
+        "condition": "Μερική συννεφιά",
+        "rain_alert": "Βροχή: 10:00, 11:00, 12:00",
+        "combined": "18.0°C - Μερική συννεφιά (Βροχή: 10:00, 11:00, 12:00)"
     },
     "world": [
         {
-            "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-            "summary": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
-            "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+            "title": "US signs landmark nuclear deal with Saudi Arabia",
+            "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+            "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "France passes law banning under-15s from social media",
-            "summary": "The law will require social media platforms in France to verify all users age from January.",
-            "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss"
+            "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+            "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+            "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-            "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
-            "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss"
+            "title": "Tankers make sharp U-turns after Houthi shipping threat",
+            "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+            "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
-            "summary": "Logistics hubs belonging to Wildberries in Krasnodar and Stavropol were struck overnight on Tuesday.",
-            "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss"
+            "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+            "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+            "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-            "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-            "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+            "title": "Fire kills 10 members of same family in Peru, police say",
+            "summary": "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "These are the countries moving to ban social media for children",
-            "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex",
-            "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/"
+            "title": "Google justifies its massive AI spending with a booming cloud business",
+            "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+            "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
         },
         {
-            "title": "OpenAI says Hugging Face was breached by its pre-release models",
-            "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-            "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
+            "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+            "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+            "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
         },
         {
-            "title": "Meta is testing an AI bedtime story app for people with no imagination",
-            "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-            "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/"
+            "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+            "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
+            "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/"
         },
         {
-            "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
-            "summary": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
-            "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/"
+            "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+            "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+            "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
         },
         {
-            "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-            "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-            "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/"
+            "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+            "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+            "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
         }
     ],
     "denmark": [
         {
-            "title": "Death Toll Rises After Nightclub Fire in Bangkok",
-            "summary": "A devastating fire at a nightclub in Bangkok has resulted in a significant increase in the death toll.",
-            "link": "https://www.dr.dk/nyheder/seneste/doedstal-efter-vaertshusbrand-i-bangkok-stiger"
+            "title": "10,000 flee from wildfires in southern France",
+            "summary": "A massive wildfire in southern France has forced over 10,000 people to flee their homes. The fire has been raging for days, causing widespread destruction and displacement.",
+            "link": "https://www.dr.dk/nyheder/seneste/10-000-flygter-fra-naturbrande-i-sydfrankrig"
         },
         {
-            "title": "Ukraine Attacks 13 Russian Ships in Two Days",
-            "summary": "Ukraine has launched a series of attacks on 13 Russian ships over the past two days, escalating tensions in the region.",
-            "link": "https://www.dr.dk/nyheder/seneste/ukraine-har-angrebet-13-russiske-skibe-paa-doegn"
+            "title": "Oslo Municipality earns millions from football festival",
+            "summary": "Oslo Municipality has generated millions of kroner from a recent football festival, with the event attracting large crowds and boosting local economy.",
+            "link": "https://www.dr.dk/nyheder/seneste/oslo-kommune-har-tjent-millioner-paa-fodboldfest"
         },
         {
-            "title": "Rare Beetle and Fly Spotted on Falster",
-            "summary": "Experts have been searching for rare species in a forest on Falster for the past day and have made a significant discovery.",
-            "link": "https://www.dr.dk/nyheder/seneste/sjaelden-bille-og-flue-fundet-paa-falster"
+            "title": "Waste management company ceases operations in Horsens",
+            "summary": "A waste management company in Horsens has announced that it will cease its operations, citing financial difficulties and declining demand.",
+            "link": "https://www.dr.dk/nyheder/seneste/skraldemaend-nedlaegger-arbejdet-i-horsens"
         },
         {
-            "title": "Russia's Largest Online Marketplace Hit by New Attack",
-            "summary": "Russia's largest online marketplace has been hit by a new cyberattack, causing widespread disruption.",
-            "link": "https://www.dr.dk/nyheder/seneste/ruslands-stoerste-online-handelsplatform-melder-om-nyt-angreb"
+            "title": "Bornholm ferry suffers damage and leaks in its hull",
+            "summary": "A ferry serving the island of Bornholm has suffered significant damage and leaks in its hull, forcing it to be taken out of service for repairs.",
+            "link": "https://www.dr.dk/nyheder/seneste/bornholmsk-hurtigfaerge-rammer-pael-og-faar-revner-i-skroget"
         },
         {
-            "title": "New York Mayor Unable to Arrest Netanyahu",
-            "summary": "Despite efforts to arrest him, New York Mayor is unable to take action against Netanyahu due to legal restrictions.",
-            "link": "https://www.dr.dk/nyheder/seneste/new-yorks-borgmester-kan-alligevel-ikke-arrestere-netanyahu"
+            "title": "Education gap widens between non-Western immigrants and ethnic Danes",
+            "summary": "A recent study has found that the education gap between non-Western immigrants and ethnic Danes is widening, with the latter continuing to outperform the former in educational attainment.",
+            "link": "https://www.dr.dk/nyheder/seneste/uddannelsesgab-bliver-mindre-mellem-ikke-vestlige-efterkommere-og-etniske-danskere"
         }
     ],
     "greece": [
         {
-            "title": "Κορυφώνεται σήμερα το κύμα καυλινα – Έως 43 βαθμούς, ακρασούς κάληνος περκαγιάς καω ικτακτα μετρα ππσχασίας σε όλη τη χώρα",
-            "summary": "Στην κορύφωσή του βρίσκεται σήμερα το ισχυρό κύμα καυλινα που πλήττει τη χώρα, με τη θερμοκρασία να αναμένεται να φτάσει τοπικά ακόμη και τους 43 βαθμούς Κλσίου, σύμφωνα με τις προειδοποιήσεις της Ετ",
-            "link": "https://www.ertnews.gr/eidiseis/koryfonetai-simera-to-kyma-kaysona-eos-43-vathmoi-akraios-kindynos-pyrkagias-kai-ektakta-metra-prostasias-se-oli-ti-xora/"
+            "title": "Δύο λεκροί και πέντε τραυματίες από ουκρανικά πλήγματα σε Ρωσία και Κριμαία",
+            "summary": "Δυο άνθρωποι σκοτώθηκαν και άλλοι πέντε τραυματίστηκαν κατά τη διάρκεια τη νύχτας σε πλήγματα των ουκρανικών ενόπλων δυνάμεων στη Ρωσία και στην προσαρτημένη Κριμαία, κατά τις τοπικές αρχές. Στην περ",
+            "link": "https://www.ertnews.gr/roi-idiseon/dyo-nekroi-kai-pente-traymaties-apo-oukranika-pligmata-se-rosia-kai-krimaia/"
         },
         {
-            "title": "Χιλή: 13 νεκροί από τη σφοδρή καταιγίδα – Πάνω από 60.000 άνθρωποι αποκλεισμένοι",
-            "summary": "Σφοδρή καταιγίδα που έπληξε τη Χιλή από τη 15η Ιουλίου στοίχιστον 13 ανθρώπους, κατά νεότερο απολογισμό των αρχών της χώρας, όπου πΠάνω από 60.000 άνθρωποι αποκόπησαν από τον υπόλοι",
-            "link": "https://www.ertnews.gr/eidiseis/xili-13-nekroi-apo-ti-sfodri-kataigida-pano-apo-60-000-anthropoi-apokleismenoi/"
+            "title": "Συνάντηση εκπροσώπων της Πανηπειρωτικής Ομοσπονδίας Ευρώπης με τον Δήμαρχο Πρέβεζας",
+            "summary": "Συνάντηση με τον Δήμαρχο Πρέβεζας, Νίκο Γεργάκο, εάηχαν η Γενική Γραμλατέας της Πανηπειρωτικής Ομοσπονδίας Ευρώπης, Αικατερίνη Παπαδηυτρίου, και ο Ταμιλας της Ομοσπονδίας, Γεράσιμος Στητης. Στο επικεν",
+            "link": "https://www.ertnews.gr/omogeneia/synantisi-ekprosopon-tis-panipeirotikis-omospondias-eyropis-me-ton-dimarxo-prevezas/"
         }
     ],
     "sports": [
         {
-            "title": "Ολυμπιακός: Ώρα «ΜακΙντάι» για τους Πειραιώτες - Η ώρα άφιμής του",
-            "summary": "Ο Κόντι Μίλερ-ΜακΙντάιρ ετοιμάζεται να φορέσει και επίσημα τα «ερυθρόλευκα», καθώς το βράδυ της Τετάρτης (22/7) αναμένεται στην Καλληρώσει τα διαδικαστικά της μεταγραφής του στον Ολυμπια",
-            "link": "https://www.gazzetta.gr/basketball/euroleague/2556070/olympiakos-ora-makintair-gia-toys-peiraiotes-i-ora-afixis-toy"
+            "title": "Νικατε, 8 χρόνια μετά: «Για εμάς δεν ώηυν γπεράσει οιτε 8 λεπτά, καώκαμε στο δρόμο»",
+            "summary": "Η φωτιά στο Μάτι είναι μια από τις μεγαλύτερες τραγωδίες που έπληπαν ποτέ τη χώρα και η δεύτη πιο φονική πυρκαγιά του 21ου αιώνα παγκοσμίως.",
+            "link": "https://www.gazzetta.gr/plus/2556287/mati-8-hronia-meta-gia-emas-den-ehoyn-perasei-oyte-8-lepta-kaikame-sto-dromo"
+        },
+        {
+            "title": "Καλκαβούρας, Νίκος Παπαδογιάννης και Παναγιώτης Δαλαταριώφ από το στούντιο του Gazzetta βάζουν τέλος στην πρώησ του Gazz Floor με τους Hoopfellas, Βασιλη Βλαχόπουλο και Γιάννη Πάλλα να σ",
+            "link": "https://www.gazzetta.gr/basketball/2556288/gazz-floor-live-novibet-grand-finale-tis-protis-sezon"
+        },
+        {
+            "title": "Δημάτος: Τι πρέπει να κάνουν οι ομάδες μας στην Ελλάδα να ανέβει στο Top-10",
+            "summary": "Ο Ανδρέας Δηφμάτος αναλύει μέσω του επίσημου σάιτ της Superleague τα δεδομένα ώστε η Ελλάδα να ανέβει στο Top-10 της κατάταξης της UEFA.",
+            "link": "https://www.gazzetta.gr/football/champions-league/2556286/dimatos-ti-prepei-na-kanoyn-oi-omades-mas-stin-eyropi-gia-na"
         }
     ],
     "tv_program": [
@@ -116,34 +125,34 @@
         },
         {
             "time": "18:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
             "channel": "ΣΚΑΪ",
-            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
             "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Alpha",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Alpha",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
+            "channel": "ΕΤ1",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
+            "summary": "Κανάλι: ΕΤ1",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Mega",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Mega",
+            "event": "Πρέμιερ Λιγκ: Λίβερπουλ - Μάντσεστερ Γιουνάιτεντ",
+            "channel": "ΣΚΑΪ",
+            "title": "20:00 | Πρέμιερ Λιγκ: Λίβερπουλ - Μάντσεστερ Γιουνάιτεντ",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Open",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Open",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Γκόλντεν Στέιτ Ουόριορς",
+            "channel": "ANT1+",
+            "title": "21:00 | NBA: Λος Άντζελες Λέικερς - Γκόλντεν Στέιτ Ουόριορς",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
