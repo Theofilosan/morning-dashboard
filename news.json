@@ -1,113 +1,113 @@
 {
     "weather": {
-        "temp": "18.0°C - Μερική συννεφιά (Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 14:00, 15:00, 16:00, 17:00)",
-        "condition": "Μερική συννεφιά",
-        "rain_alert": "Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 14:00, 15:00, 16:00, 17:00",
-        "combined": "18.0°C - Μερική συννεφιά (Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 14:00, 15:00, 16:00, 17:00)"
+        "temp": "17.0°C - Ηλιοφάνεια (Όχι βροχή)",
+        "condition": "Ηλιοφάνεια",
+        "rain_alert": "Όχι βροχή",
+        "combined": "17.0°C - Ηλιοφάνεια (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-            "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
-            "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+            "title": "Trump says Iran war talks taking place during lull in strikes",
+            "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+            "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-            "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-            "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
+            "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+            "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+            "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "India's 'cockroach' protest called off after education minister quits",
-            "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-            "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
+            "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+            "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+            "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-            "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-            "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
+            "title": "China's new challenge as natural disasters strike - fake AI videos",
+            "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+            "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-            "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-            "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
+            "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+            "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+            "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-            "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-            "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+            "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+            "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+            "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
         },
         {
-            "title": "The hacker who humiliated spyware makers and was never caught",
-            "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
-            "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
+            "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+            "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+            "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/"
         },
         {
-            "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-            "summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
-            "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/"
+            "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+            "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+            "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/"
         },
         {
-            "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-            "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-            "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
+            "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+            "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+            "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
         },
         {
-            "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-            "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-            "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+            "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+            "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
         }
     ],
     "denmark": [
         {
-            "title": "23 missing after Vietnamese ship sank in the South China Sea",
-            "summary": "A Vietnamese ship sank in the South China Sea, leaving 23 people missing. The incident is currently under investigation.",
-            "link": "https://www.dr.dk/nyheder/seneste/23-savnet-efter-vietnamesisk-skib-forliste-i-det-sydkinesiske-hav"
+            "title": "Bro to 30 billion kroner is opened - connects USA and Canada",
+            "summary": "A 30 billion kroner bridge connecting the USA and Canada has been opened.",
+            "link": "https://www.dr.dk/nyheder/seneste/bro-til-30-milliarder-kroner-er-aabnet-forbinder-usa-og-canada"
         },
         {
-            "title": "Scouting camp in Hedeland closes today, causing massive traffic",
-            "summary": "The scouting camp in Hedeland is closing today, which is expected to cause significant traffic congestion in the area.",
-            "link": "https://www.dr.dk/nyheder/seneste/spejdernes-lejr-i-hedeland-lukker-i-dag-og-det-betyder-masser-af-trafik"
+            "title": "27-year-old band member charged with three murders is extradited to Denmark",
+            "summary": "A 27-year-old band member who is suspected of three murders has been extradited to Denmark.",
+            "link": "https://www.dr.dk/nyheder/seneste/27-aarigt-bandemedlem-sigtet-i-drabssager-er-udleveret-til-danmark"
         },
         {
-            "title": "Several arrested after incident at Pride event in Berlin",
-            "summary": "The Pride event in Berlin has been stopped, and police are urging people to leave the area.",
-            "link": "https://www.dr.dk/nyheder/seneste/stoerre-politiaktion-i-gang-ved-pride-arrangement-i-berlin"
+            "title": "Tornado in Wisconsin leaves large destruction and thousands without power",
+            "summary": "A tornado in Wisconsin has left large destruction and thousands of people without power.",
+            "link": "https://www.dr.dk/nyheder/seneste/tornado-i-wisconsin-efterlader-store-oedelaeggelser-og-tusindvis-uden-stroem"
         },
         {
-            "title": "Katy Perry angry over White House use of her song",
-            "summary": "Katy Perry has expressed her anger over the White House's use of her song without permission.",
-            "link": "https://www.dr.dk/nyheder/seneste/katy-perry-er-vred-over-det-hvide-hus-brug-af-sang"
+            "title": "Many vacant positions: Professional school is struggling with large over-enrollment",
+            "summary": "A professional school in Denmark is struggling with a large number of over-enrolled students, resulting in many vacant positions.",
+            "link": "https://www.dr.dk/nyheder/seneste/mange-ledige-pladser-professionshoejskole-haaber-paa-stort-efteroptag"
         },
         {
-            "title": "Kazakhstan's president suggests 'freezing' the war in Ukraine",
-            "summary": "Kazakhstan's president has proposed a plan to 'freeze' the war in Ukraine, but the details of the proposal are unclear.",
-            "link": "https://www.dr.dk/nyheder/seneste/kasakhstans-praesident-foreslaar-fastfryse-krigen-i-ukraine"
+            "title": "Mayor reports 390 drones heading towards Moscow tonight",
+            "summary": "The mayor has reported that 390 drones are heading towards Moscow tonight.",
+            "link": "https://www.dr.dk/nyheder/seneste/borgmester-melder-om-390-droner-med-kurs-mod-moskva-i-nat"
         }
     ],
     "greece": [
         {
-            "title": "Ζάκυνθος: Σε εξέλιη η επίσκεψη του Βασίλη Κικίλια – Συσκέψεις σε Λιμεναρχείο και Λιμενικό Ταμείο",
-            "summary": "Στη Ζακύνθο έφτασε ακτοπλοϊκώς πριν λίγη ώρα ο υπουργός Ναυτιλίας και Νησιωτικής Πολιτικής Βασίλης Κικίλιας, τον οποίο υποδέχτηκαν στο λιμάνι του νησιού, εκπρόσωποι των τοπικών αρχών.",
-            "link": "https://www.ertnews.gr/eidiseis/zakynthos-se-ekseliksi-i-episkepsi-tou-vasili-kikilia-syskepseis-se-limenarxeio-kai-limeniko-tameio/"
+            "title": "ΔΥΠΑ: Νέα και ετικαιροποιημένα προσαταυματα κατάρτισχη στα ΚΔΒΜ και στις Σχολές Καμεπ",
+            "summary": "Νέα και ανασχεδιασμένα προσαταυματα κατάρτισχη στα πλειοψηφία εγκρίθηώε από το Δηφμοτικώ συμβουλιο Βυλου ο νέος κανονισμός ύδρευσης της ΔΕΥΑΜΒ",
+            "link": "https://www.ertnews.gr/eidiseis/dypa-nea-kai-epikairopoiimena-programmata-katartisis-sta-kdvm-kai-stis-sxoles-amea/"
         },
         {
-            "title": "Θεσσαλονίκη: Δύο 19χρονοι πάω από την απόπειρα ανθρωποκτονίας 35χρονου",
-            "summary": "Στην εξιχνίαση της απόπειρας ανθρωποκτονίας σε βάρος 35χρονου στον Δενδροπόταμο Θεσσαλονίκης το απόγευμα της περασμένης Παρασκευής (24/7), προχώρησε η ΕΛ.ΑΣ. Συγκεκριμένα, μετά από επιστάμενη έρευνα α",
-            "link": "https://www.ertnews.gr/ert3/thessaloniki-dyo-19xronoi-piso-apo-tin-apopeira-anthropoktonias-35xronou/"
+            "title": "Εγκρίθηώε ο νέος κανονισμός ύδρευσης της ΔΕΥΑΜΒ – Αντιδράσεις για τις διακοπές νερού λόγω οφειλών",
+            "summary": "Κατά πλειοψηφία εγκρίθηώε από το Δηφμοτικώ συμβουλιο Βυλου ο νέος κανολισμός ύδρευσης της ΔΕΥΑΜΒ, με το άρθρο που προβλέπει διακοπή της υδροδότησης σε περίπτωση ληξιτεσμων οφειλών να βρίσκεται στο ε",
+            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/egkrithike-o-neos-kanonismos-ydreysis-tis-deyamv-antidraseis-gia-tis-diakopes-nerou-logo-ofeilon/"
         }
     ],
     "sports": [
         {
-            "title": "Νίκολιτς: Κάλυψε τα έξοδα για τα εντός έδρας ματρ της πρώην ομάδας του",
-            "summary": "Ο Μάρκο Νίκολιτς αποφάσησε να καλύψει το συνολικό κόυς για τη διεςγαγώγή των εντός έδρας αγώνων της Ραντ στη Μπάνιτσα",
-            "link": "https://www.gazzetta.gr/football/superleague/2556963/nikolits-kalypse-ta-exoda-gia-ta-entos-edras-mats-tis-proin-omadas-toy"
+            "title": "Βόλος: Ο Μπέος «τρολάρει» τους παωκτες της ομάδας σε ποδηλατάδα στην Ολλανδία (vid)",
+            "summary": "Η ομάδα του Βόλου βρίσκεται στην Ολλανδία για την καλοκαιρινή προετοιμασία και ο Αχιλλέας Μπέος έκανε ποδήλατο και «πείραξε» τους παωκτες.",
+            "link": "https://www.gazzetta.gr/football/superleague/2557379/bolos-o-mpeos-trolarei-toys-paiktes-tis-omadas-se-podilatada-stin"
         },
         {
-            "title": "Σίξερς: Ραγδαία αύξηση των τιμών στα εισιτήρια λόγω ΛεΜπρόν!",
-            "summary": "Η απόφαση του ΛεΜπρόν Τζέιμς να αγωνιστεί για τους Σίξερς, έφερε ραγδαία αύξηση στις τιμές των εισιτηρίων στο γήπεδο της Φιλαδέλφεια!",
-            "link": "https://www.gazzetta.gr/basketball/nba/2556962/sixers-ragdaia-ayxisi-ton-timon-eisitirion-logo-lempron"
+            "title": "Το θρίλερ του Γιοβάνοβιτς και η ζυγαριά του Βιεϊρίνια: Μαγικές ιστορίες από προετοιμασίες ομάδων",
+            "summary": "Οι πόζες της Σελένα Γκόμεζ ενθουσίασαν τον άντρα της, Μπένι Μπλάνκο, ο οποίος τη φλέρταρε μϭ σιναγρας η γυναι φωτιά».",
+            "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin"
         }
     ],
     "tv_program": [
@@ -129,26 +129,26 @@
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
             "channel": "Alpha",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
             "summary": "Κανάλι: Alpha",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Open",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Open",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
+            "channel": "Mega",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
+            "summary": "Κανάλι: Mega",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "OLTA",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: OLTA",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
+            "channel": "Open",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
+            "summary": "Κανάλι: Open",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
