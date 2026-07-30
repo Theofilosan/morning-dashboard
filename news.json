@@ -1,154 +1,159 @@
 {
     "weather": {
-        "temp": "17.0°C - Ηλιοφάνεια (Όχι βροχή)",
-        "condition": "Ηλιοφάνεια",
+        "temp": "23.4°C - Σχεδόν αίθριος (Όχι βροχή)",
+        "condition": "Σχεδόν αίθριος",
         "rain_alert": "Όχι βροχή",
-        "combined": "17.0°C - Ηλιοφάνεια (Όχι βροχή)"
+        "combined": "23.4°C - Σχεδόν αίθριος (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "Trump says Iran war talks taking place during lull in strikes",
-            "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-            "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
+            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+            "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+            "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-            "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-            "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
+            "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+            "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+            "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-            "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-            "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss"
+            "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+            "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+            "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "China's new challenge as natural disasters strike - fake AI videos",
-            "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-            "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss"
+            "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+            "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
+            "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-            "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-            "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss"
+            "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+            "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+            "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-            "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-            "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
+            "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+            "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+            "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
         },
         {
-            "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-            "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
-            "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/"
+            "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+            "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+            "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
         },
         {
-            "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
-            "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
-            "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/"
+            "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+            "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+            "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
         },
         {
-            "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-            "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-            "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+            "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+            "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
+            "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
         },
         {
-            "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-            "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-            "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
+            "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+            "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+            "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
         }
     ],
     "denmark": [
         {
-            "title": "Bro to 30 billion kroner is opened - connects USA and Canada",
-            "summary": "A 30 billion kroner bridge connecting the USA and Canada has been opened.",
-            "link": "https://www.dr.dk/nyheder/seneste/bro-til-30-milliarder-kroner-er-aabnet-forbinder-usa-og-canada"
+            "title": "Three Greek firefighters died in wildfires",
+            "summary": "A devastating wildfire in Greece has claimed the lives of three firefighters. The incident highlights the risks faced by emergency responders in the country.",
+            "link": "https://www.dr.dk/nyheder/seneste/tre-graeske-brandmaend-er-doede-i-naturbrande"
         },
         {
-            "title": "27-year-old band member charged with three murders is extradited to Denmark",
-            "summary": "A 27-year-old band member who is suspected of three murders has been extradited to Denmark.",
-            "link": "https://www.dr.dk/nyheder/seneste/27-aarigt-bandemedlem-sigtet-i-drabssager-er-udleveret-til-danmark"
+            "title": "Polish defense confirms unidentified flying object in its airspace",
+            "summary": "Poland's defense ministry has confirmed the presence of an unidentified flying object in the country's airspace, sparking concerns about national security.",
+            "link": "https://www.dr.dk/nyheder/seneste/polsk-forsvar-bekraefter-uidentificeret-flyvende-objekt-i-landets-luftrum"
         },
         {
-            "title": "Tornado in Wisconsin leaves large destruction and thousands without power",
-            "summary": "A tornado in Wisconsin has left large destruction and thousands of people without power.",
-            "link": "https://www.dr.dk/nyheder/seneste/tornado-i-wisconsin-efterlader-store-oedelaeggelser-og-tusindvis-uden-stroem"
+            "title": "Culture minister to review rules for state support for scouts",
+            "summary": "Denmark's culture minister has announced plans to review the rules governing state support for scouts, with a focus on ensuring fairness and transparency.",
+            "link": "https://www.dr.dk/nyheder/seneste/kulturminister-vil-undersoege-regler-statsstoette-til-spejdere"
         },
         {
-            "title": "Many vacant positions: Professional school is struggling with large over-enrollment",
-            "summary": "A professional school in Denmark is struggling with a large number of over-enrolled students, resulting in many vacant positions.",
-            "link": "https://www.dr.dk/nyheder/seneste/mange-ledige-pladser-professionshoejskole-haaber-paa-stort-efteroptag"
+            "title": "West Jutland's only circus closes after three years",
+            "summary": "West Jutland's only circus has announced its closure after three years of operation, citing financial difficulties and declining attendance.",
+            "link": "https://www.dr.dk/nyheder/seneste/vestjyllands-eneste-cirkus-lukker-efter-tre-aartier"
         },
         {
-            "title": "Mayor reports 390 drones heading towards Moscow tonight",
-            "summary": "The mayor has reported that 390 drones are heading towards Moscow tonight.",
-            "link": "https://www.dr.dk/nyheder/seneste/borgmester-melder-om-390-droner-med-kurs-mod-moskva-i-nat"
+            "title": "Death toll from Japan earthquake revised to 28",
+            "summary": "The death toll from a powerful earthquake that struck Japan has been revised upward to 28, with many more injured and displaced.",
+            "link": "https://www.dr.dk/nyheder/seneste/doedstal-efter-jordskaelv-i-japan-opjusteres-til-28"
         }
     ],
     "greece": [
         {
-            "title": "ΔΥΠΑ: Νέα και ετικαιροποιημένα προσαταυματα κατάρτισχη στα ΚΔΒΜ και στις Σχολές Καμεπ",
-            "summary": "Νέα και ανασχεδιασμένα προσαταυματα κατάρτισχη στα πλειοψηφία εγκρίθηώε από το Δηφμοτικώ συμβουλιο Βυλου ο νέος κανονισμός ύδρευσης της ΔΕΥΑΜΒ",
-            "link": "https://www.ertnews.gr/eidiseis/dypa-nea-kai-epikairopoiimena-programmata-katartisis-sta-kdvm-kai-stis-sxoles-amea/"
+            "title": "Θεσσαλονίώκη: Κυκλοφοριακάς περιφερειακή οτγε λγω εργασιών για το flyover- Ποωία τματά της κλείσουν",
+            "summary": "Το προσεχές Σάββατο (01/08) κατά τις ώρες 23:00 έως 05:00 της επομένης, θα εφαρμοστεί αποκλεισμός κυκλοφορίας στην Ανατολιώική Εσωτεριώιαώ Περιφερειαώιαώ Οδό, και στα δύο ρεύματα πορείας, στο ύψος του Ανισό",
+            "link": "https://www.ertnews.gr/ert3/thessaloniki-kykloforiakes-rythmiseis-stin-perifereiaki-odo-logo-ergasion-gia-to-flyover-poia-tmimata-tis-tha-kleisoun/"
         },
         {
-            "title": "Εγκρίθηώε ο νέος κανονισμός ύδρευσης της ΔΕΥΑΜΒ – Αντιδράσεις για τις διακοπές νερού λόγω οφειλών",
-            "summary": "Κατά πλειοψηφία εγκρίθηώε από το Δηφμοτικώ συμβουλιο Βυλου ο νέος κανολισμός ύδρευσης της ΔΕΥΑΜΒ, με το άρθρο που προβλέπει διακοπή της υδροδότησης σε περίπτωση ληξιτεσμων οφειλών να βρίσκεται στο ε",
-            "link": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/egkrithike-o-neos-kanonismos-ydreysis-tis-deyamv-antidraseis-gia-tis-diakopes-nerou-logo-ofeilon/"
+            "title": "Δήμαρχος Αγίου Βασιλείου στο ΕΡΤnews: «Δύσκολη η κατάσταση με ανέμους 12 μποφόρ – Ζητάμε ενίσχυση δυνάμεων»",
+            "summary": "Δύσκολη παραμένει η κατάσταση στον Δήμο Αγίου Βασιλείου Ρεθύμνου μετά τη μεγάλη πυρκαγιά, με τις πυροσβεστικάς δυνάμεις και τους εψελοντές να συνεχίζουν τη μάχη με τις αναζωπυρώσεις. Ο δήμαρχος Αγίου ",
+            "link": "https://www.ertnews.gr/eidiseis/dimarxos-agiou-vasileiou-sto-ertnews-dyskoli-i-katastasi-me-anemous-12-mpofor-zitame-enisxysi-dynameon/"
         }
     ],
     "sports": [
         {
-            "title": "Βόλος: Ο Μπέος «τρολάρει» τους παωκτες της ομάδας σε ποδηλατάδα στην Ολλανδία (vid)",
-            "summary": "Η ομάδα του Βόλου βρίσκεται στην Ολλανδία για την καλοκαιρινή προετοιμασία και ο Αχιλλέας Μπέος έκανε ποδήλατο και «πείραξε» τους παωκτες.",
-            "link": "https://www.gazzetta.gr/football/superleague/2557379/bolos-o-mpeos-trolarei-toys-paiktes-tis-omadas-se-podilatada-stin"
+            "title": "Ο «Δάσκαλος Λι» είναι η καλύτηρη σελίδα του ελληνικού Instagram (vid)",
+            "summary": "Επεισοδιακή υποδοχή επιφύλαπαν οι κάτοικοι της Λήμνου στον Άδωνι Γεωργιάδη.",
+            "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin"
         },
         {
-            "title": "Το θρίλερ του Γιοβάνοβιτς και η ζυγαριά του Βιεϊρίνια: Μαγικές ιστορίες από προετοιμασίες ομάδων",
-            "summary": "Οι πόζες της Σελένα Γκόμεζ ενθουσίασαν τον άντρα της, Μπένι Μπλάνκο, ο οποίος τη φλέρταρε μϭ σιναγρας η γυναι φωτιά».",
-            "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin"
+            "title": "Ο Μπεν Άφλεκ κάλδισε ένα εκατομμύριο στο «Ποιος Θέλει Να Γίνει Εκατομμυριούχος»",
+            "summary": "Ο βραβευμένος ηθοποιός απάντησε σωστά σψτην τελευταία ερώτηση και χάρισε το μεγάλο έπαθλο σψτη φιλανθρωπική οργάνωση που συνίδρυσε.",
+            "link": "https://www.gazzetta.gr/plus/2557874/o-mpen-aflek-kerdise-ena-ekatommyrio-sto-poios-thelei-na-ginei-ekatommyrioyhos"
+        },
+        {
+            "title": "Ρόδρι: Συμφώνησε με τη Ρεάλ και προχωρά το deal με τη Μάντσεστερ Σίτι",
+            "summary": "Ο Ρόδρι και η Ρεάλ Μαδρίτης έχουν έρθει σε κατ'αρχήν συμφωνία, με τις δύο πλευρές να δίνουν τα χέρια για συμβόλαιο μέχρι το 2027.",
+            "link": "https://www.gazzetta.gr/football/la-liga/2557873/rodri-symfonise-me-ti-real-kai-prohora-deal-me-ti-mantsester-siti"
         }
     ],
     "tv_program": [
         {
-            "time": "16:00",
+            "time": "10:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
-            "title": "16:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
+            "channel": "ΝΕΤ",
+            "title": "10:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ΝΕΤ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
-            "time": "18:00",
+            "time": "12:00",
             "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
             "channel": "ΣΚΑΪ",
-            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "title": "12:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
             "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
-            "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "channel": "Alpha",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "summary": "Κανάλι: Alpha",
+            "time": "14:00",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ΑΝΤ1+",
+            "title": "14:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ΑΝΤ1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
-            "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
-            "channel": "Mega",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
-            "summary": "Κανάλι: Mega",
+            "time": "16:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "ΝΕΤ",
+            "title": "16:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: ΝΕΤ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
-            "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
-            "channel": "Open",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
-            "summary": "Κανάλι: Open",
+            "time": "18:00",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ΣΚΑΪ",
+            "title": "18:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
