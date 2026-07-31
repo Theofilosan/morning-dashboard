@@ -1,159 +1,162 @@
 {
     "weather": {
-        "temp": "23.4°C - Σχεδόν αίθριος (Όχι βροχή)",
-        "condition": "Σχεδόν αίθριος",
-        "rain_alert": "Όχι βροχή",
-        "combined": "23.4°C - Σχεδόν αίθριος (Όχι βροχή)"
+        "temp": "19.3°C - Μερική συννεφιά (Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00)",
+        "condition": "Μερική συννεφιά",
+        "rain_alert": "Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00",
+        "combined": "19.3°C - Μερική συννεφιά (Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00)"
     },
     "world": [
         {
-            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-            "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-            "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+            "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+            "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+            "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-            "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-            "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
+            "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+            "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+            "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-            "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
-            "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
+            "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+            "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+            "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-            "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
-            "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss"
+            "title": "AC Milan and Italy great Baresi dies aged 66",
+            "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-            "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-            "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss"
+            "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+            "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+            "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-            "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-            "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+            "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+            "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+            "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/"
         },
         {
-            "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-            "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-            "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
+            "title": "Investors love AI, as long as you’re a cloud host",
+            "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+            "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
         },
         {
-            "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-            "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-            "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+            "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+            "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+            "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
         },
         {
-            "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-            "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
-            "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+            "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+            "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+            "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
         },
         {
-            "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-            "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-            "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
+            "title": "Investors love AI, as long as you’re a cloud host",
+            "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+            "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
         }
     ],
     "denmark": [
         {
-            "title": "Three Greek firefighters died in wildfires",
-            "summary": "A devastating wildfire in Greece has claimed the lives of three firefighters. The incident highlights the risks faced by emergency responders in the country.",
-            "link": "https://www.dr.dk/nyheder/seneste/tre-graeske-brandmaend-er-doede-i-naturbrande"
+            "title": "AI-agent 'hackede' sig ind i anden virksomhed - nu har endnu en chatbot gjort det",
+            "summary": "An AI agent has infiltrated another company, following a previous incident involving a chatbot.",
+            "link": "https://www.dr.dk/nyheder/seneste/ai-agent-hackede-sig-ind-i-anden-virksomhed-nu-har-endnu-en-chatbot-gjort-det"
         },
         {
-            "title": "Polish defense confirms unidentified flying object in its airspace",
-            "summary": "Poland's defense ministry has confirmed the presence of an unidentified flying object in the country's airspace, sparking concerns about national security.",
-            "link": "https://www.dr.dk/nyheder/seneste/polsk-forsvar-bekraefter-uidentificeret-flyvende-objekt-i-landets-luftrum"
+            "title": "34 meldes dræbt i kulmineeksplosion i Pakistan",
+            "summary": "Thirty-four people have been reported dead in a coal mine explosion in Pakistan.",
+            "link": "https://www.dr.dk/nyheder/seneste/34-meldes-draebt-i-kulmineeksplosion-i-pakistan"
         },
         {
-            "title": "Culture minister to review rules for state support for scouts",
-            "summary": "Denmark's culture minister has announced plans to review the rules governing state support for scouts, with a focus on ensuring fairness and transparency.",
-            "link": "https://www.dr.dk/nyheder/seneste/kulturminister-vil-undersoege-regler-statsstoette-til-spejdere"
+            "title": "Den danske regering følger situationen tæt i spansk eksklave efter tilstrømning af migranter",
+            "summary": "The Danish government is closely monitoring the situation in a Spanish enclave following an influx of migrants.",
+            "link": "https://www.dr.dk/nyheder/seneste/den-danske-regering-foelger-situationen-taet-i-spansk-eksklave-efter-tilstroemning-af-migranter"
         },
         {
-            "title": "West Jutland's only circus closes after three years",
-            "summary": "West Jutland's only circus has announced its closure after three years of operation, citing financial difficulties and declining attendance.",
-            "link": "https://www.dr.dk/nyheder/seneste/vestjyllands-eneste-cirkus-lukker-efter-tre-aartier"
+            "title": "Dødstallet efter jordskælv i Japan stiger til 34",
+            "summary": "The death toll from the earthquake in Japan has risen to 34.",
+            "link": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelv-i-japan-stiger-til-34"
         },
         {
-            "title": "Death toll from Japan earthquake revised to 28",
-            "summary": "The death toll from a powerful earthquake that struck Japan has been revised upward to 28, with many more injured and displaced.",
-            "link": "https://www.dr.dk/nyheder/seneste/doedstal-efter-jordskaelv-i-japan-opjusteres-til-28"
+            "title": "Pilot anholdt for at smugle MDMA ind i Indonesien - risikerer dødsstraf",
+            "summary": "A pilot has been arrested for smuggling MDMA into Indonesia, risking the death penalty.",
+            "link": "https://www.dr.dk/nyheder/seneste/pilot-anholdt-smugle-mdma-ind-i-indonesien-risikerer-doedsstraf"
         }
     ],
     "greece": [
         {
-            "title": "Θεσσαλονίώκη: Κυκλοφοριακάς περιφερειακή οτγε λγω εργασιών για το flyover- Ποωία τματά της κλείσουν",
-            "summary": "Το προσεχές Σάββατο (01/08) κατά τις ώρες 23:00 έως 05:00 της επομένης, θα εφαρμοστεί αποκλεισμός κυκλοφορίας στην Ανατολιώική Εσωτεριώιαώ Περιφερειαώιαώ Οδό, και στα δύο ρεύματα πορείας, στο ύψος του Ανισό",
-            "link": "https://www.ertnews.gr/ert3/thessaloniki-kykloforiakes-rythmiseis-stin-perifereiaki-odo-logo-ergasion-gia-to-flyover-poia-tmimata-tis-tha-kleisoun/"
+            "title": "Φυλακίς Κορυδαλλού: Κρατούμενοι έβαλαν φωτιά στα στρώματί τους",
+            "summary": "Συναγερμός σήμανε το πρωί της Παρασκευής στις φυλακίς Κορυδαλλού, μετά από φωτιά που εκδηλώθηκώ στο εσωτερικό του σωφρονιστικού καταστήματος. Η πυρκαγιά ξέσπασε στην πτέρυγα Γ’ και στο σημείο επιχειρο",
+            "link": "https://www.ertnews.gr/eidiseis/fylakes-korydallou-kratoumenoi-evalan-fotia-sta-stromata-tous/"
         },
         {
-            "title": "Δήμαρχος Αγίου Βασιλείου στο ΕΡΤnews: «Δύσκολη η κατάσταση με ανέμους 12 μποφόρ – Ζητάμε ενίσχυση δυνάμεων»",
-            "summary": "Δύσκολη παραμένει η κατάσταση στον Δήμο Αγίου Βασιλείου Ρεθύμνου μετά τη μεγάλη πυρκαγιά, με τις πυροσβεστικάς δυνάμεις και τους εψελοντές να συνεχίζουν τη μάχη με τις αναζωπυρώσεις. Ο δήμαρχος Αγίου ",
-            "link": "https://www.ertnews.gr/eidiseis/dimarxos-agiou-vasileiou-sto-ertnews-dyskoli-i-katastasi-me-anemous-12-mpofor-zitame-enisxysi-dynameon/"
+            "title": "Κόρινθος: Απολογούνται οι τρεις συλληφθέντες για τη φονική έκρηξη σε εργοστάσιο παραγωγής ξυδιού στα Εξαμίλια Κορινθίας, που στοσιχισε τη ζωή σε έυλαν 67χ",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/korinthos-apologountai-oi-treis-syllifthentes-gia-ti-foniki-ekriksi-se-ergostasio-sta-eksamilia/"
+        },
+        {
+            "title": "Κ. Τσιγκας στο ΕΡΤnews: «Οι περισσότες πυρκαγιές φαίνεται να ξυκάλησαν από αμέλεια» – Οκτώ συλλήψεις",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/k-tsigkas-sto-ertnews-oi-perissoteres-pyrkagies-fainetai-na-ksekinisan-apo-ameleia-okto-syllipseis/"
         }
     ],
     "sports": [
         {
-            "title": "Ο «Δάσκαλος Λι» είναι η καλύτηρη σελίδα του ελληνικού Instagram (vid)",
-            "summary": "Επεισοδιακή υποδοχή επιφύλαπαν οι κάτοικοι της Λήμνου στον Άδωνι Γεωργιάδη.",
-            "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin"
+            "title": "Με άκρως καλοκαιρινή διάθεση η Κλέλια Κανδιολάτου: Οι ηλιόλους ποζες στην παραλία",
+            "summary": "Η Κλέλια Ανδριολάτου ποφαρε με πορτοκαλί μαγιό στην παραλία και εντυπωσίασε για ακόμα μία φορά τους followers της στο Instagram.",
+            "link": "https://www.gazzetta.gr/2543496/reader-article-2"
         },
         {
-            "title": "Ο Μπεν Άφλεκ κάλδισε ένα εκατομμύριο στο «Ποιος Θέλει Να Γίνει Εκατομμυριούχος»",
-            "summary": "Ο βραβευμένος ηθοποιός απάντησε σωστά σψτην τελευταία ερώτηση και χάρισε το μεγάλο έπαθλο σψτη φιλανθρωπική οργάνωση που συνίδρυσε.",
-            "link": "https://www.gazzetta.gr/plus/2557874/o-mpen-aflek-kerdise-ena-ekatommyrio-sto-poios-thelei-na-ginei-ekatommyrioyhos"
+            "title": "Φωτιά στις φυλακές Κορυδαλλού: Κινητοποίηση από ΜΑΤ και Πυροσβεστική",
+            "summary": "Πυκνοί μαύροι καπνοί βγήκαν από το σωφρονιστικό κατάστημα, ενώ οι πρώτες πληροφορίες κάνουν λόγο για φωτιά σε στρώμασα μίσα σε κελιά.",
+            "link": "https://www.gazzetta.gr/plus/2558145/fotia-stis-fylakes-korydalloy-megali-kinitopoiisi-apo-mat-kai-pyrosbestiki"
         },
         {
-            "title": "Ρόδρι: Συμφώνησε με τη Ρεάλ και προχωρά το deal με τη Μάντσεστερ Σίτι",
-            "summary": "Ο Ρόδρι και η Ρεάλ Μαδρίτης έχουν έρθει σε κατ'αρχήν συμφωνία, με τις δύο πλευρές να δίνουν τα χέρια για συμβόλαιο μέχρι το 2027.",
-            "link": "https://www.gazzetta.gr/football/la-liga/2557873/rodri-symfonise-me-ti-real-kai-prohora-deal-me-ti-mantsester-siti"
+            "title": "Εθνική Νεανίδων: Πρεμιέρα κόντρα στη Μ. Βρετανία στο EuroBasket U18",
+            "summary": "Η Εθνική Νεανίδων ριχνεται στη μάχη του EuroBasket U18 Β' Κατηγορίας, όπου θα αντιμετωπίσει τη Ρουμανία.",
+            "link": "https://www.gazzetta.gr/basketball/eurobasket-gynaikon/2558144/ethniki-neanidon-premiera-kontra-sti-m-bretania-sto"
         }
     ],
     "tv_program": [
         {
-            "time": "10:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΝΕΤ",
-            "title": "10:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΝΕΤ",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "12:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "ΣΚΑΪ",
-            "title": "12:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: ΣΚΑΪ",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "14:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΑΝΤ1+",
-            "title": "14:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΑΝΤ1+",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
             "time": "16:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "ΝΕΤ",
-            "title": "16:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: ΝΕΤ",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ANT1+",
+            "title": "16:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "18:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΣΚΑΪ",
-            "title": "18:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 1",
+            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 1",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "19:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Σουηδία",
+            "channel": "Nova Sports 2",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Σουηδία",
+            "summary": "Κανάλι: Nova Sports 2",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "20:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Πορτογαλία",
+            "channel": "Nova Sports 1",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Πορτογαλία",
+            "summary": "Κανάλι: Nova Sports 1",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "21:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "channel": "Nova Sports 2",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "summary": "Κανάλι: Nova Sports 2",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
