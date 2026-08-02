@@ -1,121 +1,118 @@
 {
     "weather": {
-        "temp": "19.3°C - Μερική συννεφιά (Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00)",
-        "condition": "Μερική συννεφιά",
-        "rain_alert": "Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00",
-        "combined": "19.3°C - Μερική συννεφιά (Βροχή: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00)"
+        "temp": "17.8°C - Ηλιοφάνεια (Όχι βροχή)",
+        "condition": "Ηλιοφάνεια",
+        "rain_alert": "Όχι βροχή",
+        "combined": "17.8°C - Ηλιοφάνεια (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-            "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
-            "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss"
+            "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+            "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+            "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-            "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-            "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
+            "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+            "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+            "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-            "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-            "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss"
+            "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+            "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+            "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "AC Milan and Italy great Baresi dies aged 66",
-            "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss"
+            "title": "The Sopranos star Vincent Pastore dies aged 80",
+            "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+            "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-            "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-            "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+            "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-            "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
-            "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/"
+            "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+            "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+            "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
         },
         {
-            "title": "Investors love AI, as long as you’re a cloud host",
-            "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-            "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
+            "title": "Inside the London hacker house taking a stand against founder burnout",
+            "summary": "How one founder house is betting work-life balance can beat burnout .",
+            "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
         },
         {
-            "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-            "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-            "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
+            "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+            "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to ‘nudify’ images can move forward.",
+            "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
         },
         {
-            "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-            "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-            "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
+            "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+            "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+            "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
         },
         {
-            "title": "Investors love AI, as long as you’re a cloud host",
-            "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-            "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
+            "title": "Sam Altman is still making the case for parenting via ChatGPT",
+            "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+            "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
         }
     ],
     "denmark": [
         {
-            "title": "AI-agent 'hackede' sig ind i anden virksomhed - nu har endnu en chatbot gjort det",
-            "summary": "An AI agent has infiltrated another company, following a previous incident involving a chatbot.",
-            "link": "https://www.dr.dk/nyheder/seneste/ai-agent-hackede-sig-ind-i-anden-virksomhed-nu-har-endnu-en-chatbot-gjort-det"
+            "title": "Private sector fathers take longer parental leave",
+            "summary": "Private sector fathers in Denmark are taking longer parental leave, with some taking up to 12 months off work.",
+            "link": "https://www.dr.dk/nyheder/seneste/privatansatte-faedre-holder-laengere-barsel"
         },
         {
-            "title": "34 meldes dræbt i kulmineeksplosion i Pakistan",
-            "summary": "Thirty-four people have been reported dead in a coal mine explosion in Pakistan.",
-            "link": "https://www.dr.dk/nyheder/seneste/34-meldes-draebt-i-kulmineeksplosion-i-pakistan"
+            "title": "It's hard to find a school leader for Christiansø",
+            "summary": "The municipality of Christiansø is struggling to find a new school leader, with several candidates withdrawing from the process.",
+            "link": "https://www.dr.dk/nyheder/seneste/svaert-finde-skoleleder-til-christiansoe"
         },
         {
-            "title": "Den danske regering følger situationen tæt i spansk eksklave efter tilstrømning af migranter",
-            "summary": "The Danish government is closely monitoring the situation in a Spanish enclave following an influx of migrants.",
-            "link": "https://www.dr.dk/nyheder/seneste/den-danske-regering-foelger-situationen-taet-i-spansk-eksklave-efter-tilstroemning-af-migranter"
+            "title": "Delays in deliveries at Aarhus N for three weeks",
+            "summary": "There have been delays in deliveries at Aarhus N for the past three weeks, causing inconvenience for residents and businesses.",
+            "link": "https://www.dr.dk/nyheder/seneste/til-og-frakoersler-ved-aarhus-n-spaerres-i-tre-uger"
         },
         {
-            "title": "Dødstallet efter jordskælv i Japan stiger til 34",
-            "summary": "The death toll from the earthquake in Japan has risen to 34.",
-            "link": "https://www.dr.dk/nyheder/seneste/doedstallet-efter-jordskaelv-i-japan-stiger-til-34"
+            "title": "Stabbing in Skive city center",
+            "summary": "A stabbing incident occurred in the city center of Skive, leaving one person injured.",
+            "link": "https://www.dr.dk/nyheder/seneste/knivstik-i-skive-midtby"
         },
         {
-            "title": "Pilot anholdt for at smugle MDMA ind i Indonesien - risikerer dødsstraf",
-            "summary": "A pilot has been arrested for smuggling MDMA into Indonesia, risking the death penalty.",
-            "link": "https://www.dr.dk/nyheder/seneste/pilot-anholdt-smugle-mdma-ind-i-indonesien-risikerer-doedsstraf"
+            "title": "Sopranos star Vincent Pastore has passed away",
+            "summary": "Vincent Pastore, a well-known actor from the popular TV series Sopranos, has passed away at the age of 70.",
+            "link": "https://www.dr.dk/nyheder/seneste/sopranos-stjernen-vincent-pastore-er-doed"
         }
     ],
     "greece": [
         {
-            "title": "Φυλακίς Κορυδαλλού: Κρατούμενοι έβαλαν φωτιά στα στρώματί τους",
-            "summary": "Συναγερμός σήμανε το πρωί της Παρασκευής στις φυλακίς Κορυδαλλού, μετά από φωτιά που εκδηλώθηκώ στο εσωτερικό του σωφρονιστικού καταστήματος. Η πυρκαγιά ξέσπασε στην πτέρυγα Γ’ και στο σημείο επιχειρο",
-            "link": "https://www.ertnews.gr/eidiseis/fylakes-korydallou-kratoumenoi-evalan-fotia-sta-stromata-tous/"
+            "title": "Ρεκόρ ζέστης στη Νότια Κορέα με 42,5 βαθμούς Κελσίου – Έχει εκδοθεί προειδοποίηση για κατέλας",
+            "summary": "Η Νότια Κορέα κατέγραψε σήμερα την υψηλότη της θερμοκρασία από τότε που άρχισαν να συγκεντρώνονται τα σχετικά στοιχεία το 1904, καθώς ο υδράργυρος έφτασε τους 42,5 βαθμούς Κελσίου στην Γιανγκσάν στο",
+            "link": "https://www.ertnews.gr/eidiseis/diethni/rekor-zestis-sti-notia-korea-me-42-5-vathmous-kelsiou-exei-ekdothei-proeidopoiisi-gia-kaysona/"
         },
         {
-            "title": "Κόρινθος: Απολογούνται οι τρεις συλληφθέντες για τη φονική έκρηξη σε εργοστάσιο παραγωγής ξυδιού στα Εξαμίλια Κορινθίας, που στοσιχισε τη ζωή σε έυλαν 67χ",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/korinthos-apologountai-oi-treis-syllifthentes-gia-ti-foniki-ekriksi-se-ergostasio-sta-eksamilia/"
-        },
-        {
-            "title": "Κ. Τσιγκας στο ΕΡΤnews: «Οι περισσότες πυρκαγιές φαίνεται να ξυκάλησαν από αμέλεια» – Οκτώ συλλήψεις",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/k-tsigkas-sto-ertnews-oi-perissoteres-pyrkagies-fainetai-na-ksekinisan-apo-ameleia-okto-syllipseis/"
+            "title": "Μαρόκο: Ο αυτοκινητόδομος Τιζνίτ–Ντάχλα πήρε το όνομα του Ντόναλλδτ Τραμπ",
+            "summary": "Το όνομα του Αμερικανού προέδρου Ντόναλλδτ Τραμπ έδωσε το Μαρόκο στον οδικό άξονα που συνδέει τον νότο της χώρας με τη διαφιλονικούμενη Δυτική Σαχάρα, έπειτα από απόφαση του βασιλιά Μοχάμεντ ΣΤ΄. Η οδό",
+            "link": "https://www.ertnews.gr/eidiseis/diethni/maroko-o-aytokinitodromos-tiznit-ntaxla-pire-to-onoma-tou-ntonalnt-tramp/"
         }
     ],
     "sports": [
         {
-            "title": "Με άκρως καλοκαιρινή διάθεση η Κλέλια Κανδιολάτου: Οι ηλιόλους ποζες στην παραλία",
-            "summary": "Η Κλέλια Ανδριολάτου ποφαρε με πορτοκαλί μαγιό στην παραλία και εντυπωσίασε για ακόμα μία φορά τους followers της στο Instagram.",
-            "link": "https://www.gazzetta.gr/2543496/reader-article-2"
+            "title": "ΑΕΚ: Ο Φλιώνης ετοιμάζεται να ρίξει...",
+            "summary": "O Δημήτρης Φλιώνης και η ΑΕΚ έχουν φτάσει σε καδαρχήν συμφωνία και ο captain όπις όλα δεάχνουν θα υπογράψει νέο συμβόλαιο με την Ένωση.",
+            "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2558554/aek-o-flionis-etoimazetai-na-rixei-agkyra-sti-sunel"
         },
         {
-            "title": "Φωτιά στις φυλακές Κορυδαλλού: Κινητοποίηση από ΜΑΤ και Πυροσβεστική",
-            "summary": "Πυκνοί μαύροι καπνοί βγήκαν από το σωφρονιστικό κατάστημα, ενώ οι πρώτες πληροφορίες κάνουν λόγο για φωτιά σε στρώμασα μίσα σε κελιά.",
-            "link": "https://www.gazzetta.gr/plus/2558145/fotia-stis-fylakes-korydalloy-megali-kinitopoiisi-apo-mat-kai-pyrosbestiki"
+            "title": "Ατρόμητος - Ανόρθωση: Μετάδοση από το επίσημο κανάλι των Περιστεριωτών",
+            "summary": "Η σημερινή (2/8, 18:00) φιλική αναμέτρηση του Ατρομήτου με την Ανόρθωση θα μεταδοθεί απευθείας μέσω Live Streaming.",
+            "link": "https://www.gazzetta.gr/football/diethni-filika/2558553/atromitos-anorthosi-metadosi-apo-episimo-kanali-ton-peristerioton"
         },
         {
-            "title": "Εθνική Νεανίδων: Πρεμιέρα κόντρα στη Μ. Βρετανία στο EuroBasket U18",
-            "summary": "Η Εθνική Νεανίδων ριχνεται στη μάχη του EuroBasket U18 Β' Κατηγορίας, όπου θα αντιμετωπίσει τη Ρουμανία.",
-            "link": "https://www.gazzetta.gr/basketball/eurobasket-gynaikon/2558144/ethniki-neanidon-premiera-kontra-sti-m-bretania-sto"
+            "title": "WRC: Τρομακτιώκό ατύχημα για τον Οζιέ στο Ράλλυ Φινλανδίας (vid)",
+            "summary": "Ο Σεμπαστιάν Οζιέ και ο συνοδηγός του Ζουλιέν Ινγκρασιά μετάζίρθηκαν στο νοσοκομείο για προληπτικές εξετάσεις μετά από μια έξοδο που κόβει την ανάσα.",
+            "link": "https://www.gazzetta.gr/gmotion/2558552/wrc-tromaktiko-atyhima-gia-ton-ozie-sto-rally-finlandias-vid"
         }
     ],
     "tv_program": [
@@ -129,34 +126,34 @@
         },
         {
             "time": "18:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Nova Sports 1",
-            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Nova Sports 1",
+            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "channel": "ΣΚΑΪ",
+            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Σουηδία",
-            "channel": "Nova Sports 2",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Ισπανία - Σουηδία",
-            "summary": "Κανάλι: Nova Sports 2",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: 100μ. Δρόμος",
+            "channel": "ΕΤ1",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: 100μ. Δρόμος",
+            "summary": "Κανάλι: ΕΤ1",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Πορτογαλία",
-            "channel": "Nova Sports 1",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Πορτογαλία",
-            "summary": "Κανάλι: Nova Sports 1",
+            "event": "ΝΑΙΑ: Λίβερπουλ - Τότεναμ",
+            "channel": "ΣΚΑΪ",
+            "title": "20:00 | ΝΑΙΑ: Λίβερπουλ - Τότεναμ",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "channel": "Nova Sports 2",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "summary": "Κανάλι: Nova Sports 2",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Μήκος",
+            "channel": "ΕΤ1",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Μήκος",
+            "summary": "Κανάλι: ΕΤ1",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
