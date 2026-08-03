@@ -1,118 +1,121 @@
 {
     "weather": {
-        "temp": "17.8°C - Ηλιοφάνεια (Όχι βροχή)",
-        "condition": "Ηλιοφάνεια",
+        "temp": "19.9°C - Μερική συννεφιά (Όχι βροχή)",
+        "condition": "Μερική συννεφιά",
         "rain_alert": "Όχι βροχή",
-        "combined": "17.8°C - Ηλιοφάνεια (Όχι βροχή)"
+        "combined": "19.9°C - Μερική συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
-            "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-            "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+            "title": "US and Japan take action to prop up yen in rare joint move",
+            "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+            "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-            "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-            "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
+            "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+            "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+            "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-            "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-            "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
+            "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+            "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+            "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "The Sopranos star Vincent Pastore dies aged 80",
-            "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-            "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss"
+            "title": "Trump suggests new talks with Iran to begin on Monday",
+            "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+            "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-            "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
+            "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+            "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+            "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-            "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
-            "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
+            "title": "Sam Altman and AI’s decel debate",
+            "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+            "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
         },
         {
-            "title": "Inside the London hacker house taking a stand against founder burnout",
-            "summary": "How one founder house is betting work-life balance can beat burnout .",
-            "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
+            "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+            "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ",
+            "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
         },
         {
-            "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-            "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to ‘nudify’ images can move forward.",
-            "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+            "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+            "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+            "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/"
         },
         {
-            "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-            "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-            "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+            "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+            "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+            "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
         },
         {
-            "title": "Sam Altman is still making the case for parenting via ChatGPT",
-            "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-            "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+            "title": "The global memory shortage hits the MacBook Air",
+            "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+            "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
         }
     ],
     "denmark": [
         {
-            "title": "Private sector fathers take longer parental leave",
-            "summary": "Private sector fathers in Denmark are taking longer parental leave, with some taking up to 12 months off work.",
-            "link": "https://www.dr.dk/nyheder/seneste/privatansatte-faedre-holder-laengere-barsel"
+            "title": "Storms hit Cuba once again",
+            "summary": "Cuba has been hit by strong storms, causing damage and disruptions to daily life.",
+            "link": "https://www.dr.dk/nyheder/seneste/stroemmen-er-endnu-engang-gaaet-i-cuba"
         },
         {
-            "title": "It's hard to find a school leader for Christiansø",
-            "summary": "The municipality of Christiansø is struggling to find a new school leader, with several candidates withdrawing from the process.",
-            "link": "https://www.dr.dk/nyheder/seneste/svaert-finde-skoleleder-til-christiansoe"
+            "title": "Three civilians killed on the Crimean Peninsula, says Russian-installed governor",
+            "summary": "A Russian-installed governor has confirmed that three civilians have been killed on the Crimean Peninsula.",
+            "link": "https://www.dr.dk/nyheder/seneste/tre-civile-draebt-paa-krim-siger-russisk-indsat-guvernoer"
         },
         {
-            "title": "Delays in deliveries at Aarhus N for three weeks",
-            "summary": "There have been delays in deliveries at Aarhus N for the past three weeks, causing inconvenience for residents and businesses.",
-            "link": "https://www.dr.dk/nyheder/seneste/til-og-frakoersler-ved-aarhus-n-spaerres-i-tre-uger"
+            "title": "Bridge in North Jutland to close to traffic for three months",
+            "summary": "A bridge in North Jutland will be closed to traffic for three months due to maintenance work.",
+            "link": "https://www.dr.dk/nyheder/seneste/bro-i-nordsjaelland-lukker-biltrafik-i-tre-maaneder"
         },
         {
-            "title": "Stabbing in Skive city center",
-            "summary": "A stabbing incident occurred in the city center of Skive, leaving one person injured.",
-            "link": "https://www.dr.dk/nyheder/seneste/knivstik-i-skive-midtby"
+            "title": "Man dies in suspected drowning incident",
+            "summary": "A man has died in a suspected drowning incident, with the cause of death still under investigation.",
+            "link": "https://www.dr.dk/nyheder/seneste/mand-har-mistet-livet-i-formodet-drukneulykke"
         },
         {
-            "title": "Sopranos star Vincent Pastore has passed away",
-            "summary": "Vincent Pastore, a well-known actor from the popular TV series Sopranos, has passed away at the age of 70.",
-            "link": "https://www.dr.dk/nyheder/seneste/sopranos-stjernen-vincent-pastore-er-doed"
+            "title": "Earthquake with magnitude of 5.4 hits Egypt",
+            "summary": "An earthquake with a magnitude of 5.4 has struck Egypt, causing damage and disruptions.",
+            "link": "https://www.dr.dk/nyheder/seneste/jordskaelv-med-en-styrke-paa-5-4-rammer-egypten"
         }
     ],
     "greece": [
         {
-            "title": "Ρεκόρ ζέστης στη Νότια Κορέα με 42,5 βαθμούς Κελσίου – Έχει εκδοθεί προειδοποίηση για κατέλας",
-            "summary": "Η Νότια Κορέα κατέγραψε σήμερα την υψηλότη της θερμοκρασία από τότε που άρχισαν να συγκεντρώνονται τα σχετικά στοιχεία το 1904, καθώς ο υδράργυρος έφτασε τους 42,5 βαθμούς Κελσίου στην Γιανγκσάν στο",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/rekor-zestis-sti-notia-korea-me-42-5-vathmous-kelsiou-exei-ekdothei-proeidopoiisi-gia-kaysona/"
+            "title": "«Ο Μηχανικός της Γειτονιάς»: Σε εφαρμογή η νία υπηρεσία του Δήμος Αθηναίων για ταχεία αποκατάσχασχολεία προβλημάτων στα σχολεία",
+            "summary": "Δύο ειδικά διαμορφωμένα βανάκια άμεσης επέμβασης έχει θέσει σε λειτουςχολεία ο Δήτου Αθηναίων για την καψημερινή συντερηση των σχολεία μονάδων και των δητοκών κτιρίων. Πρόκειται για τη νέα υπηρεσία «Ο",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/o-mixanikos-tis-geitonias-se-efarmogi-i-nea-ypiresia-tou-dimou-athinaion-gia-taxeia-apokatastasi-provlimaton-sta-sxoleia/"
         },
         {
-            "title": "Μαρόκο: Ο αυτοκινητόδομος Τιζνίτ–Ντάχλα πήρε το όνομα του Ντόναλλδτ Τραμπ",
-            "summary": "Το όνομα του Αμερικανού προέδρου Ντόναλλδτ Τραμπ έδωσε το Μαρόκο στον οδικό άξονα που συνδέει τον νότο της χώρας με τη διαφιλονικούμενη Δυτική Σαχάρα, έπειτα από απόφαση του βασιλιά Μοχάμεντ ΣΤ΄. Η οδό",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/maroko-o-aytokinitodromos-tiznit-ntaxla-pire-to-onoma-tou-ntonalnt-tramp/"
+            "title": "«ΣΤΟΥΝΤΙΟ 4» με τον Χρήστο Φερεντίνο και την Κατερίνα Καραβάτου να αναλαμβάνουν την παρουσίαση της καψημερινή συντερηση των σχολεία μονάδων και των δητοκών κτιρίων. Πρόκειται για τη νέα υπηρεσία «Ο",
+            "link": "https://www.ertnews.gr/eidiseis/stountio-4-me-ton-xristo-ferentino-kai-tin-katerina-karavatou-ton-septemvrio-stin-ert1/"
         }
     ],
     "sports": [
         {
-            "title": "ΑΕΚ: Ο Φλιώνης ετοιμάζεται να ρίξει...",
-            "summary": "O Δημήτρης Φλιώνης και η ΑΕΚ έχουν φτάσει σε καδαρχήν συμφωνία και ο captain όπις όλα δεάχνουν θα υπογράψει νέο συμβόλαιο με την Ένωση.",
-            "link": "https://www.gazzetta.gr/basketball/basketball-champions-league/2558554/aek-o-flionis-etoimazetai-na-rixei-agkyra-sti-sunel"
+            "title": "Ο φλλενι κε ο τρώμος των Χανίων: Μετέφερε ολόκληρο πλυντήριο πάνω σε μηχανή (vid)",
+            "summary": "Οδηγός στα Χανιά το... τερμάτισε και μετέφερε πλυντήριο ρούχων πάνω στη μηχανή του.",
+            "link": "https://www.gazzetta.gr/plus/2558730/o-fobos-ki-o-tromos-ton-hanion-metefere-olokliro-plyntirio-pano-se-mihani-vid"
         },
         {
-            "title": "Ατρόμητος - Ανόρθωση: Μετάδοση από το επίσημο κανάλι των Περιστεριωτών",
-            "summary": "Η σημερινή (2/8, 18:00) φιλική αναμέτρηση του Ατρομήτου με την Ανόρθωση θα μεταδοθεί απευθείας μέσω Live Streaming.",
-            "link": "https://www.gazzetta.gr/football/diethni-filika/2558553/atromitos-anorthosi-metadosi-apo-episimo-kanali-ton-peristerioton"
+            "title": "Θεοί διασκευάσαν System of a Down με μπουζούκι και τζουρά",
+            "summary": "Για την υπόθεση συνελήφθη ένας 26χρονος, ο οποίος ομολόγησε την πράξη του.",
+            "link": "https://www.gazzetta.gr/2543496/reader-article-2"
         },
         {
-            "title": "WRC: Τρομακτιώκό ατύχημα για τον Οζιέ στο Ράλλυ Φινλανδίας (vid)",
-            "summary": "Ο Σεμπαστιάν Οζιέ και ο συνοδηγός του Ζουλιέν Ινγκρασιά μετάζίρθηκαν στο νοσοκομείο για προληπτικές εξετάσεις μετά από μια έξοδο που κόβει την ανάσα.",
-            "link": "https://www.gazzetta.gr/gmotion/2558552/wrc-tromaktiko-atyhima-gia-ton-ozie-sto-rally-finlandias-vid"
+            "title": "Ο φλλενι κε ο τρώμος των Χανίων: Μετέφερε ολόκληρο πλυντήριο πάνω σε μηχανή (vid)",
+            "summary": "Οδηγός στα Χανιά το... τερμάτισε και μετέφερε πλυντήριο ρούχων πάνω στη μηχανή του.",
+            "link": "https://www.gazzetta.gr/plus/2558730/o-fobos-ki-o-tromos-ton-hanion-metefere-olokliro-plyntirio-pano-se-mihani-vid"
+        },
+        {
+            "title": "Καρφιά Νέντοβιτς στον Ερυθρό Αστέρα: «Αξίζω πολύ περισσότερο σεβασμό, δεν υπάρχει πιθανόςτητα να επιστρέψω»",
+            "link": "https://www.gazzetta.gr/basketball/euroleague/2558733/karfia-nentobists-ston-erythro-astera-axizo-poly-perissotero-sebasmo"
         }
     ],
     "tv_program": [
@@ -127,33 +130,33 @@
         {
             "time": "18:00",
             "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
-            "channel": "ΣΚΑΪ",
+            "channel": "OLTA",
             "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "summary": "Κανάλι: OLTA",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: 100μ. Δρόμος",
-            "channel": "ΕΤ1",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: 100μ. Δρόμος",
-            "summary": "Κανάλι: ΕΤ1",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
+            "channel": "ERT1",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
+            "summary": "Κανάλι: ERT1",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "ΝΑΙΑ: Λίβερπουλ - Τότεναμ",
-            "channel": "ΣΚΑΪ",
-            "title": "20:00 | ΝΑΙΑ: Λίβερπουλ - Τότεναμ",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "event": "Σούπερ Λίγκα: ΑΕΚ - ΟΦΗ",
+            "channel": "OLTA",
+            "title": "20:00 | Σούπερ Λίγκα: ΑΕΚ - ΟΦΗ",
+            "summary": "Κανάλι: OLTA",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Μήκος",
-            "channel": "ΕΤ1",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Μήκος",
-            "summary": "Κανάλι: ΕΤ1",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Σαν Αντόνιο Σπερς",
+            "channel": "ANT1+",
+            "title": "21:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Σαν Αντόνιο Σπερς",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
