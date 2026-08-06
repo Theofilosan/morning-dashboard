@@ -1,124 +1,137 @@
 {
     "weather": {
-        "temp": "19.9°C - Μερική συννεφιά (Όχι βροχή)",
+        "temp": "21.1°C - Μερική συννεφιά (Όχι βροχή)",
         "condition": "Μερική συννεφιά",
         "rain_alert": "Όχι βροχή",
-        "combined": "19.9°C - Μερική συννεφιά (Όχι βροχή)"
+        "combined": "21.1°C - Μερική συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "US and Japan take action to prop up yen in rare joint move",
-            "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-            "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss"
+            "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
+            "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
+            "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-            "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-            "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
+            "title": "Outrage as Ugandan football captain murdered in street gang attack",
+            "summary": "The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-            "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-            "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
+            "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+            "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+            "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Trump suggests new talks with Iran to begin on Monday",
-            "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-            "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+            "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-            "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-            "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
+            "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+            "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+            "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Sam Altman and AI’s decel debate",
-            "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-            "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+            "title": "Meta launches Muse Code, an AI agent for large code bases",
+            "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+            "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
         },
         {
-            "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-            "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ",
-            "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
+            "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+            "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+            "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/"
         },
         {
-            "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-            "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-            "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/"
+            "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+            "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+            "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/"
         },
         {
-            "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-            "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
-            "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
+            "title": "Nikita Bier steps down as X’s head of product",
+            "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+            "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/"
         },
         {
-            "title": "The global memory shortage hits the MacBook Air",
-            "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-            "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
+            "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+            "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+            "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"
         }
     ],
     "denmark": [
         {
-            "title": "Storms hit Cuba once again",
-            "summary": "Cuba has been hit by strong storms, causing damage and disruptions to daily life.",
-            "link": "https://www.dr.dk/nyheder/seneste/stroemmen-er-endnu-engang-gaaet-i-cuba"
+            "title": "Russian Attack Hits Cargo Ship in the Baltic Sea",
+            "summary": "A Russian attack has targeted a cargo ship in the Baltic Sea, causing significant damage and disruption to global trade.",
+            "link": "https://www.dr.dk/nyheder/seneste/russisk-angreb-rammer-fragtskib-i-sortehavet"
         },
         {
-            "title": "Three civilians killed on the Crimean Peninsula, says Russian-installed governor",
-            "summary": "A Russian-installed governor has confirmed that three civilians have been killed on the Crimean Peninsula.",
-            "link": "https://www.dr.dk/nyheder/seneste/tre-civile-draebt-paa-krim-siger-russisk-indsat-guvernoer"
+            "title": "Mathias Gidsel Swims Across the Little Belt Today",
+            "summary": "Mathias Gidsel, a Danish athlete, has successfully swum across the Little Belt, a significant achievement in the world of long-distance swimming.",
+            "link": "https://www.dr.dk/nyheder/seneste/mathias-gidsel-svoemmer-over-lillebaelt-i-dag"
         },
         {
-            "title": "Bridge in North Jutland to close to traffic for three months",
-            "summary": "A bridge in North Jutland will be closed to traffic for three months due to maintenance work.",
-            "link": "https://www.dr.dk/nyheder/seneste/bro-i-nordsjaelland-lukker-biltrafik-i-tre-maaneder"
+            "title": "Festival in Gladsaxe: The Capital's Light Rail Opens on August 22nd",
+            "summary": "The city of Gladsaxe in Denmark is set to host a major festival, coinciding with the opening of the capital's new light rail system.",
+            "link": "https://www.dr.dk/nyheder/seneste/folkefest-i-gladsaxe-hovedstadens-letbane-aabner-d-22-august"
         },
         {
-            "title": "Man dies in suspected drowning incident",
-            "summary": "A man has died in a suspected drowning incident, with the cause of death still under investigation.",
-            "link": "https://www.dr.dk/nyheder/seneste/mand-har-mistet-livet-i-formodet-drukneulykke"
+            "title": "US Approves Influenza Vaccine with Coronavirus Technology",
+            "summary": "The US has given the green light to a new influenza vaccine that utilizes coronavirus technology, a significant breakthrough in the fight against infectious diseases.",
+            "link": "https://www.dr.dk/nyheder/seneste/usa-godkender-influenzavaccine-med-coronateknologi"
         },
         {
-            "title": "Earthquake with magnitude of 5.4 hits Egypt",
-            "summary": "An earthquake with a magnitude of 5.4 has struck Egypt, causing damage and disruptions.",
-            "link": "https://www.dr.dk/nyheder/seneste/jordskaelv-med-en-styrke-paa-5-4-rammer-egypten"
+            "title": "From Today, First Insiders in SpaceX Can Sell Their Shares",
+            "summary": "The first insiders in SpaceX are now able to sell their shares, marking a significant milestone in the company's history and potentially leading to a windfall for early investors.",
+            "link": "https://www.dr.dk/nyheder/seneste/fra-i-dag-kan-de-foerste-insidere-i-spacex-saelge-deres-aktier"
         }
     ],
     "greece": [
         {
-            "title": "«Ο Μηχανικός της Γειτονιάς»: Σε εφαρμογή η νία υπηρεσία του Δήμος Αθηναίων για ταχεία αποκατάσχασχολεία προβλημάτων στα σχολεία",
-            "summary": "Δύο ειδικά διαμορφωμένα βανάκια άμεσης επέμβασης έχει θέσει σε λειτουςχολεία ο Δήτου Αθηναίων για την καψημερινή συντερηση των σχολεία μονάδων και των δητοκών κτιρίων. Πρόκειται για τη νέα υπηρεσία «Ο",
-            "link": "https://www.ertnews.gr/eidiseis/ellada/o-mixanikos-tis-geitonias-se-efarmogi-i-nea-ypiresia-tou-dimou-athinaion-gia-taxeia-apokatastasi-provlimaton-sta-sxoleia/"
+            "title": "Θεσσαλονίκη: Έκρυβε στο πλυντήριο 910 γραμμάρια ηρωινης- Μια σύλληψη",
+            "summary": "Από αστυνομικούς του Τμήματος Δάιξης Ναρκωτικώλον της Υποδιεύθυνσης Οργανωμένου Εγκλήματος Βορείου Ελλάδος, συνελήφθη χπες (5/8) το μεσημέρι μια 46χρονη, σε περιοχή της Θεσσαλονίκης, η οπο",
+            "link": "https://www.ertnews.gr/ert3/thessaloniki-ekryve-sto-plyntirio-910-grammaria-iroinis-mia-syllipsi/"
         },
         {
-            "title": "«ΣΤΟΥΝΤΙΟ 4» με τον Χρήστο Φερεντίνο και την Κατερίνα Καραβάτου να αναλαμβάνουν την παρουσίαση της καψημερινή συντερηση των σχολεία μονάδων και των δητοκών κτιρίων. Πρόκειται για τη νέα υπηρεσία «Ο",
-            "link": "https://www.ertnews.gr/eidiseis/stountio-4-me-ton-xristo-ferentino-kai-tin-katerina-karavatou-ton-septemvrio-stin-ert1/"
+            "title": "Δένδιας για τα ώι χρόνια από την υπογραφή της Συμφωνίας Οριοθέτησης ΑΟΖ με την Αίυπτο",
+            "summary": "«Έξι χρόνια από την υπογραφή της Συμφωνίας Οριοθέτησης ΑΟΖ με την Αίυπτο, την οποία εάχα την τιμή να υπογράψω ως Υπουργός Εξωτερικών, με τον τότε ομόλογό μου Σάμεχ Σούκρι",
+            "link": "https://www.ertnews.gr/eidiseis/dendias-gia-ta-eksi-xronia-apo-tin-ypografi-tis-symfonias-oriothetisis-aoz-me-tin-aigypto-katoxyrosame-to-ethniko-symferon/"
         }
     ],
     "sports": [
         {
-            "title": "Ο φλλενι κε ο τρώμος των Χανίων: Μετέφερε ολόκληρο πλυντήριο πάνω σε μηχανή (vid)",
-            "summary": "Οδηγός στα Χανιά το... τερμάτισε και μετέφερε πλυντήριο ρούχων πάνω στη μηχανή του.",
-            "link": "https://www.gazzetta.gr/plus/2558730/o-fobos-ki-o-tromos-ton-hanion-metefere-olokliro-plyntirio-pano-se-mihani-vid"
+            "title": "Μανού Γκαρθία: Πόσο πιθανό είναι το σενάριο επιστροφής του στον Άρη;",
+            "summary": "Ο Μανού Γκαρθία παραμένει ο μεσαλύτερος μεταγραφιός στόχος του Άρη αλλά οι ετήσιες απολαβές του Ισπανού στην Κάνσας Σίτι ανέρχονται στα 2.42 εκατ.",
+            "link": "https://www.gazzetta.gr/football/superleague/2559418/manoy-gkarthia-poso-pithano-einai-senario-epistrofis-toy-ston-ari"
         },
         {
-            "title": "Θεοί διασκευάσαν System of a Down με μπουζούκι και τζουρά",
-            "summary": "Για την υπόθεση συνελήφθη ένας 26χρονος, ο οποίος ομολόγησε την πράξη του.",
-            "link": "https://www.gazzetta.gr/2543496/reader-article-2"
+            "title": "Δύο σημεία στιλης που μπορεί να αποτελούν ένδειμη ότι ένα κείμενο είναι γραμμένο από AI",
+            "summary": "Μαφιόζος, αρχηης του καρτέλ Χαλίσκο, φέρεται να είναι ο δολοφόνος της 23χρονης infuencer που δολοφονήθηκε σε live μετάδοση.",
+            "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin"
         },
         {
-            "title": "Ο φλλενι κε ο τρώμος των Χανίων: Μετέφερε ολόκληρο πλυντήριο πάνω σε μηχανή (vid)",
-            "summary": "Οδηγός στα Χανιά το... τερμάτισε και μετέφερε πλυντήριο ρούχων πάνω στη μηχανή του.",
-            "link": "https://www.gazzetta.gr/plus/2558730/o-fobos-ki-o-tromos-ton-hanion-metefere-olokliro-plyntirio-pano-se-mihani-vid"
-        },
-        {
-            "title": "Καρφιά Νέντοβιτς στον Ερυθρό Αστέρα: «Αξίζω πολύ περισσότερο σεβασμό, δεν υπάρχει πιθανόςτητα να επιστρέψω»",
-            "link": "https://www.gazzetta.gr/basketball/euroleague/2558733/karfia-nentobists-ston-erythro-astera-axizo-poly-perissotero-sebasmo"
+            "title": "ΜακΙντάιρ: Ευχήθηκε χρόνια πολλά στον Βεζένκοβ",
+            "summary": "Ο Κόντι Μίλερ-ΜακΙντάιρ ευχήθηκε στον Σάσα Βεζένκοβ, με αφορμή τα γενέθλιά του.",
+            "link": "https://www.gazzetta.gr/basketball/euroleague/2559416/makintair-eyhithike-hronia-polla-ston-bezenkob"
         }
     ],
     "tv_program": [
+        {
+            "time": "12:00",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "channel": "ANT1+",
+            "title": "12:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
+            "summary": "Κανάλι: ANT1+",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "14:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 1",
+            "title": "14:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 1",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
         {
             "time": "16:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
@@ -129,33 +142,17 @@
         },
         {
             "time": "18:00",
-            "event": "ΝBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
-            "channel": "OLTA",
-            "title": "18:00 | NBA: Νιου Γιόρκ Νικς - Μπόστον Σέλτικς",
-            "summary": "Κανάλι: OLTA",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
-            "channel": "ERT1",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Στίβου: Τελικοί",
-            "summary": "Κανάλι: ERT1",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 1",
+            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 1",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Σούπερ Λίγκα: ΑΕΚ - ΟΦΗ",
-            "channel": "OLTA",
-            "title": "20:00 | Σούπερ Λίγκα: ΑΕΚ - ΟΦΗ",
-            "summary": "Κανάλι: OLTA",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "21:00",
-            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Σαν Αντόνιο Σπερς",
+            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
             "channel": "ANT1+",
-            "title": "21:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Σαν Αντόνιο Σπερς",
+            "title": "20:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
             "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         }
