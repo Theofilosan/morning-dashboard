@@ -1,137 +1,121 @@
 {
     "weather": {
-        "temp": "21.1°C - Μερική συννεφιά (Όχι βροχή)",
+        "temp": "16.1°C - Μερική συννεφιά (Όχι βροχή)",
         "condition": "Μερική συννεφιά",
         "rain_alert": "Όχι βροχή",
-        "combined": "21.1°C - Μερική συννεφιά (Όχι βροχή)"
+        "combined": "16.1°C - Μερική συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
-            "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
-            "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss"
+            "title": "Meta fined $567m in largest child safety ruling against social media giant",
+            "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Outrage as Ugandan football captain murdered in street gang attack",
-            "summary": "The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.",
-            "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss"
+            "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+            "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+            "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-            "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-            "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+            "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+            "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Infantino sorry for errors but stays Fifa president",
-            "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
-            "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+            "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+            "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+            "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-            "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
-            "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss"
+            "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+            "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+            "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Meta launches Muse Code, an AI agent for large code bases",
-            "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-            "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+            "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+            "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
+            "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/"
         },
         {
-            "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-            "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
-            "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/"
-        },
-        {
-            "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-            "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
-            "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/"
-        },
-        {
-            "title": "Nikita Bier steps down as X’s head of product",
-            "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
-            "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/"
-        },
-        {
-            "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+            "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
             "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-            "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"
+            "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"
+        },
+        {
+            "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+            "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Fr",
+            "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/"
+        },
+        {
+            "title": "Vogue just gave another nod of approval to the tech world",
+            "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
+            "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/"
+        },
+        {
+            "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+            "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+            "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
         }
     ],
     "denmark": [
         {
-            "title": "Russian Attack Hits Cargo Ship in the Baltic Sea",
-            "summary": "A Russian attack has targeted a cargo ship in the Baltic Sea, causing significant damage and disruption to global trade.",
-            "link": "https://www.dr.dk/nyheder/seneste/russisk-angreb-rammer-fragtskib-i-sortehavet"
+            "title": "Mosque in North Jutland exposed to harassment",
+            "summary": "A mosque in North Jutland has been exposed to harassment, according to reports.",
+            "link": "https://www.dr.dk/nyheder/seneste/moske-i-nordsjaelland-udsat-haervaerk"
         },
         {
-            "title": "Mathias Gidsel Swims Across the Little Belt Today",
-            "summary": "Mathias Gidsel, a Danish athlete, has successfully swum across the Little Belt, a significant achievement in the world of long-distance swimming.",
-            "link": "https://www.dr.dk/nyheder/seneste/mathias-gidsel-svoemmer-over-lillebaelt-i-dag"
+            "title": "4,000 confirmed infected with Ebola in DR Congo",
+            "summary": "The number of confirmed Ebola cases in the Democratic Republic of Congo has risen to 4,000, according to reports.",
+            "link": "https://www.dr.dk/nyheder/seneste/4-000-er-bekraeftet-smittet-med-ebola-i-dr-congo"
         },
         {
-            "title": "Festival in Gladsaxe: The Capital's Light Rail Opens on August 22nd",
-            "summary": "The city of Gladsaxe in Denmark is set to host a major festival, coinciding with the opening of the capital's new light rail system.",
-            "link": "https://www.dr.dk/nyheder/seneste/folkefest-i-gladsaxe-hovedstadens-letbane-aabner-d-22-august"
+            "title": "Government to allocate 20 million to children in daycare",
+            "summary": "The government plans to allocate 20 million kroner to children in daycare, according to reports.",
+            "link": "https://www.dr.dk/nyheder/seneste/regeringen-vil-afsaette-20-millioner-til-boerneboeger-i-dagtilbud"
         },
         {
-            "title": "US Approves Influenza Vaccine with Coronavirus Technology",
-            "summary": "The US has given the green light to a new influenza vaccine that utilizes coronavirus technology, a significant breakthrough in the fight against infectious diseases.",
-            "link": "https://www.dr.dk/nyheder/seneste/usa-godkender-influenzavaccine-med-coronateknologi"
+            "title": "Trump reaches agreement with offshore wind turbine producers",
+            "summary": "US President Donald Trump has reached an agreement with offshore wind turbine producers, according to reports.",
+            "link": "https://www.dr.dk/nyheder/seneste/trump-indgaar-forlig-med-havvindmoelleproducenter"
         },
         {
-            "title": "From Today, First Insiders in SpaceX Can Sell Their Shares",
-            "summary": "The first insiders in SpaceX are now able to sell their shares, marking a significant milestone in the company's history and potentially leading to a windfall for early investors.",
-            "link": "https://www.dr.dk/nyheder/seneste/fra-i-dag-kan-de-foerste-insidere-i-spacex-saelge-deres-aktier"
+            "title": "At least six dead in Thai school shooting",
+            "summary": "At least six people have been killed in a school shooting in Thailand, according to reports.",
+            "link": "https://www.dr.dk/nyheder/seneste/en-doed-og-flere-saaret-i-thailandsk-skoleskyderi"
         }
     ],
     "greece": [
         {
-            "title": "Θεσσαλονίκη: Έκρυβε στο πλυντήριο 910 γραμμάρια ηρωινης- Μια σύλληψη",
-            "summary": "Από αστυνομικούς του Τμήματος Δάιξης Ναρκωτικώλον της Υποδιεύθυνσης Οργανωμένου Εγκλήματος Βορείου Ελλάδος, συνελήφθη χπες (5/8) το μεσημέρι μια 46χρονη, σε περιοχή της Θεσσαλονίκης, η οπο",
-            "link": "https://www.ertnews.gr/ert3/thessaloniki-ekryve-sto-plyntirio-910-grammaria-iroinis-mia-syllipsi/"
+            "title": "Ο Πούτιν ενδέχεται να δοκιμάσει τη συνοχή του ΝΑΤΟ με περιορισμένη επίθεση",
+            "summary": "Οι αμερικανικές υπηρεσίες πληροφοριών εκτιμούν ότι ο Ρώσος πρόεδρος Βλαντίμιρ Πούτιν ενδέχεται να επιδιώξει τα επόμενα χρόνια να δοκιμάσει τη συνοχή του ΝΑΤΟ πραγματοποιώντας μια περιορισμένη επίθεση",
+            "link": "https://www.ertnews.gr/eidiseis/wsj-o-poutin-endexetai-na-dokimasei-ti-synoxi-tou-nato-me-periorismeni-epithesi-ektimoun-oi-amerikanikes-ypiresies-pliroforion/"
         },
         {
-            "title": "Δένδιας για τα ώι χρόνια από την υπογραφή της Συμφωνίας Οριοθέτησης ΑΟΖ με την Αίυπτο",
-            "summary": "«Έξι χρόνια από την υπογραφή της Συμφωνίας Οριοθέτησης ΑΟΖ με την Αίυπτο, την οποία εάχα την τιμή να υπογράψω ως Υπουργός Εξωτερικών, με τον τότε ομόλογό μου Σάμεχ Σούκρι",
-            "link": "https://www.ertnews.gr/eidiseis/dendias-gia-ta-eksi-xronia-apo-tin-ypografi-tis-symfonias-oriothetisis-aoz-me-tin-aigypto-katoxyrosame-to-ethniko-symferon/"
+            "title": "Ρωσία: Οι Έλληνες του Γκελεντζίκ τίμησαν τα 190 χρόνια της Καμπαρντίνκα",
+            "summary": "Η ελληνική κοινότητα παρουσίασε την ιστορία και τις παραδόσεις της στο παραθαλάσσιο χωριό του Εύξεινου Πόντου, όπου ελληνικές οικογένειες εγκαταστάθηκαν τον 19ο αιώνα.",
+            "link": "https://www.ertnews.gr/omogeneia/rosia-oi-ellines-tou-gkelentzik-timisan-ta-190-xronia-tis-kamparntinka/"
         }
     ],
     "sports": [
         {
-            "title": "Μανού Γκαρθία: Πόσο πιθανό είναι το σενάριο επιστροφής του στον Άρη;",
-            "summary": "Ο Μανού Γκαρθία παραμένει ο μεσαλύτερος μεταγραφιός στόχος του Άρη αλλά οι ετήσιες απολαβές του Ισπανού στην Κάνσας Σίτι ανέρχονται στα 2.42 εκατ.",
-            "link": "https://www.gazzetta.gr/football/superleague/2559418/manoy-gkarthia-poso-pithano-einai-senario-epistrofis-toy-ston-ari"
+            "title": "ΠΑΟΚ - Άντερλεχτ: Οι πιθανότητες πρόκρισης μετά το 0-1 το Τούμπας",
+            "summary": "Οι πιθανότητες που δίνει το Football Meets Data στον ΠΑΟΚ για πρόκριση, μετά την εντός έδρας ήττα (0-1) από την Άντερλεχτ.",
+            "link": "https://www.gazzetta.gr/football/europa-league/2559640/paok-anterleht-oi-pithanotites-prokrisis-meta-0-1-tis-toympas"
         },
         {
-            "title": "Δύο σημεία στιλης που μπορεί να αποτελούν ένδειμη ότι ένα κείμενο είναι γραμμένο από AI",
-            "summary": "Μαφιόζος, αρχηης του καρτέλ Χαλίσκο, φέρεται να είναι ο δολοφόνος της 23χρονης infuencer που δολοφονήθηκε σε live μετάδοση.",
-            "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin"
+            "title": "Ποκουσέφσκι: Ανακοινώθηκε από την Λοκομοτίβ Κουμπάν",
+            "summary": "Η Λοκομοτίβ Κουμπάν ανακοίνωσε την απόκτηση του Αλεξέι Ποκούσεφσκι, με τον Σέρβο φόςγουορντ να συνεχίζει την καριέρα του στη Ρωσία.",
+            "link": "https://www.gazzetta.gr/basketball/vtb-league/2559639/pokoysefski-anakoinothike-apo-tin-lokomotib-koympan"
         },
         {
-            "title": "ΜακΙντάιρ: Ευχήθηκε χρόνια πολλά στον Βεζένκοβ",
-            "summary": "Ο Κόντι Μίλερ-ΜακΙντάιρ ευχήθηκε στον Σάσα Βεζένκοβ, με αφορμή τα γενέθλιά του.",
-            "link": "https://www.gazzetta.gr/basketball/euroleague/2559416/makintair-eyhithike-hronia-polla-ston-bezenkob"
+            "title": "Πώς το κινητό επηρεάηει το σώμα μας",
+            "summary": "Η πις το κινητό επηρεάηει το σώμα μας",
+            "link": "https://www.gazzetta.gr/plus/2559635/pos-kinito-epireazei-soma-mas"
         }
     ],
     "tv_program": [
-        {
-            "time": "12:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
-            "title": "12:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "14:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Nova Sports 1",
-            "title": "14:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Nova Sports 1",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
         {
             "time": "16:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
@@ -149,11 +133,27 @@
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
+            "time": "19:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 2",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 2",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
             "time": "20:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ANT1+",
-            "title": "20:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ANT1+",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 3",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 3",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "21:00",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 4",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 4",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
