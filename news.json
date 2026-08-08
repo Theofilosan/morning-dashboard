@@ -1,118 +1,108 @@
 {
     "weather": {
-        "temp": "16.1°C - Μερική συννεφιά (Όχι βροχή)",
-        "condition": "Μερική συννεφιά",
+        "temp": "15.2°C - Συννεφιά (Όχι βροχή)",
+        "condition": "Συννεφιά",
         "rain_alert": "Όχι βροχή",
-        "combined": "16.1°C - Μερική συννεφιά (Όχι βροχή)"
+        "combined": "15.2°C - Συννεφιά (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "Meta fined $567m in largest child safety ruling against social media giant",
-            "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+            "title": "Child among three killed in Russian missile attacks near Kyiv",
+            "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+            "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-            "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-            "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
+            "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+            "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+            "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-            "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
+            "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+            "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+            "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-            "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
-            "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss"
+            "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+            "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+            "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-            "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-            "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss"
+            "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+            "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
+            "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-            "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
-            "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/"
+            "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+            "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+            "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
         },
         {
-            "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-            "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-            "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"
+            "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+            "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+            "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"
         },
         {
-            "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-            "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Fr",
-            "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/"
+            "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+            "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+            "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/"
         },
         {
-            "title": "Vogue just gave another nod of approval to the tech world",
-            "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-            "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/"
+            "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+            "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
+            "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
         },
         {
-            "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-            "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-            "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+            "title": "OpenAI says it slowed Astra model development over security concerns",
+            "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
+            "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
         }
     ],
     "denmark": [
         {
-            "title": "Mosque in North Jutland exposed to harassment",
-            "summary": "A mosque in North Jutland has been exposed to harassment, according to reports.",
-            "link": "https://www.dr.dk/nyheder/seneste/moske-i-nordsjaelland-udsat-haervaerk"
+            "title": "Three people killed in attack near Kyiv",
+            "summary": "An attack near Kyiv has resulted in the deaths of three people. The incident is currently under investigation.",
+            "link": "https://www.dr.dk/nyheder/seneste/tre-personer-draebt-i-angreb-ved-kyiv"
         },
         {
-            "title": "4,000 confirmed infected with Ebola in DR Congo",
-            "summary": "The number of confirmed Ebola cases in the Democratic Republic of Congo has risen to 4,000, according to reports.",
-            "link": "https://www.dr.dk/nyheder/seneste/4-000-er-bekraeftet-smittet-med-ebola-i-dr-congo"
+            "title": "Russia's embassy in Germany denies knowledge of drone incident",
+            "summary": "Russia's embassy in Germany has denied any knowledge of a recent drone incident. The embassy has not provided further information.",
+            "link": "https://www.dr.dk/nyheder/seneste/ruslands-ambassade-i-tyskland-afviser-kendskab-til-drone-haendelse"
         },
         {
-            "title": "Government to allocate 20 million to children in daycare",
-            "summary": "The government plans to allocate 20 million kroner to children in daycare, according to reports.",
-            "link": "https://www.dr.dk/nyheder/seneste/regeringen-vil-afsaette-20-millioner-til-boerneboeger-i-dagtilbud"
+            "title": "Spain introduces tightened border control for travelers from Italy",
+            "summary": "Spain has introduced tightened border control measures for travelers arriving from Italy. The new measures aim to strengthen security.",
+            "link": "https://www.dr.dk/nyheder/seneste/spanien-indfoerer-skaerpet-graensekontrol-mod-rejsende-fra-italien"
         },
         {
-            "title": "Trump reaches agreement with offshore wind turbine producers",
-            "summary": "US President Donald Trump has reached an agreement with offshore wind turbine producers, according to reports.",
-            "link": "https://www.dr.dk/nyheder/seneste/trump-indgaar-forlig-med-havvindmoelleproducenter"
+            "title": "Authorities seize 19 tons of tobacco from illegal cigarette factory in Belgium",
+            "summary": "Belgian authorities have seized 19 tons of tobacco from an illegal cigarette factory. The factory was producing counterfeit cigarettes.",
+            "link": "https://www.dr.dk/nyheder/seneste/myndigheder-beslaglaegger-19-ton-tobak-fra-ulovlig-cigaretfabrik-i-belgien"
         },
         {
-            "title": "At least six dead in Thai school shooting",
-            "summary": "At least six people have been killed in a school shooting in Thailand, according to reports.",
-            "link": "https://www.dr.dk/nyheder/seneste/en-doed-og-flere-saaret-i-thailandsk-skoleskyderi"
+            "title": "Denmark's speedway team is ready for the VM final despite a poor start",
+            "summary": "Denmark's speedway team has qualified for the VM final despite a disappointing start to the competition. The team is looking to improve their performance.",
+            "link": "https://www.dr.dk/sporten/seneste-sport/danmarks-speedwayherrer-er-klar-til-vm-finalen-trods-skidt-start"
         }
     ],
     "greece": [
         {
-            "title": "Ο Πούτιν ενδέχεται να δοκιμάσει τη συνοχή του ΝΑΤΟ με περιορισμένη επίθεση",
-            "summary": "Οι αμερικανικές υπηρεσίες πληροφοριών εκτιμούν ότι ο Ρώσος πρόεδρος Βλαντίμιρ Πούτιν ενδέχεται να επιδιώξει τα επόμενα χρόνια να δοκιμάσει τη συνοχή του ΝΑΤΟ πραγματοποιώντας μια περιορισμένη επίθεση",
-            "link": "https://www.ertnews.gr/eidiseis/wsj-o-poutin-endexetai-na-dokimasei-ti-synoxi-tou-nato-me-periorismeni-epithesi-ektimoun-oi-amerikanikes-ypiresies-pliroforion/"
-        },
-        {
-            "title": "Ρωσία: Οι Έλληνες του Γκελεντζίκ τίμησαν τα 190 χρόνια της Καμπαρντίνκα",
-            "summary": "Η ελληνική κοινότητα παρουσίασε την ιστορία και τις παραδόσεις της στο παραθαλάσσιο χωριό του Εύξεινου Πόντου, όπου ελληνικές οικογένειες εγκαταστάθηκαν τον 19ο αιώνα.",
-            "link": "https://www.ertnews.gr/omogeneia/rosia-oi-ellines-tou-gkelentzik-timisan-ta-190-xronia-tis-kamparntinka/"
+            "title": "ΕΑΤ: Νέα ετποςεω στις χρηματοτουσεις – Δάνεια έως 5,5 δισ.",
+            "summary": "Φθηνότερα δάνεια, περισσότες εγγυήσεις και νέα χρηπαλεία για μικρομεσαίες επτά τη διρακείες της Ελληνικής Ανα.",
+            "link": "https://www.ertnews.gr/eidiseis/eat-nea-epoxi-stis-xrimatodotiseis-daneia-eos-5-5-dis-eyro-gia-epixeiriseis-agrotes-kai-noikokyria/"
         }
     ],
     "sports": [
         {
-            "title": "ΠΑΟΚ - Άντερλεχτ: Οι πιθανότητες πρόκρισης μετά το 0-1 το Τούμπας",
-            "summary": "Οι πιθανότητες που δίνει το Football Meets Data στον ΠΑΟΚ για πρόκριση, μετά την εντός έδρας ήττα (0-1) από την Άντερλεχτ.",
-            "link": "https://www.gazzetta.gr/football/europa-league/2559640/paok-anterleht-oi-pithanotites-prokrisis-meta-0-1-tis-toympas"
+            "title": "Μύκονος: Ιταλοί τουριστες έκαναν «κλαμπ» βανάκι transfer - Αντιδράσεις για το ξέφρενο πάρτι (vid)",
+            "summary": "Έντονες αντιδράσεις στα μέσα κοινωνικής δικτύωσης προκάλεσε βωντεο με ομάδα Ιταλών τουριστών που μετέτρεψε βανάκι μεταφοράς στη Μύκονο σε πάρτι.",
+            "link": "https://www.gazzetta.gr/plus/2559851/mykonos-italoi-toyristes-ekanan-klamp-banaki-transfer-antidraseis-gia-xefreno-parti"
         },
         {
-            "title": "Ποκουσέφσκι: Ανακοινώθηκε από την Λοκομοτίβ Κουμπάν",
-            "summary": "Η Λοκομοτίβ Κουμπάν ανακοίνωσε την απόκτηση του Αλεξέι Ποκούσεφσκι, με τον Σέρβο φόςγουορντ να συνεχίζει την καριέρα του στη Ρωσία.",
-            "link": "https://www.gazzetta.gr/basketball/vtb-league/2559639/pokoysefski-anakoinothike-apo-tin-lokomotib-koympan"
-        },
-        {
-            "title": "Πώς το κινητό επηρεάηει το σώμα μας",
-            "summary": "Η πις το κινητό επηρεάηει το σώμα μας",
-            "link": "https://www.gazzetta.gr/plus/2559635/pos-kinito-epireazei-soma-mas"
+            "title": "Λώαπολ: Παώλανει δανεικό τον Αραούχο από την Μπαρτσελόνα",
+            "summary": "Πολύ σημαντική κίληση από τη Λώαπολ που παώλανει δανεικό τον Πλιναλντ Αραούχο από την Μπαρτσελόνα, με τη συμφωνία να έχει και οψιόλ αγοράς.",
+            "link": "https://www.gazzetta.gr/football/premier-league/2559850/liberpoyl-pairnei-daneiko-ton-araoyho-apo-tin-mpartselona"
         }
     ],
     "tv_program": [
@@ -127,33 +117,33 @@
         {
             "time": "18:00",
             "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Nova Sports 1",
+            "channel": "ΣΚΑΪ",
             "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Nova Sports 1",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Nova Sports 2",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Nova Sports 2",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "channel": "Alpha",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
+            "summary": "Κανάλι: Alpha",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Nova Sports 3",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Nova Sports 3",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
+            "channel": "Mega",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
+            "summary": "Κανάλι: Mega",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "Nova Sports 4",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: Nova Sports 4",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
+            "channel": "Open",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
+            "summary": "Κανάλι: Open",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
