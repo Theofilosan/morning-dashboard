@@ -1,108 +1,108 @@
 {
     "weather": {
-        "temp": "15.2°C - Συννεφιά (Όχι βροχή)",
-        "condition": "Συννεφιά",
+        "temp": "16.9°C - Ηλιοφάνεια (Όχι βροχή)",
+        "condition": "Ηλιοφάνεια",
         "rain_alert": "Όχι βροχή",
-        "combined": "15.2°C - Συννεφιά (Όχι βροχή)"
+        "combined": "16.9°C - Ηλιοφάνεια (Όχι βροχή)"
     },
     "world": [
         {
-            "title": "Child among three killed in Russian missile attacks near Kyiv",
-            "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-            "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+            "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+            "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+            "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-            "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-            "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
+            "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+            "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+            "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-            "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-            "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss"
+            "title": "Three men will be executed on the same day as death penalties rise in US",
+            "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+            "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-            "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-            "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
+            "title": "Israeli settlers besieging Palestinian families in West Bank village",
+            "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+            "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-            "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
-            "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+            "title": "Why are 'human fridges' being sold in Japan?",
+            "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
+            "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-            "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-            "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+            "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+            "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+            "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
         },
         {
-            "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-            "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-            "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"
+            "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+            "summary": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+            "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/"
         },
         {
-            "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-            "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-            "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/"
+            "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+            "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+            "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/"
         },
         {
-            "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-            "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
-            "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+            "title": "AI nuclear power firm Fermi finally has a new CEO",
+            "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+            "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/"
         },
         {
-            "title": "OpenAI says it slowed Astra model development over security concerns",
-            "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
-            "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+            "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+            "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+            "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
         }
     ],
     "denmark": [
         {
-            "title": "Three people killed in attack near Kyiv",
-            "summary": "An attack near Kyiv has resulted in the deaths of three people. The incident is currently under investigation.",
-            "link": "https://www.dr.dk/nyheder/seneste/tre-personer-draebt-i-angreb-ved-kyiv"
+            "title": "Zelenskyj: Ukraine lacks the double amount of Patriot missiles",
+            "summary": "Ukrainian President Volodymyr Zelenskyj has stated that Ukraine lacks the double amount of Patriot missiles needed to counter Russian attacks.",
+            "link": "https://www.dr.dk/nyheder/seneste/zelenskyj-ukraine-mangler-det-tidobbelte-antal-patriot-missiler"
         },
         {
-            "title": "Russia's embassy in Germany denies knowledge of drone incident",
-            "summary": "Russia's embassy in Germany has denied any knowledge of a recent drone incident. The embassy has not provided further information.",
-            "link": "https://www.dr.dk/nyheder/seneste/ruslands-ambassade-i-tyskland-afviser-kendskab-til-drone-haendelse"
+            "title": "Almost 500 people are still missing two days after the earthquake in Colombia",
+            "summary": "Rescue efforts are ongoing in Colombia after a devastating earthquake struck the region, leaving almost 500 people missing.",
+            "link": "https://www.dr.dk/nyheder/seneste/doegn-efter-jordskaelvet-i-colombia-er-naesten-500-stadig-savnet"
         },
         {
-            "title": "Spain introduces tightened border control for travelers from Italy",
-            "summary": "Spain has introduced tightened border control measures for travelers arriving from Italy. The new measures aim to strengthen security.",
-            "link": "https://www.dr.dk/nyheder/seneste/spanien-indfoerer-skaerpet-graensekontrol-mod-rejsende-fra-italien"
+            "title": "Trump: Karoline Leavitt steps down as press spokesperson",
+            "summary": "Former US President Donald Trump has announced that Karoline Leavitt will step down as his press spokesperson.",
+            "link": "https://www.dr.dk/nyheder/seneste/trump-karoline-leavitt-fratraeder-som-pressetalsperson"
         },
         {
-            "title": "Authorities seize 19 tons of tobacco from illegal cigarette factory in Belgium",
-            "summary": "Belgian authorities have seized 19 tons of tobacco from an illegal cigarette factory. The factory was producing counterfeit cigarettes.",
-            "link": "https://www.dr.dk/nyheder/seneste/myndigheder-beslaglaegger-19-ton-tobak-fra-ulovlig-cigaretfabrik-i-belgien"
+            "title": "Nature Agency expands opportunities for culling problem deer",
+            "summary": "The Danish Nature Agency has expanded the opportunities for culling problem deer in the country.",
+            "link": "https://www.dr.dk/nyheder/seneste/naturstyrelsen-faar-udvidet-mulighederne-skyde-problemulv"
         },
         {
-            "title": "Denmark's speedway team is ready for the VM final despite a poor start",
-            "summary": "Denmark's speedway team has qualified for the VM final despite a disappointing start to the competition. The team is looking to improve their performance.",
-            "link": "https://www.dr.dk/sporten/seneste-sport/danmarks-speedwayherrer-er-klar-til-vm-finalen-trods-skidt-start"
+            "title": "Death toll rises to 239 after earthquake",
+            "summary": "The death toll from the recent earthquake has risen to 239, with many more injured and missing.",
+            "link": "https://www.dr.dk/nyheder/seneste/doedstallet-stiger-til-239-efter-jordskaelv"
         }
     ],
     "greece": [
         {
-            "title": "ΕΑΤ: Νέα ετποςεω στις χρηματοτουσεις – Δάνεια έως 5,5 δισ.",
-            "summary": "Φθηνότερα δάνεια, περισσότες εγγυήσεις και νέα χρηπαλεία για μικρομεσαίες επτά τη διρακείες της Ελληνικής Ανα.",
-            "link": "https://www.ertnews.gr/eidiseis/eat-nea-epoxi-stis-xrimatodotiseis-daneia-eos-5-5-dis-eyro-gia-epixeiriseis-agrotes-kai-noikokyria/"
+            "title": "Δήμος Ελευθερίος Κορδελιού – Ευόσμος: Σε εξέλις το πρόγραμμα δενδροφυτεύσεων – Πάνω 300 δίντρα και θάμνοι φυτεύσικαν το τελευταίο διάστημα",
+            "summary": "Σε πλήρη εξέλις βρίσκεται το πρόγραμλα δενδροφυτεύσεων του Δήμος Ελευθερίος Κορδελιού – Ευόσμος. Το τελευταίο χρονικό διάστημα η Αντιδημαρχία Πυυλις και Πρασίνου έχει φυτεύσει πυυτερα από",
+            "link": "https://www.ertnews.gr/ert3/dimos-eleytheriou-kordeliou-eyosmou-se-ekseliksi-to-programma-dendrofyteyseon-pano-300-dentra-kai-thamnoi-fyteytikan-to-teleytaio-diastima/"
         }
     ],
     "sports": [
         {
-            "title": "Μύκονος: Ιταλοί τουριστες έκαναν «κλαμπ» βανάκι transfer - Αντιδράσεις για το ξέφρενο πάρτι (vid)",
-            "summary": "Έντονες αντιδράσεις στα μέσα κοινωνικής δικτύωσης προκάλεσε βωντεο με ομάδα Ιταλών τουριστών που μετέτρεψε βανάκι μεταφοράς στη Μύκονο σε πάρτι.",
-            "link": "https://www.gazzetta.gr/plus/2559851/mykonos-italoi-toyristes-ekanan-klamp-banaki-transfer-antidraseis-gia-xefreno-parti"
+            "title": "Ο ΟΦΗ που γεμίζει από παράσημα!",
+            "summary": "Back to back τελικοί, δύο τρόπαιο σε 4 μήνες, Κόντης στον πάγκο, ένα ρόστερ γεμάτο από Ελληνότουλα και... η League Phase έρχεται! Ο Μιχάλης Τσαμπάς γράφει στο Gazzetta θυμάται όλα τα παιχνίδι",
+            "link": "https://www.gazzetta.gr/football/super-cup-elladas/2560953/o-ofi-poy-gemizei-apo-parasima"
         },
         {
-            "title": "Λώαπολ: Παώλανει δανεικό τον Αραούχο από την Μπαρτσελόνα",
-            "summary": "Πολύ σημαντική κίληση από τη Λώαπολ που παώλανει δανεικό τον Πλιναλντ Αραούχο από την Μπαρτσελόνα, με τη συμφωνία να έχει και οψιόλ αγοράς.",
-            "link": "https://www.gazzetta.gr/football/premier-league/2559850/liberpoyl-pairnei-daneiko-ton-araoyho-apo-tin-mpartselona"
+            "title": "Ατλώτικο και Τότεναμ «σφράγισα» το deal των 40 εκατομμυρίων για τον Ρομέρο",
+            "summary": "Παίκτης της Ατλώτικο Μαδρίτης θα πρέπει να θεωρείται ο Κλιστιάν Ροχιμπλάνκος έχουν συμφωνήσει με την Τότεναμ για την παραχώρηση του Αργεντινού αντί 40 εκατ.",
+            "link": "https://www.gazzetta.gr/football/la-liga/2560995/atletiko-kai-totenam-sfragisan-deal-ton-40-ekatommyrion-gia-ton-romero"
         }
     ],
     "tv_program": [
@@ -117,33 +117,33 @@
         {
             "time": "18:00",
             "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "channel": "ΣΚΑΪ",
+            "channel": "Nova Sports 1",
             "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "summary": "Κανάλι: Nova Sports 1",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "19:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "channel": "Alpha",
-            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ιταλία",
-            "summary": "Κανάλι: Alpha",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 2",
+            "title": "19:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 2",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
-            "channel": "Mega",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Βέλγιο - Νορβηγία",
-            "summary": "Κανάλι: Mega",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 3",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 3",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "21:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
-            "channel": "Open",
-            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Δανία - Ουγγαρία",
-            "summary": "Κανάλι: Open",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "Nova Sports 4",
+            "title": "21:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: Nova Sports 4",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
