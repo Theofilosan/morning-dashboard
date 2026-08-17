@@ -1,162 +1,149 @@
 {
     "weather": {
-        "temp": "20.0°C - Συννεφιά (Όχι βροχή)",
+        "temp": "15.0°C - Συννεφιά (Βροχή: 03:00, 04:00, 05:00, 06:00, 07:00, 08:00)",
         "condition": "Συννεφιά",
-        "rain_alert": "Όχι βροχή",
-        "combined": "20.0°C - Συννεφιά (Όχι βροχή)"
+        "rain_alert": "Βροχή: 03:00, 04:00, 05:00, 06:00, 07:00, 08:00",
+        "combined": "15.0°C - Συννεφιά (Βροχή: 03:00, 04:00, 05:00, 06:00, 07:00, 08:00)"
     },
     "world": [
         {
-            "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-            "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-            "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
+            "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+            "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-            "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-            "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss"
+            "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+            "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-            "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-            "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss"
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-            "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
-            "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
+            "title": "Heroes actress Hayden Panettiere dies aged 36",
+            "summary": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
+            "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss"
         },
         {
-            "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-            "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-            "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
+            "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+            "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+            "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "tech": [
         {
-            "title": "Self-driving trucks are officially testing on California highways",
-            "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-            "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/"
+            "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+            "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+            "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
         },
         {
-            "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-            "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-            "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/"
+            "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+            "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+            "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
         },
         {
-            "title": "What we know about the alleged Iranian hacks on US water utilities",
-            "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly c",
-            "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/"
+            "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+            "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+            "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
         },
         {
-            "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-            "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
-            "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/"
+            "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+            "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+            "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
         },
         {
-            "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-            "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-            "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/"
+            "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+            "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+            "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/"
         }
     ],
     "denmark": [
         {
-            "title": "More people reported missing in strong earthquake in Indonesia",
-            "summary": "At least 20 people have been killed in the earthquake so far.",
-            "link": "https://www.dr.dk/nyheder/seneste/personer-meldes-draebt-i-kraftigt-jordskaelv-i-indonesien"
+            "title": "Russian Governor Reports Six Deaths After Ukrainian Missile Strike",
+            "summary": "A Russian governor has reported six deaths following a Ukrainian missile strike. The incident has sparked concerns about the escalating conflict between Russia and Ukraine.",
+            "link": "https://www.dr.dk/nyheder/seneste/russisk-guvernoer-melder-om-seks-draebte-efter-ukrainsk-missilangreb"
         },
         {
-            "title": "E45 closed near Horsens on Saturday - Road Directorate advises to drive in good time",
-            "summary": "Motorists are advised to drive in good time due to the closure of E45 near Horsens on Saturday.",
-            "link": "https://www.dr.dk/nyheder/seneste/e45-spaerres-ved-horsens-loerdag-vejdirektoratet-opfordrer-til-koere-i-god-tid"
+            "title": "Emergency Help is Gathered - Regardless of Physical or Psychological Issues",
+            "summary": "Emergency services are being mobilized to address various problems, whether they are physical or psychological in nature. The initiative aims to provide timely assistance to those in need.",
+            "link": "https://www.dr.dk/nyheder/seneste/akut-hjaelp-samles-uanset-om-problemstillingen-er-fysisk-eller-psykisk"
         },
         {
-            "title": "Professor in British plagiarism case found dead",
-            "summary": "A professor involved in a plagiarism case in the UK has been found dead.",
-            "link": "https://www.dr.dk/nyheder/seneste/professor-i-britisk-plagiatsag-fundet-doed"
+            "title": "Yesterday's Violent Attack in Horsens Was a Stabbing Incident",
+            "summary": "A violent attack that occurred in Horsens yesterday has been identified as a stabbing incident. The incident has raised concerns about public safety in the area.",
+            "link": "https://www.dr.dk/nyheder/seneste/gaarsdagens-voldelige-overfald-i-horsens-var-et-knivstikkeri"
         },
         {
-            "title": "16-year-old stabbed in Roskilde - one arrested",
-            "summary": "A 16-year-old was stabbed in Roskilde, and one person has been arrested in connection with the incident.",
-            "link": "https://www.dr.dk/nyheder/seneste/16-aarig-knivstukket-i-roskilde-en-anholdt"
+            "title": "Actress Hayden Panettiere Has Passed Away",
+            "summary": "Actress Hayden Panettiere has passed away, leaving fans and colleagues to mourn her loss. The news has sparked an outpouring of tributes and condolences on social media.",
+            "link": "https://www.dr.dk/nyheder/seneste/skuespiller-hayden-panettiere-er-doed"
         },
         {
-            "title": "One dead and several injured in natural fire in Croatia",
-            "summary": "One person has been killed and several others injured in a natural fire in Croatia.",
-            "link": "https://www.dr.dk/nyheder/seneste/en-doed-og-flere-kvaestede-under-naturbrand-i-kroatien"
+            "title": "Red-Green Alliance Wants to Ban American Software in Public Institutions",
+            "summary": "The Red-Green Alliance has announced plans to ban American software from public institutions, citing concerns about data security and privacy. The move aims to protect Danish citizens' personal data.",
+            "link": "https://www.dr.dk/nyheder/seneste/enhedslisten-vil-forbyde-amerikansk-software-i-offentlige-institutioner"
         }
     ],
     "greece": [
         {
-            "title": "Τα τροςική καταιγίδα «Λάλα» εκελισσεται σε σπάνια απειλή τυφώνα για τη Χαβάη",
-            "summary": "Σε συναγερμό βρίσκεται η Χαβάη καθώς πλησιάζει ο πρώτος τυφώνας που θα πλήξει το νησί από το 1871. Ήδη, οι μετεωρολόγοι προειδοποιούν ότι οι ισχυρές βροχοπτώσεις αναμένεται να προκαλέσουν πλημμύρες εν",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/h-tropiki-kataigida-lala-ekselissetai-se-spania-apeili-tyfona-gia-ti-xavai/"
-        },
-        {
-            "title": "Κθιτη Κορέα: Ο πρόεδρος Λι ζητεί συνοςαλες με τη Βόρεια Κορέα για αντικατάσταση της ανακωχής με ειρήνη",
-            "link": "https://www.ertnews.gr/eidiseis/diethni/notia-korea-o-proedros-li-zitei-synomilies-me-ti-voreia-korea-gia-antikatastasi-tis-anakoxis-me-eirini/"
-        },
-        {
-            "title": "Καιρός: Σε χαμηλόται επίπεδα η θερμοκρασία – Πού ισχύει απαγορευτικό απόπλου και πότε υποχωρεί το μελτέμι",
-            "link": "https://www.ertnews.gr/eidiseis/kairos-se-xamilotera-epipeda-i-thermokrasia-pou-isxyei-apagoreytiko-apoplou-kai-pote-ypoxorei-to-meltemi/"
+            "title": "Καιρός: Τέλος στα μελτέμια, έρχεται άνος της θυρμοκρας, πού θα φτάσει ο υδράργυρος – Πρόγνωση από την Καταλην ΐ.",
+            "summary": "Σταδιακή άνος της θυρμοκρας τις επόμενες ημέρες, χωρίς ωστόσο να προβλέπονται συνθήκώς καύσωνα, δεάηγνουν τα τελευταία προγνωστικά στους 35-36 βαθμούς κ.",
+            "link": "https://www.ertnews.gr/eidiseis/ellada/kairos-telos-sta-meltemia-erxetai-anodos-tis-thermokrasias-pou-tha-ftasei-o-ydrargyros-prognosi-apo-tin-an-tyraski/"
         }
     ],
     "sports": [
         {
-            "title": "Μπάντιο: «Λιώνει» στην προτονηση ο παωκτης του Παναθηναϊκού (vid)",
-            "summary": "Ο Μπράνκου Μπάντιο προετοιμάζεται ενόψει της νάια σεζόν με τη φανέλα του Παναθηναϊκού κάνοντας σκληρή προτονηση.",
-            "link": "https://www.gazzetta.gr/basketball/euroleague/2561448/mpantio-lionei-stin-proponisi-o-paiktis-toy-panathinaikoy-vid"
+            "title": "Αθλητιώκές μεταδόσεις σήμερα: Το Ηρακλής - Volos Elabet και το ματς της Σάκκαρη με τη Σβιόντεκ",
+            "summary": "Δείτε το πρόγραμμα των αθλητιών μεταδόσεων της ηυμέρας, με το Ηρακλής - Volos Elabet για το Κύπελλο Ελλάδας και τη «μάχη» της Σάκκαρη με την Σβιόντεκ στο τουρνουά του Σινσινάτι",
+            "link": "https://www.gazzetta.gr/football/kypello-elladas/2561842/athlitikes-metadoseis-simera-iraklis-volos-elabet-kai-mats-tis"
         },
         {
-            "title": "EuroBasket U16: Πού θα δείτε Γερμανία - Ελλάδα για τις θυσεις 5-6",
-            "summary": "Δείτε που θα παρακολουθήσετε το παιχνίδι Γερμανία - Ελλάδα για τις θυσεις 5-6 στο EuroBasket U16 (15/08, 13:00).",
-            "link": "https://www.gazzetta.gr/basketball/2561447/eurobasket-u16-poy-tha-deite-germania-ellada-gia-tis-theseis-5-6"
-        },
-        {
-            "title": "Γαμήλια Τούρτα 500 κιλών: Ισπανός ζαχαροπλάστης την έφτιαχνε επί τέσσερις μήνες",
-            "summary": "Η τούρτα παραγγέλθηκε από μια οικογένεια στην Σαουδική Αραβία και ο ζαχαροπλάστης χρειάστηκε συνολικά 5,5 μήνες για την σύλληψη της ιδέας και την δημιουργία.",
-            "link": "https://www.gazzetta.gr/plus/2561057/gamilia-toyrta-500-kilon-ispanos-zaharoplastis-tin-eftiahne-epi-tesseris-mines"
+            "title": "Το πρώτο τροχαίο στην ιστορία της ανθρωπότητας: Πώς ένα όχημα με 6,4 χλμ/ώρα σκότωσε μία γυναίκα",
+            "summary": "Μία ηυμέρα σαν σήμερα, στις 17 Αυγούστου 1896, μία 44χρονη γυναίκα έγινε ο πρώτος άνθρωπος στολν κόσμο που έχασε τη ζωή του από αυτοκίλητο",
+            "link": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin"
         }
     ],
     "tv_program": [
         {
-            "time": "14:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΝΕΤ",
-            "title": "14:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΝΕΤ",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
             "time": "16:00",
             "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΑΝΤ1+",
+            "channel": "ANT1+",
             "title": "16:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΑΝΤ1+",
-            "link": "https://www.sport24.gr/tvprogram/"
-        },
-        {
-            "time": "17:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου",
-            "channel": "ΣΚΑΪ",
-            "title": "17:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου",
-            "summary": "Κανάλι: ΣΚΑΪ",
+            "summary": "Κανάλι: ANT1+",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "18:00",
-            "event": "Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "channel": "ΕΤ1",
-            "title": "18:00 | Φόρμουλα 1: Γκραν Πρι Βαρκελώνης",
-            "summary": "Κανάλι: ΕΤ1",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "channel": "ΣΚΑΪ",
+            "title": "18:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γαλλία - Εσθονία",
+            "summary": "Κανάλι: ΣΚΑΪ",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "19:00",
+            "event": "ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
+            "channel": "ΣΚΑΪ",
+            "title": "19:00 | ΝΒΑ: Λος Άντζελες Λέικερς - Μινεσότα Τίμπεργουλβς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         },
         {
             "time": "20:00",
-            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου",
-            "channel": "ΝΕΤ",
-            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου",
-            "summary": "Κανάλι: ΝΕΤ",
+            "event": "Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ισπανία",
+            "channel": "ANT1+",
+            "title": "20:00 | Ευρωπαϊκό Πρωτάθλημα Ποδοσφαίρου: Γερμανία - Ισπανία",
+            "summary": "Κανάλι: ANT1+",
+            "link": "https://www.sport24.gr/tvprogram/"
+        },
+        {
+            "time": "21:00",
+            "event": "ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "channel": "ΣΚΑΪ",
+            "title": "21:00 | ΝΒΑ: Μπόστον Σέλτικς - Νιου Γιορκ Νικς",
+            "summary": "Κανάλι: ΣΚΑΪ",
             "link": "https://www.sport24.gr/tvprogram/"
         }
     ]
